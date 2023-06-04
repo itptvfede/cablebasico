@@ -1,10 +1,5 @@
 # fedetv
 Tv gratis 
-
-#EXTINF:-1 tvg-id="" tvg-name="prueba" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
-https://rr2---sn-5bxojp5qxjpxojp5-hq1e.googlevideo.com/videoplayback?expire=1685924890&ei=utd8ZJb_I8qRobIPnduEiAo&ip=45.178.0.35&id=0zmkGq1__kw.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=G9&mm=44%2C29&mn=sn-5bxojp5qxjpxojp5-hq1e%2Csn-x1xe7n76&ms=lva%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&initcwndbps=285000&spc=qEK7B5aRwVnaLizwjXc7ntXsgbq2Yyr3Go2rfgbK6w&vprv=1&live=1&hang=1&noclen=1&svpuc=1&mime=audio%2Fmp4&ns=_Kn_a5qLY2A62d8MFzYq2ewN&gir=yes&mt=1685902831&fvip=1&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=tKm21fa3BOhAaw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgbqDslJbOEnIMzPrsRwghdUQEXJ0-B5nOc6eWwDQ70IUCIQDteG0zRBQr9a8IK0ECq_twkliF-JBNk9d0xirsiOmH5Q%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAM-6Mm7gbKCi2ta7S0n2U9q1RGbR8llWLdZECdaAuvNlAiEAnksz_gOfJfTPLZqHK-bD7X8yVGb32yI2eIeCoBOK_60%3D&alr=yes&cpn=6jj1bqI4KstZhJIL&cver=1.20230530.01.00&sq=349&rn=8&rbuf=12935&pot=MmQyY1rEzsqbajJb3nleCDN0qJEnnjAyQFgMsfM9972CEul8RQepZVBa2lQLMkqKr7oEdaxx_E8moyCzHvzERk0KowtOxrNW-3N71TIAi5414Da3hN-p42pCkNFN-FI1AMEfKxqH
-
-
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
