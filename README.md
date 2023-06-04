@@ -42,6 +42,14 @@ https://app.viloud.tv/hls/channel/sep/2ad6766953766fd85cbd8f285c39b560/hi_mid.m3
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQqJFCn/TYC.png" tvg-group="CANALES AGREGADOS", tyc sports
+https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",donar
 https://
 
