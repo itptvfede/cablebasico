@@ -1,10 +1,8 @@
 # fedetv
 Tv gratis 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyCSport.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQqJFCn/TYC.png" tvg-group="CANALES AGREGADOS", TyC Sports 
-https://cdn.cvattv.com.ar/live/c4eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M8mnWDg/wowtv.jpg" group-title="CANALES AGREGADOS",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
