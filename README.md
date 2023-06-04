@@ -45,13 +45,10 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",donar
 https://
 
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQqJFCn/TYC.png" tvg-group="CANALES AGREGADOS", tyc sports
-https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/335.png" tvg-group="CANALES AGREGADOS", HBO Family 
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
 
 
