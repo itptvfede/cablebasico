@@ -3,7 +3,7 @@ Tv gratis
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/335.png" tvg-group="Cine y Series", HBO Family 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DR44r7t/hbofami.png" tvg-group="CANALES AGREGADOS", HBO Family 
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
 
