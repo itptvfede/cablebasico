@@ -2,6 +2,11 @@
 Tv gratis 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyCSport.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQqJFCn/TYC.png" tvg-group="CANALES AGREGADOS", TyC Sports 
+https://cdn.cvattv.com.ar/live/c4eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DR44r7t/hbofami.png" tvg-group="CANALES AGREGADOS", HBO Family 
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
