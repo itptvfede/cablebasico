@@ -31,7 +31,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tvpuar.json
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tXYrYM2/descarga.jpg" group-title="CANALES AGREGADOS",VariedTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wCmmwqF/vary2.png" group-title="CANALES AGREGADOS",VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 
