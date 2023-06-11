@@ -52,9 +52,10 @@ https://app.viloud.tv/hls/channel/sep/7c93a4d243fed7e9693b7c71a552745e/lo_mid.m3
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",PEELI PRUEBA
-https://s1.highstream.tv/hls2/01/07593/cfi246k68v4j_n/index-v1-a1.m3u8?t=AGwgDn8jraSCCl8E7scaT_Y-y_YMNcTHgFFNIQwolIM&s=1686360594&e=43200&f=37965981&i=45.178&sp=0
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NWkFHr/3438.png" tvg-group="CANALES AGREGADOS", Food Network 
+https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",donar
