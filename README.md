@@ -6,6 +6,10 @@ Tv gratis
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQqJFCn/TYC.png" tvg-group="CANALES AGREGADOS", TYC SPORTS OP2
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NWkFHr/3438.png" tvg-group="CANALES AGREGADOS", Food Network 
+https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
@@ -49,11 +53,6 @@ https://app.viloud.tv/hls/channel/sep/7c93a4d243fed7e9693b7c71a552745e/lo_mid.m3
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NWkFHr/3438.png" tvg-group="CANALES AGREGADOS", Food Network 
-https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",donar
