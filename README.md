@@ -8,7 +8,7 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NWkFHr/3438.png" tvg-group="CANALES AGREGADOS", Food Network 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NWkFHr/3438.png" tvg-group="CANALES AGREGADOS", peli prueba 
 https://s1.highstream.tv/hls2/01/07593/cfi246k68v4j_n/index-v1-a1.m3u8?t=vYeik1gb9-jX-OidT-LACNXZ_SP3xozxs3amzbz8LtE&s=1686501656&e=43200&f=37965981&i=45.178&sp=0
 
 
