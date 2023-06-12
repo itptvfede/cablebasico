@@ -1,5 +1,9 @@
 # fedetv
 Tv gratis 
+
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/K7T0s0V/tv-y-tv.png" group-title="CANALES AGREGADOS",TV y TV
+https://stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?WebM3UCL
+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
