@@ -20,7 +20,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Netwo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DR44r7t/hbofami.png" tvg-group="CANALES AGREGADOS", HBO Family 
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Fox_Sports_Premiun_HD.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JFYh5ng/espnP.png" tvg-group="CANALES AGREGADOS", espn premium
@@ -63,7 +62,6 @@ https://usher.ttvnw.net/api/channel/hls/f1lold020.m3u8?acmb=e30%3D&allow_source=
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",donar
 https://
