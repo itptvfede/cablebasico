@@ -9,7 +9,7 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NWkFHr/3438.png" tvg-group="CANALES AGREGADOS", peli prueba 
-http://208.87.241.175:29050/live/cyx_92821284376363068213.ts
+http://208.87.241.175:29050/live/cyx_92821284376363068213.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
