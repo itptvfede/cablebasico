@@ -55,6 +55,9 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 https://app.viloud.tv/hls/channel/sep/8de0779ad8469a9eb3cd6d0ff9a8cc41/lo_mid.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxRkwMQ/cinePLAY.png" tvg-group="CANALES AGREGADOS",cine play2
+https://app.viloud.tv/hls/channel/sep/cda18a69a5ae3fd35ff040e5ca781f2a/lo_mid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bP6xCkX/descarga.jpg" tvg-group="CANALES AGREGADOS",san luis ctv
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/chunklist_w42747847.m3u8
 
