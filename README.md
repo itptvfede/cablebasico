@@ -1,6 +1,10 @@
 # fedetv
 Tv gratis 
 
+#EXTINF:-1 tvg-logo="COMEDIAS SIMPSON MANIA.jpg" group-title="CANALES AGREGADOS",COMEDIA SIPSON MANIA
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_simpson_mania swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/K7T0s0V/tv-y-tv.png" group-title="CANALES AGREGADOS",TV y TV
 https://stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?WebM3UCL
 
