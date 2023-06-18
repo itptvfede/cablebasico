@@ -1,8 +1,10 @@
 # fedetv
 Tv gratis 
 
-#EXTINF:-1 tvg-logo="COMEDIAS SIMPSON MANIA.jpg" group-title="CANALES AGREGADOS",COMEDIA SIPSON MANIA
+
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/K7T0s0V/tv-y-tv.png" group-title="CANALES AGREGADOS",TV y TV
 https://usher.ttvnw.net/api/channel/hls/f1lold020.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=97992&play_session_id=ecb3167a6f06d1d13ed3c761f4fd654e&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=48cb0c71804a5faab44e88c4e75de70c6200932a&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22f1lold020%22%2C%22channel_id%22%3A911071455%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22bc1dd8c21410ef73%22%2C%22expires%22%3A1687054969%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2245.178.0.31%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v2&cdm=wv&player_version=1.20.0
+
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/K7T0s0V/tv-y-tv.png" group-title="CANALES AGREGADOS",TV y TV
 https://stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?WebM3UCL
 
