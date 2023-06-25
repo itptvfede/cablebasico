@@ -60,6 +60,7 @@ https://app.viloud.tv/hls/channel/sep/fddd06eaa00301d931797f17314be9da/lo_mid.m3
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",donar
 
 
