@@ -1,6 +1,11 @@
 # fedetv
 Tv gratis 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TodoNoticias.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jSsKJN/36.png" tvg-group="CANALES AGREGADOS", TN 
+https://cdn.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/K7T0s0V/tv-y-tv.png" group-title="CANALES AGREGADOS",TV y TV
 https://stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?WebM3UCL
 
@@ -35,7 +40,6 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/37CpLWd/fox1sports.png" tvg-group="CANALES AGREGADOS", fox sporst 1 ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
