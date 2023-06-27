@@ -1,6 +1,9 @@
 # fedetv
 Tv gratis 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/zn2C9xA.png" group-title="24/7",Los Simpson Random
+http://tecnotv.xyz/simpson.php
+
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/K7T0s0V/tv-y-tv.png" group-title="CANALES AGREGADOS",TV y TV
 https://stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?WebM3UCL
 
