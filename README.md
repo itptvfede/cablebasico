@@ -1,6 +1,6 @@
 # fedetv
 Tv gratis 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",SIMPSON MANIA MODIFICADO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="24/7",SIMPSON MANIA MODIFICADO
 rtmp://198.255.17.58:1935/live app=live?wZMl24wMfnRngR6ILK3qLbDdUJkKf7xK swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/simpson_mania?viewers=true&watermark=left&autoplay=true live=true playpath=live_simpson_mania
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
@@ -28,7 +28,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tntsportsar.json
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nydv6bM/TYCIN.png" tvg-group="CANALES AGREGADOS",tyc_internacional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
