@@ -1,11 +1,7 @@
 # fedetv
 Tv gratis 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/zn2C9xA.png" group-title="24/7",Los Simpson Random
-http://tecnotv.xyz/simpson.php
-
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/K7T0s0V/tv-y-tv.png" group-title="CANALES AGREGADOS",TV y TV
-https://stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",SIMPSON MANIA MODIFICADO
+rtmp://198.255.17.58:1935/live app=live?wZMl24wMfnRngR6ILK3qLbDdUJkKf7xK swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/simpson_mania?viewers=true&watermark=left&autoplay=true live=true playpath=live_simpson_mania
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
