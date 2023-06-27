@@ -1,9 +1,6 @@
 # fedetv
 Tv gratis 
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS",SIMPSON MANIA MODIFICADO
-rtmp://198.255.17.58:1935/live app=live?wZMl24wMfnRngR6ILK3qLbDdUJkKf7xK swfVfy=http://vaughnlive.tv/4388913741/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/simpson_mania?viewers=true&watermark=left&autoplay=true live=true playpath=live_simpson_mania
-
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
@@ -50,6 +47,9 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxRkwMQ/cinePLAY.png" tvg-group="CANALES AGREGADOS",cine play
 https://app.viloud.tv/hls/channel/sep/b63c52799c826fc7ee7cc750d050cd31/lo_mid.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
