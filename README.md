@@ -49,7 +49,7 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 https://app.viloud.tv/hls/channel/sep/b63c52799c826fc7ee7cc750d050cd31/lo_mid.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+https://dtvott-abc.akamaized.net/dash_live_1225/dash/1225_TN_NOTICIAS-audio_72882_spa=72400-81019974392953.dash
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
