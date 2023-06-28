@@ -55,6 +55,10 @@ https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/4MWt7Gp/images.jpg" group-title="CANALES AGREGADOS",FUTBOL EVENTOS
+https:.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/HqSLN8H/thesimpsons.jpg" group-title="CANALES AGREGADOS",PRUEBA
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CsoFqIJQ2-ixGKI3noQLzra0VpKH7FAWFOlpvvZLT7gkEvih2PNBK-e3Pza2zrv5jzjUhEuT2LbayjR4KpEicBOxf2pSOtt24usl2k-ST_ZxZaLxf9yPh576AKRPEEDnX9ENI7rBXheC8c2YxuEx5OhYwFcUoDnQlwpsZKRLf04RqJTO3F0UyqqiQXy9R1Q1GEMByP8u0ixzeteugHVEKBhD2DIuACVsfpsQgIW9yU5eIOINAq2oT2VpWCpBoSWLh5ZBZqvCmhlrljDAklNn97cT6ZbFjXdH0vrjiYXVkY_sil0Jo1isCvuci4cRvCdNe56qB_yDsq5BONJ6dTy8Q_0nHjRP7nLQoCccyYWf_vPEsF1k5_3E7weDLi0gI63EVL7GuKW2_uisNaFFP-ITA8tYXBmWDmY9AFaWFQZsUT6zeYm8E-S7tho16a9ss4BoV83CaBPO-qhvQ-N2bFD7JIWT0q6DcF5DBQCp7IImoDanXGP7TB88qG9fzBA2NTIy3S4YVvBvzjm02Y-ic_bCo4QZuxu2Y0gMthtwGU5tToLBX4Flg63-6CaibiA6cKQWTj00yTXsRZC14q7AF51qLFaAFelHdYaxTZYAhi8s-iKbe86Ylta4zeZQF9ECH8Mb8PE6emVrNWujyS4dF1pwtZo0tEu3-kYwLf6mE_2S8ZXGA1yNMBkoPe3gTdhDjWFEWoON5mNuKLavg22wqAro7eIJqCc-JAaGxY05Ce47V9f9OspwdVLNgHbFu54sYKEDub_L441tdYcB_Expa7FZDu7daYyF7Otu1BU6nAHJGeBTaOD21lF75da91a52o6wi1g-HKA6tYEb5Rf7RKkvErII-LmoQxnDlOhJRm1NvhsW23uUIMilmKDaKs88ObdlMuUxeDnp_IS-OPonFznbwUpvF3iw7PEjpvI6rsLjB5-zzSH90TlXd-9Nuc4r1GgwZ2S7vlXw9NLUNboYgASoJdXMtZWFzdC0yMPMG.m3u8
 
