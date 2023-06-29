@@ -56,7 +56,7 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/4MWt7Gp/images.jpg" group-title="CANALES AGREGADOS",FUTBOL EVENTOS
-https:.m3u8
+https://webudit.cdnhks.lol/lb/premium91/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/HqSLN8H/thesimpsons.jpg" group-title="CANALES AGREGADOS",PRUEBA
