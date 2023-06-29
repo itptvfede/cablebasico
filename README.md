@@ -59,6 +59,9 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/HqSLN8H/thesimpsons.jpg" group-title="CANALES AGREGADOS",PRUEBA 
+https://usher.ttvnw.net/api/channel/hls/retro_series_90s.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=5001876&play_session_id=1fdb30b45a0405694965800b72bdcb57&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=8ed363de7f6788f0a0c468f48b5009defb5f7b66&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22retro_series_90s%22%2C%22channel_id%22%3A919772661%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22bc1dd8c21410ef73%22%2C%22expires%22%3A1688084176%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Afalse%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2245.178.0.53%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.20.0
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",donar
 
