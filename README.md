@@ -56,11 +56,9 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/4MWt7Gp/images.jpg" group-title="CANALES AGREGADOS",FUTBOL EVENTOS
-https://futbolfullenvivo.nl/stream/stream-91.php
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/HqSLN8H/thesimpsons.jpg" group-title="CANALES AGREGADOS",PRUEBA
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CsoFlw7eI16tJZLEt9OCbXZiahaLZWm4nIae0HkoMh5-g_iWLPMdCmNwTWK4Q6P0HvCX9d5KvVFncf2dn7QIxNwhUFbDs-4rbT9_ROousxMXiuj7susjRfCDsPVMuN3V-C7KgY0NPVuwAxHitrLLuxoKDKXhcurufokipErjQf4A8mNPDpxBRtNWUSqLiyYHEHqpDVRSKVPJ76kBW8uyMKRz_OtHvsyXNEvXujG-FOc4744kFdBjpEnWPuWKXlZxfIfbMgyYXFVQ3q90YmrhZn1a6XIXH8J7pk3ELH5jq6nfvOfzwqH8E72_MZpryYYs3MGWZe154_gwCVSgL2-Dr4KJGoobHscnZC5dAQ5N5wd_IEtIuWTpbhQk7hehlmrt1p-jccoTpDMESLsL5IcIkYF66aFRuhBNbfnFEYFkeHkYeyCngMVqDsdRfMRmhlyOFXWubumx3U62Q8RaZymZMJ04owcxLGeSrXWPQlAi6HW05fYeIUCI0YkHnZwXbPpqBj6G33TeO_2O0OpE7H9ffEI9pb9vJP0SLzHgYI85MbMwwYvn8y-TryRNG7ExA5XOt99jz81BopGK10AGuumTwYwEFqUU91QuhPmbEusVgkPFN72NittsW2ohEYusqGtlmZAkUydS2OhGzes0yBrITJlfvUwJx2Z5_siVrRJ4u0Oqx4a04WqDQXEXMf3uvPqyBZ_LBJyRa20NdoBQMH7hN2WFfuZ6ViLJ4HKHx-mwr70up3d_TcBaQ8DYetGD34mksz3OoVIV3tHizO4dWUSU5q97yKyCAc8nu7f-qhJBBRPSG8XJ7g70EUhW41-9K0rYnx_XhbOPhoMN5jdQ__fgVJ1_kMr4VdBnohn4u1TulwnZin2-A5yzy8g_bTYIvnfFM65y1vH5MlyUx9ldh-2XoPLA8dxUB-Gqbub1ihHT2OuGuZ8Q1FWamcITkyx7GgyCTwab3O1C2lgiKoQgASoJdXMtZWFzdC0yMPQG.m3u8
+ https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",donar
