@@ -46,7 +46,7 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxRkwMQ/cinePLAY.png" tvg-group="CANALES AGREGADOS",cine play
-https://app.viloud.tv/hls/channel/sep/b63c52799c826fc7ee7cc750d050cd31/lo_mid.m3u8
+https://app.viloud.tv/hls/channel/sep/681fcbd59f7cde92f3d5eca820641738/lo_mid.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/fD0rwxr/descarga.jpg" group-title="CANALES AGREGADOS",TN TODO NOTICIAS
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
