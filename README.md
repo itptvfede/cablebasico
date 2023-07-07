@@ -1,6 +1,8 @@
 # fedetv
 Tv gratis 
 
+http://flash.shortgod.com/wadsa/tv1.php?id=2604 #EXTINF:-1,Mex: Bitme SD
+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
