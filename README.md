@@ -1,7 +1,7 @@
 # fedetv
 Tv gratis 
 
- http://flash.shortgod.com/wadsa/tv1.php?id=2586 #EXTINF:-1,*24/7 South Park
+  http://flash.shortgod.com/cacao2023/tv4.php?id=178&f=.m3u8#EXTINF:-1,*24/7 South Park
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
