@@ -1,11 +1,11 @@
 # fedetv
 Tv gratis 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/svWxsWL/telehitmusicaa.png" tvg-group="CANALES AGREGADOS", TELEHIT MUSICA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5zVHLW/telehit.png" tvg-group="CANALES AGREGADOS", TELEHIT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/telehitmusic.json
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/telehit.json
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
+https://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" tvg-group="CANALES AGREGADOS", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
