@@ -1,7 +1,7 @@
 # fedetv
 Tv gratis 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" tvg-group="CANALES AGREGADOS", HISTORY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bbD2GFf/history.png" tvg-group="CANALES AGREGADOS", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/history.json
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
@@ -58,7 +58,6 @@ https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",DONAR
 
