@@ -1,6 +1,8 @@
 # fedetv
 Tv gratis 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zR9DV6M/wowtv.jpg" group-title="PELCULAS AGREGADOS",PELI PRUEBA
+https://i7ly1dgj.sw-cdnstream.com/hls2/01/00545/x1yfzmc3c5hw_n/index-v1-a1.m3u8?t=NoyIMVpMVj-wsHiTnFV8ubfB2Mk3J1kYDLu6qHwVQXU&s=1688912971&e=129600&f=2726772&srv=80hlf7xtzk98&i=0.0&sp=500&p1=80hlf7xtzk98&p2=80hlf7xtzk98
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bbD2GFf/history.png" tvg-group="CANALES AGREGADOS", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
