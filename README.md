@@ -1,12 +1,6 @@
 # fedetv
 Tv gratis 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5zVHLW/telehit.png" tvg-group="CANALES AGREGADOS", TELEHIT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/telehit.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" tvg-group="CANALES AGREGADOS", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/history.json
@@ -56,25 +50,17 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wCmmwqF/vary2.png" group-title="CANALES AGREGADOS",VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PxRkwMQ/cinePLAY.png" tvg-group="CANALES AGREGADOS",cine play
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L1LTMwh/descarga-copia.png" tvg-group="CANALES AGREGADOS",solo peli
 https://app.viloud.tv/hls/channel/sep/b835ae05a2d3e3e1a9cdcd72b7f5a49f/lo_mid.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/fD0rwxr/descarga.jpg" group-title="CANALES AGREGADOS",TN TODO NOTICIAS
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/4MWt7Gp/images.jpg" group-title="CANALES AGREGADOS",FUTBOL 
-https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/HqSLN8H/thesimpsons.jpg" group-title="CANALES AGREGADOS",PRUEBA 
-https://video.fluq5-1.fna.fbcdn.net/hvideo-prn-ldc/_nc_cat-106/_nc_sr_t-4/v/rASddhXztn5uhZLjqwoqjRb_Y3KbLfdVrg4D_5LBq6JKxAw/_nc_ohc-NDfW3MVlLZYAX-vLK2d/live-dash/ID/dash-lp-qd-a/229954526530041_0-14397.m4a?ms=m_C&ccb=2-4&sc_t=1&_nc_sc=1
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",donar
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QX6HwbN/donar-04-15-11-28-22.png" tvg-group="CANALES AGREGADOS",DONAR
 
 
 
