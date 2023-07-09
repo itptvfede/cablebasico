@@ -55,7 +55,7 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L1LTMwh/descarga-copia.png" tvg-group="CANALES AGREGADOS",solo peli
 https://app.viloud.tv/hls/channel/sep/b835ae05a2d3e3e1a9cdcd72b7f5a49f/lo_mid.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/fD0rwxr/descarga.jpg" group-title="CANALES AGREGADOS",TN TODO NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/sJPCfHZ/descarga-1.jpg" group-title="CANALES AGREGADOS",TN TODO NOTICIAS
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
