@@ -4,9 +4,6 @@ Tv gratis
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zR9DV6M/wowtv.jpg" group-title="PELCULAS AGREGADOS",PELI PRUEBA
 <div style="position:relative;padding-bottom:56%;padding-top:20px;height:0;"><IFRAME SRC="https://highstream.tv/embed-xo8il1ynulkt.html" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></IFRAME></div>
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bbD2GFf/history.png" tvg-group="CANALES AGREGADOS", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/history.json
