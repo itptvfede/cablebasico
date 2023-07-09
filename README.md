@@ -1,10 +1,12 @@
 # fedetv
 Tv gratis 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bbD2GFf/history.png" tvg-group="CANALES AGREGADOS", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/history.json
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zR9DV6M/wowtv.jpg" group-title="CANALES AGREGADOS",Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
