@@ -1,7 +1,11 @@
 # fedetv
 Tv gratis 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svWxsWL/telehitmusicaa.png" tvg-group="CANALES AGREGADOS", TELEHIT MUSICA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/telehitmusic.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 
-  http://flash.shortgod.com/cacao2023/tv4.php?id=178&f=.m3u8#EXTINF:-1,*24/7 South Park
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
