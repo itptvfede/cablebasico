@@ -1,5 +1,13 @@
 # fedetv
 Tv gratis 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8zJTN/tooncast.png" tvg-group="CANALES AGREGADOS", TOONCAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vX44PnJ/Imagen-dummy.png" tvg-group="CANALES AGREGADOS", CRONICA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cronicatvar.json
