@@ -1,8 +1,10 @@
 # fedetv
 Tv gratis 
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Zz0LVKT/acs-network.png" group-title="CANALES AGREGADOS",ACS NETWORK TV
-http://tvpremiumhd.club/lista-gratuita/153021/tv/live.php?id=26881
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vX44PnJ/Imagen-dummy.png" tvg-group="CANALES AGREGADOS", CRONICA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cronicatvar.json
+https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bbD2GFf/history.png" tvg-group="CANALES AGREGADOS", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
