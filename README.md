@@ -87,9 +87,8 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FgWNJX6/h2.jpg" tvg-group="CANALES AGREGADOS",History 2 
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
-
-#EXTINF:-1,ESPN http://181.78.8.90:16123/play/ch16 #EXTINF:-1,ESPN2 http://181.78.8.90:16123/play/ch17 #EXTINF:-1,ESPN3 http://181.78.8.90:16123/play/ch18 #EXTINF:-1,ESPN4 http://181.78.8.90:16123/play/ch19 #EXTINF:-1,FOX SPORTS 2 http://181.78.8.90:16123/play/ch20 #EXTINF:-1,FOX SPORTS 3 http://181.78.8.90:16123/play/ch21
-
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/mcS57g9/acs-network.png" group-title="CANALES AGREGADOS",acs network tv
+https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
 
 
 
