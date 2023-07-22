@@ -87,7 +87,7 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FgWNJX6/h2.jpg" tvg-group="CANALES AGREGADOS",History 2 
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/mcS57g9/acs-network.png" group-title="CANALES AGREGADOS",acs network tv
+#EXTINF:-1 tvg-id="" tvg-name="thesimpsons" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",thesimpsons
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
 
 
