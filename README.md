@@ -87,13 +87,8 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FgWNJX6/h2.jpg" tvg-group="CANALES AGREGADOS",History 2 
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
-#EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | COL HD 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/202088 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428068_ico.png" group-title="LOKAL",NET TV
+http://210.210.155.35/uq2663/h/h06/index.m3u8|User-Agent=Lavf/56.15.102
 
 
 
