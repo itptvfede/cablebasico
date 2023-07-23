@@ -95,11 +95,12 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",the simpsons
-https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd192.flv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",the simpsons2
-https://video-edge-f2b4c6.bue01.abs.hls.ttvnw.net/v1/segment/CqsFWmQRGtHjSO_RKruKqVxHzw9Q7KTOkETeRQWWaDBFH9hTAW7CfFIo4EQyx91QeRz3FQ_DkUfFZoeKQUFjyQ3NVHgGwoiVtVJ0lQEHSOVcMhCMUPe-uhVPfbC5njkL9CR8nJGgua7UnhwGCU9n8vsB8G7XvRldGW9PIGxmQSyVIWszARnBFI4QtNnsM4i18xFkCKHdud_lDK-iDlVC2WnOX8MjbYOrsg63ez09MODUAzmUV1bM5NMSvlwanwTzReKlfZo62NjKcJ22_GyQvCLXHnzn4uf45hvw5-zDGzZS1fMSs5gNbPnEOdJlGZLOtyHVwJizWuec4flYztqpxXR6-uttHarwyurjLziagBIHsOlWCpOYaw826e2vC1klmHhUhmUte_gRMgDnqQN-Ikb_K4ISQyznu6E-gnk81fTv38lL05FvDNFJWjgFArFAyB5_Ppr2caRnG0Fu7uFIOtLBjPbmqzGx2LfDgQ5Og349T7yw8chWE7oRso8KWe-ABgUJwpNi1f8l2RznHd_fkiV7QSOUs1QovPZdjYXZ3GHD8tRBD3M3kjMvx2U-L3wlGOUs24ngVqrqyH-876Ncl09hU2HW59__VsH2CVPw10p4tWcpk1n1w1tHfxmdsAkFDe7Ry8Lm-uKfyE5lqDsVWGa0UcA_qsjb3Q368ZHKVatNXlGdfPZ9Bl4PwPeCpV6qc_AstXBOcm6Hu_Yg9mvX3XzaTQuNn9ye1CXyvoYCmA0Xjm55CpNvhEt7sgC7hvBfRyP-NFF7FEtJ3RpAalw2JSdc3B4o2oRDhy8dI0d68-b68Td5sky2KYPl1-CzX6F9AfBohBfp2ju2SKVOrUM2dA2uiD7QP1cdmk5ekFnID0TU0jBULB-YS5EMxp4Z-0Fe9Qcp9QKrdLX9XQwA5J4aDIg5ibLVrftw2FG8diABKgl1cy13ZXN0LTIwjgc.ts
+https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
+
 
 
 
