@@ -1,6 +1,12 @@
 # fedetv
 Tv gratis 
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBLZ9cJ/goutmet.png" tvg-group="CANALES AGREGADOS", El Gourmet 
+https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="futurama_mania" tvg-logo="https://i.ibb.co/C2MNsGT/futurama-mania.jpg" group-title="CANALES AGREGADOS",futurama_mania
 https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
 
