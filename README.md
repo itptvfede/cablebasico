@@ -99,4 +99,4 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",the simpsons2
-https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
+https://vaughn.live/embed/video/futurama_mania
