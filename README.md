@@ -98,9 +98,12 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd192.flv
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",the simpsons2
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJZTFvL/tooncast.png" tvg-group="CANALES AGREGADOS",prueba1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/History_2.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FgWNJX6/h2.jpg" tvg-group="CANALES AGREGADOS",History 2 
 https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
+
+
 
 
 
