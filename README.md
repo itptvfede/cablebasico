@@ -4,6 +4,7 @@ Tv gratis
 #EXTINF:-1 tvg-id="" tvg-name="futurama_mania" tvg-logo="https://i.ibb.co/C2MNsGT/futurama-mania.jpg" group-title="CANALES AGREGADOS",futurama_mania
 https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJZTFvL/tooncast.png" tvg-group="CANALES AGREGADOS",tooncast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
