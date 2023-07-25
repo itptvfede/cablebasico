@@ -93,11 +93,11 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FgWNJX6/h2.jpg" tvg-group="CANALES AGREGADOS",History 2 
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",the simpsons2
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="prueba" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",the simpsons2
+https://linear-fa-p-har3.tv.apple.com/Content/HLS_CBC/Live/channel(mls.ec3.wf_es_14)/02.m3u8
 
 
 
