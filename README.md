@@ -99,9 +99,10 @@ https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PRUEBA" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES EVENTOS",the simpsons2
-https://cdn.tutelehd.sx/live/ST3a8e423f934572e.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="PRUEBA" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES EVENTOS",the simpsons2
+https://ddh1.cdndac.lol/ddh1/premium66/tracks-v1a1/mono.m3u8
 
 
 
