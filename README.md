@@ -100,7 +100,8 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PRUEBA" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES EVENTOS",the simpsons2
-https://m110605-fcdn.mp.lura.live/live/ephemeral/2wVj0zqsYNy65HW2tn2e14foZNvqdk0a/frequency_tudn/1078k/g1XsAwhiEeQ/171431/segment_171431435c.ts?Expires=1690329796&KeyName=cdnkey1&Signature=4tixZFHqALu_yfpyORHAyhydZvg
+https://cdn.tutelehd.sx/live/ST3a8e423f934572e.m3u8
+
 
 
 
