@@ -97,7 +97,8 @@ https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons22" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",the simpsons2
-https://edge-vod03-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon-mp4a_145200_spa=20002-scale=48000-12976713602534.m
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvxzBhR7ByX7OtPn4ArHmyiQ/ts
+
 
 
 
