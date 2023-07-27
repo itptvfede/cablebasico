@@ -32,7 +32,7 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/njL73tQ/food.png" tvg-group="CANALES AGREGADOS",food netword
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjHXxFq/foot.png" tvg-group="CANALES AGREGADOS",food netword
 https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -42,7 +42,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Fox_Sports_Premiun_HD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZKMr0d8/espnP.png" tvg-group="CANALES AGREGADOS",espn premium
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrr0H4/espn-premium.png" tvg-group="CANALES AGREGADOS",espn premium
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy7s114/TNTAR.png" tvg-group="CANALES AGREGADOS",tnt sposts
@@ -55,7 +55,7 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZwhCQC/fox1sports.png" tvg-group="CANALES AGREGADOS",fox sporst 1 ar
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gj4Fj9n/Fox-Sports.png" tvg-group="CANALES AGREGADOS",fox sporst 1 ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports.json
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
@@ -84,7 +84,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DiscoveryHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6xQsZr/discovery-channel-logo-0.png" tvg-group="CANALES AGREGADOS", Discovery Channel 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DkCVM7g/Discovery.png" tvg-group="CANALES AGREGADOS", Discovery Channel 
 https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
