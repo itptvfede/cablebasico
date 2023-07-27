@@ -101,7 +101,6 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 #EXTINF:-1 tvg-name="ARG: TELEFE INTERNACIONAL HD" group-title="LATINO",ARG: TELEFE INTERNACIONAL HD
 http://1tv41.icu:8080/Py5zFZ/363334/164870
 
-
 #EXTINF:-1 tvg-name="ARG: TELEFE INTERNACIONAL HD" group-title="LATINO",ARG: TELEFE INTERNACIONAL HD
 http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROvxzBhR7ByX7OtPn4ArHmyiQ/ts
 
