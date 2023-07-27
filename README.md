@@ -68,13 +68,13 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XCjSchq/vary2.png" group-title="CANALES AGREGADOS",VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tQgZbdk/cineplay.png" tvg-group="CANALES AGREGADOS",cine play
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mhpHxKH/cineplay.png" tvg-group="CANALES AGREGADOS",cine play
 https://app.viloud.tv/hls/channel/6bcc772df12b8a5c6d09aca4d9c6d6c1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/gz9Bx7Q/tn.jpg" group-title="CANALES AGREGADOS",tn todo noticias
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/TvhtgY8/tn.png" group-title="CANALES AGREGADOS",tn todo noticias
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/mcS57g9/acs-network.png" group-title="CANALES AGREGADOS",acs network tv
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/tzpxkPW/acs.png" group-title="CANALES AGREGADOS",acs network tv
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
