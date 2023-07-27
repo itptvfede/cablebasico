@@ -1,4 +1,4 @@
-ddd# fedetv
+d#fedetv
 Tv gratis 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,10 +95,5 @@ https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",the simpsons2
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6xQsZr/discovery-channel-logo-0.png" tvg-group="CANALES AGREGADOS", Discovery Channel 
-https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
-
 
 
