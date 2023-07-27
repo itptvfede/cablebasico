@@ -1,4 +1,4 @@
-dd# fedetv
+ddd# fedetv
 Tv gratis 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -97,8 +97,7 @@ https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons22" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",the simpsons2
-https://tvup-ccs-live.secure2.footprint.net/teennick/audio0_init_r0s64b3e9b9.mp4
-
+https://s4.histats.com/stats/e.php?4748292&@Ab&@R80918&@w
 
 
 
