@@ -95,7 +95,7 @@ https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/qpwgbWn/thesimpsons.jpg" group-title="CANALES AGREGADOS",the simpsons2
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="telefe internacional " tvg-logo="https://i.ibb.co/RBbgH4v/descarga.jpg" group-title="CANALES AGREGADOS",telefe internacional 
+#EXTINF:-1 tvg-id="" tvg-name="telefe internacional"tvg-logo="https://i.ibb.co/RBbgH4v/descarga.jpg"group-title="CANALES AGREGADOS",telefe internacional 
 http://1tv41.icu:8080/Py5zFZ/363334/164870
 
 
