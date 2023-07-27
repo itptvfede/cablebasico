@@ -1,4 +1,4 @@
-d#fedetv
+#fedetv
 Tv gratis 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
