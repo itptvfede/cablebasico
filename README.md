@@ -3,7 +3,7 @@ Tv gratis
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBLZ9cJ/goutmet.png" tvg-group="CANALES AGREGADOS", El Gourmet 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4GSjzG/canalG.png" tvg-group="CANALES AGREGADOS", El Gourmet 
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJZTFvL/tooncast.png" tvg-group="CANALES AGREGADOS",tooncast
