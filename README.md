@@ -92,11 +92,15 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FgWNJX6/h2.jpg" tvg-group="CANALES AGREGADOS",History 2 
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/tD6Jzhr/thesimpsons.jpg"group-title="CANALES AGREGADOS",the simpsons2
+#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/zfjp5ck/the-Simpson.jpg"group-title="CANALES AGREGADOS",the simpsons2
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="telefe internacional"tvg-logo="https://i.ibb.co/RBbgH4v/descarga.jpg"group-title="CANALES AGREGADOS",telefe internacional 
+#EXTINF:-1 tvg-id="" tvg-name="telefe internacional"tvg-logo="https://i.ibb.co/zsKKBjL/telefe2.jpg"group-title="CANALES AGREGADOS",telefe internacional 
 http://1tv41.icu:8080/Py5zFZ/363334/164870
+
+#EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/tC3rkr0/Futurama-mania.jpg"group-title="CANALES AGREGADOS",futurama_mania
+https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
+
 
 
 
