@@ -104,4 +104,4 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS", prueba
-http://nodoxtream.com:8880/live/176a75bf2ba170dd/225ece72a59cc71f/262533.m3u8
+http://nodoxtream.com:8880/live/176a75bf2ba170dd/225ece72a59cc71f/262533.ts
