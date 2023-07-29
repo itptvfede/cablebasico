@@ -104,5 +104,4 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS", prueba
-
 http://68.235.56.43:80/play/mpegts/eyJpdiI6ImFzTk0xN05hSWpPQkdoaEUvVmFBOXc9PSIsInZhbHVlIjoiTjNaSU5hOEYveXpXUnZUbC9LMGRaMzB4OGxCZTRBYWhZQmFCVXBMT0EzMExZZjBuR2Y4cWJrMytBVzkvSC9QL3UrWmovbUU1MVRESnpMVnBQN0hrNWc9PSIsIm1hYyI6IjE4OTMyNTAwOWVlNmY0MDhiNWZjODc1MzYxMTZhOWQ1YWIxZmIzNTg2MzI5ZWIyMWRhNTU3ZDFhYjIzNDE2MDMiLCJ0YWciOiIifQ==/bf7da082-e410-4997-9385-82ff53f2249e.ts?
