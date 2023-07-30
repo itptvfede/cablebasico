@@ -101,7 +101,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 #EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/NsYWLrP/canal13sanluis.jpg"group-title="CANALES AGREGADOS",canal 13 san luis
 https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",futurama_mania
-https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv #EXTINF:-1,24/7 | Malcolm el del Medio ( Temp 1 )
+#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",futurama_mania
+https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 
 
