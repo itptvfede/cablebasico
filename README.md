@@ -75,7 +75,7 @@ https://app.viloud.tv/hls/channel/6bcc772df12b8a5c6d09aca4d9c6d6c1.m3u8
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/jJV9KL6/asc.jpg" group-title="CANALES AGREGADOS",acs network tv
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FOXHD.json
@@ -101,9 +101,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 #EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/NsYWLrP/canal13sanluis.jpg"group-title="CANALES AGREGADOS",canal 13 san luis
 https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ckkWPr1/h2.jpg" tvg-group="CANALES AGREGADOS",futurama_mania
+#EXTINF:-1 tvg-id="" tvg-name="futurama_mania" tvg-logo="https://i.ibb.co/jJV9KL6/asc.jpg" group-title="CANALES AGREGADOS",futurama_mania
 https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
 
 
