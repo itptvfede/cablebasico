@@ -103,3 +103,10 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="netflix" tvg-logo="https://i.ibb.co/KFsV1X1/net3.png"group-title="CANALES AGREGADOS",netflix
 http://nodoxtream.com:8880/live/176a75bf2ba170dd/225ece72a59cc71f/235581.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",the simpsons
+https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
+
+
+
