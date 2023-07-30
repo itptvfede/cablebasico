@@ -103,7 +103,6 @@ https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/History_2.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckkWPr1/h2.jpg" tvg-group="CANALES AGREGADOS",futurama_mania
 https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
 
