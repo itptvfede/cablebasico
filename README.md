@@ -102,5 +102,3 @@ https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",futurama_mania
 https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="love"tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",futurama_mania
-https://ssh101.bozztv.com/ssh101/relaxtv/playlist.m3u8
