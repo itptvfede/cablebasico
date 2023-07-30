@@ -107,3 +107,16 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Theater_HD.json
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1181.png" tvg-group="CANALES AGREGADOS", Discovery Theater 
+https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
+
+
+
+
+
+
+
+
+
