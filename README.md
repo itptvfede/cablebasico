@@ -92,7 +92,6 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckkWPr1/h2.jpg" tvg-group="CANALES AGREGADOS",History 2 
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",the simpsons2
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
@@ -102,5 +101,5 @@ https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",futurama_mania
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="netflix" tvg-logo=" https://i.ibb.co/yqCcs6F/net.png"group-title="CANALES AGREGADOS",netflix
+#EXTINF:-1 tvg-id="" tvg-name="netflix" tvg-logo="https://i.ibb.co/KFsV1X1/net3.png"group-title="CANALES AGREGADOS",netflix
 http://nodoxtream.com:8880/live/176a75bf2ba170dd/225ece72a59cc71f/235581.m3u8
