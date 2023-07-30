@@ -105,3 +105,8 @@ https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",futurama_mania
+curl -X GET -H "User-Agent:BoxBRApksPlayer" -H "Accept:*/*" -H "Range:bytes=0-" -H "Connection:close" -H "Host:nodoxtream.com:8880" -H "Icy-MetaData:1" "http://nodoxtream.com:8880/live/176a75bf2ba170dd/225ece72a59cc71f/235580.m3u8"
