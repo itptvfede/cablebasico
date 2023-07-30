@@ -99,21 +99,12 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 #EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/NsYWLrP/canal13sanluis.jpg"group-title="CANALES AGREGADOS",canal 13 san luis
 https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",futurama_mania
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/History_2.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ckkWPr1/h2.jpg" tvg-group="CANALES AGREGADOS",futurama_mania
 https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",cine
-http://nodoxtream.com:8880/live/176a75bf2ba170dd/225ece72a59cc71f/235580.m3u8
-
-
-EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",futurama_mania
-https://stream-cdn-iad2.vaughnsoft.net/play/live_futurama_mania_.flv
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="novelas"tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS", novelas
-http://nodoxtream.com:8880/live/176a75bf2ba170dd/225ece72a59cc71f/205729.m3u8
