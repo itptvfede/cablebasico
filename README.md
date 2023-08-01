@@ -111,4 +111,4 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.m
 
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",prueba5
-http://149.56.44.10/hls/128_.m3u8
+http://149.56.44.10/hls/128_.ts
