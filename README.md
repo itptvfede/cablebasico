@@ -113,7 +113,4 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.m
 
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",prueba
-http://15.235.9.137:80/auth/X67gKDQItLTARR2OhMf2R-rLdLRHF5CLy5yXukeU1WUTV8BEnxgJX87pdT_GmQEFvsB9JSUe0_Kg4PESHU20NtPq6VpaSBWpxj2RolTFdiQxQI5T5p4i3P1ZTE8I66kylBTBo2UIo56xysdwW0qwMpVxb74ONRZNw9s-1PxASqvcbVARuMz4AAvlMZrgUiWXasprgzn46jvi_JTdHkwgf93H6VAcNz6zMKafB8HW2Cun3kLd7AADg8eP0NWYXhWSk66KS2mhueH5GLu172_rSDBmkN3jDZ8Ymfu_ZaiIsZBuvRB3xcV11we9LAMM_GAT-FpnFyRtVEOXGb97vAgah3tQq-5Putqpun-b3E8yYuzNZO7nUwPi15q6lMAG0bExOBhICIPknOBhHgDoIR9UmZ1Oc7q7Ux4yTXdVqPFitegZ6ZxILKJPzeSF7NzIPzPY1bfm9XvnSXUC9Dd5uyYPpKx2b-qX1QOWKD4rum6zBSPs0Xep3_qrN3NLj5ucuYyl3-014smjNLdulx3I0dZPs2qlzxRNKg4D8TMTRubWY0zwRezL0T56nEvQ0qtUQCj7utF2pwFyZlEo0sw9E2lINdtx-HZbwQP_MeW37QUl-z_4GNkEqrL0FnIOnTu93ok6
-
-
-
+http://149.56.44.10/hls/128_5092.ts
