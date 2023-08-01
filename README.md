@@ -110,7 +110,5 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",prueba
-http://149.56.44.10/hls/128_5092.ts
+http://149.56.44.10/hls/128_.m3u8
