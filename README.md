@@ -1,4 +1,4 @@
-ok9dd#fedetv
+#fedetv
 Tv gratis 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -114,4 +114,4 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SrnFzm5/GCANALDECOSINA.jpg" tvg-group="CANALES AGREGADOS", El Gourmet 
-http://149.56.44.10/hls/129_.m3u8
+https://149.56.44.10/hls/129_.m3u8
