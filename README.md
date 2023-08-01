@@ -110,5 +110,8 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",prueba5
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SrnFzm5/GCANALDECOSINA.jpg" tvg-group="CANALES AGREGADOS", El Gourmet 
 http://149.56.44.10/hls/129_.m3u8
