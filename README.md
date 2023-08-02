@@ -109,5 +109,3 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vsJS3zW/D2.png" tvg-group="CANALES AGREGADOS", Discovery Theater 
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MsWhTd3/VTV.jpg" group-title="CANALES AGREGADOS", señal de prueba12455 
-https://webudit.cdndac.lol/lb/premium149/index.m3u8
