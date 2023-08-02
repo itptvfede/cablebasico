@@ -109,5 +109,5 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vsJS3zW/D2.png" tvg-group="CANALES AGREGADOS", Discovery Theater 
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MsWhTd3/VTV.jpg" group-title="CANALES AGREGADOS", señal de prueba 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MsWhTd3/VTV.jpg" group-title="CANALES AGREGADOS", señal de prueba12 
 https://live-ftc-sa-west-1.media.starott.com/clt2/va01/starplus/event/2023/08/01/River_Plate_ARG_vs_Intern_20230801_1690928104031/ctr-all-complete.m3u8
