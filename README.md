@@ -1,4 +1,4 @@
-yo#fedetv
+#fedetv
 Tv gratis 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -114,4 +114,4 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 
 EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS", Canal de prueba3
-http://154.47.26.50:32211/live/cyx_1695358190132636842.ts
+ http://38.154.242.139:8119/live/cyx_2310634304810684631.ts
