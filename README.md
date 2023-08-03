@@ -114,5 +114,5 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS", Canal de prueba2 
-https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+https://cyxlivenewslb.hev6hslh.click/slb/v8/live?auth=dValW-qiqSh9XAAaAQELC_CV3ehq8tuBfb7X5-HqD0Xf4dkErntyrWAkazlI68GefbBJxcfUE7xmqj_OFBgqCNro34T4AoSSqW-EnEC0um6jCCMMSoSK7941-Sfok7oob11xoLyqyMpnBru2iK3-Kj4OiuZXRALH0LJ2t4ZVWW-H3gCtL0FUQFwizcNJLTchmfcin1TLhrwNNCY8j5J7-QsKDJ0Zm9p90hlNiZTIaZJUx2n78wOShoBzmICQFAow0B9YZi-dgwDqVj2Pg6d8nZu-iwvRchszlih12eSYHM6xB9vRjAOmrSfIoTQ56zLalFOlgrvY4ZzLiy5dXW2-I_8Qv2EAOF2v41adY-SHCyLXwH1YiWvtpfvj2jtcPyuyFz9nscjEqNqyd21vy3EMTMtk5kCG6aJbJ_YTE_yhMm3hbEaTDjAxh6B1sLvRZCuIQR10rkno_APNhZSMtbcadZ6nC8fa3TpuStc5h5_nuCSaEmGR-LBZ1nfkyGw_M01Cgh-ZPTRLHnPYKSVH8wWHv6ZUMd4XjFZqZAnAEincp9dIDsvZtFUzvWLsuHzhXqgxdhbo9sja91uxisvBzsGlRQRVQ8QCukCbS2yD1MkYKLFT2k3eOrQTByhVbrIFm58nBTsRvDi6_qEXSh99eg6wrc
 
