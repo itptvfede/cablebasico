@@ -113,5 +113,3 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.m
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS", Canal de prueba1
-  https://live-ftc-sa-west-1.media.starott.com/clt2/va01/starplus/event/2023/08/02/Real_Madrid_vs_Juventus_L_20230802_1691011843034/audio-1-128K/128_complete.m3u8
