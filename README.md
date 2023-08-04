@@ -1,4 +1,4 @@
-#fedetv
+la#fedetv
 Tv gratis 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -113,5 +113,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.m
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 
-EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS", Canal de prueba3
- http://38.154.242.139:8119/live/cyx_2310634304810684631.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS", Canal de prueba5
+http://66.150.67.107:12321/live/cyx_2921694528640454676589519949.ts
