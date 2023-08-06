@@ -114,7 +114,7 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d00a8536425163d5274fdf086001e110:7261ce40695be3526cf0e8e224546723
-#EXTINF:-1 tvg-id="223" tvg-name="Zee Tamil HD" group-title="INDIAN7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil 
+#EXTINF:-1 tvg-id="223" tvg-name="Zee Tamil HD" group-title="INDIAN7657" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil 
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 
