@@ -110,7 +110,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS", Canal de prueba 
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
+https://live-ak2.vimeocdn.com/819e328a-3702-4592-8b0d-7034e8543f0a/hdntl=exp=1691458459~acl=%2f*~data=hdntl~hmac=e104d2894c0b7d8f7e2e7a85e84026ba9dbf7414ebab52de658b53b03248b737/chunklist_b728000.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",Canal 23
