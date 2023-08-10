@@ -116,3 +116,5 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_agente_de_familia1.flv
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/NsYWLrP/canal13sanluis.jpg"group-title="CANALES AGREGADOS",sin TV
+https://1118-vos.dtvott.com/DASH/stream_05/1689834732687_init.m4i
