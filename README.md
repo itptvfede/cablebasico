@@ -60,7 +60,6 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/223.png" tvg-group="Deportes", Fox Sports 
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSH01v1/TV-P-BLICA.jpg" tvg-group="CANALES AGREGADOS",tv publica
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tvpuar.json
