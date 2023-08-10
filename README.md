@@ -55,10 +55,6 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/223.png" tvg-group="Deportes", Fox Sports 
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSH01v1/TV-P-BLICA.jpg" tvg-group="CANALES AGREGADOS",tv publica
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -116,5 +112,3 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_agente_de_familia1.flv
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/NsYWLrP/canal13sanluis.jpg"group-title="CANALES AGREGADOS",sin TV
-https://1118-vos.dtvott.com/DASH/stream_05/1689834732687_init.m4i
