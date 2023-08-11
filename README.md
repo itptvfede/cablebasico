@@ -109,6 +109,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.m
 #EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",agente_de_familia1
 https://stream-cdn-iad.vaughnsoft.net/play/live_agente_de_familia1.flv
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS", prueba
+https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/dash/DREAMWORKSHD-video=6344800.dash?bpkout=default
 
