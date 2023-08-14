@@ -109,4 +109,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.m
 #EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",agente_de_familia1
 https://stream-cdn-iad.vaughnsoft.net/play/live_agente_de_familia1.flv
 
+#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",agente_de_familia1
+http://visi4k.site:8080/live/gWjP3cnR2a/nmaakCQTKn/121360.ts
+
 
