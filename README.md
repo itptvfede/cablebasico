@@ -119,4 +119,4 @@ http://visi4k.site:8080/live/gWjP3cnR2a/nmaakCQTKn/3648.ts
 http://visi4k.site:8080/live/gWjP3cnR2a/nmaakCQTKn/727.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS 24/7
-http://visi4k.site:8080/live/gWjP3cnR2a/nmaakCQTKn/17383.ts
+http://visi4k.site:8080/live/gWjP3cnR2a/nmaakCQTKn/17383.m3u8
