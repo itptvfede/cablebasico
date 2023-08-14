@@ -112,4 +112,5 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_agente_de_familia1.flv
 #EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",agente_de_familia1
 http://visi4k.site:8080/live/gWjP3cnR2a/nmaakCQTKn/121360.ts
 
-
+#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS", prueba
+http://visi4k.site:8080/live/gWjP3cnR2a/nmaakCQTKn/3648.ts
