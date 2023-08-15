@@ -108,9 +108,15 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.m
 https://stream-cdn-iad.vaughnsoft.net/play/live_agente_de_familia1.flv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2FFQQFm/CANAL-26.png" tvg-group="CANALES AGREGADOS",canal 26 noticias
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/26_TV_HD.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2FFQQFm/CANAL-26.png" tvg-group="CANALES AGREGADOS", Canal 26 
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Europa_Europa.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j42vLZb/EUROPA.png" tvg-group="CANALES AGREGADOS", EuropaEuropa 
+https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd
+
 
 
 
