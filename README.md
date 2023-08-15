@@ -85,13 +85,13 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/History_2.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ckkWPr1/h2.jpg" tvg-group="CANALES AGREGADOS",History 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wt4Tzhb/HISTORY2.png" tvg-group="CANALES AGREGADOS",History 2 
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/FgXqn4C/the-Simpson.png"group-title="CANALES AGREGADOS",the simpsons2
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/NsYWLrP/canal13sanluis.jpg"group-title="CANALES AGREGADOS",canal 13 san luis
+#EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/gvLdqdK/CANAL-13-SAN-LUIS.jpg"group-title="CANALES AGREGADOS",canal 13 san luis
 https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/SVmXtks/FUTURAMA-MANIA.png"group-title="CANALES AGREGADOS",futurama_mania
