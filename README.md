@@ -55,7 +55,6 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSH01v1/TV-P-BLICA.jpg" tvg-group="CANALES AGREGADOS",tv publica
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tvpuar.json
@@ -67,7 +66,7 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCx1vkR/PLAY-CINE.jpg" tvg-group="CANALES AGREGADOS",cine play
 https://app.viloud.tv/hls/channel/6bcc772df12b8a5c6d09aca4d9c6d6c1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/NCC8b9Y/TN.jpg" group-title="CANALES AGREGADOS",tn todo noticias
+#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/19zGTqF/TN-TODO-NOTICIAS.jpg" group-title="CANALES AGREGADOS",tn todo noticias
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Jvp64w5/ASC-NETWORK.jpg" group-title="CANALES AGREGADOS",acs network tv
