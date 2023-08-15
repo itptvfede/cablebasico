@@ -80,7 +80,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DiscoveryHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YyxxnDc/discovery.png" tvg-group="CANALES AGREGADOS", Discovery Channel 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/brXKSKz/DCHANNEL.jpg" tvg-group="CANALES AGREGADOS", Discovery Channel 
 https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -97,16 +97,15 @@ https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",futurama_mania
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/0Q2xN58/the-Simpson.jpg"group-title="CANALES AGREGADOS",the simpsons
+#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/FgXqn4C/the-Simpson.png"group-title="CANALES AGREGADOS",the simpsons
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd192.flv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Theater_HD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vsJS3zW/D2.png" tvg-group="CANALES AGREGADOS", Discovery Theater 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DwptbdK/D-THEA.png" tvg-group="CANALES AGREGADOS", Discovery Theater 
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ss09k1Z/Futurama.jpg"group-title="CANALES AGREGADOS",agente_de_familia1
+#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ykwNR25/AM-RICA-DAD.jpg"group-title="CANALES AGREGADOS",agente_de_familia1
 https://stream-cdn-iad.vaughnsoft.net/play/live_agente_de_familia1.flv
 
 
