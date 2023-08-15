@@ -70,7 +70,7 @@ https://app.viloud.tv/hls/channel/6bcc772df12b8a5c6d09aca4d9c6d6c1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/NCC8b9Y/TN.jpg" group-title="CANALES AGREGADOS",tn todo noticias
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/jJV9KL6/asc.jpg" group-title="CANALES AGREGADOS",acs network tv
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Jvp64w5/ASC-NETWORK.jpg" group-title="CANALES AGREGADOS",acs network tv
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
