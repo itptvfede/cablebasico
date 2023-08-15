@@ -32,7 +32,7 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K2n4g5Z/food-networt.png" tvg-group="CANALES AGREGADOS",food netword
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V3mDmLQ/food-Network.png" tvg-group="CANALES AGREGADOS",food netword
 https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -106,5 +106,16 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.m
 
 #EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ykwNR25/AM-RICA-DAD.jpg"group-title="CANALES AGREGADOS",agente_de_familia1
 https://stream-cdn-iad.vaughnsoft.net/play/live_agente_de_familia1.flv
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2FFQQFm/CANAL-26.png" tvg-group="CANALES AGREGADOS",canal 26 noticias
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
+
+
+
+
+
+
 
 
