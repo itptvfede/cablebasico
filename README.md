@@ -75,7 +75,7 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FOXHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hynNngC/star-channel.png" tvg-group="CANALES AGREGADOS",Star Channel 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BgL0tLc/start-Channel.png" tvg-group="CANALES AGREGADOS",Star Channel 
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
