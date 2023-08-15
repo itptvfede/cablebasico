@@ -21,13 +21,13 @@ https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/history.json
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cXqGKtf/wowtv.jpg" group-title="CANALES AGREGADOS",wowtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LSqY20t/WOWTV.jpg" group-title="CANALES AGREGADOS",wowtv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMJJTjK/tyc.jpg" tvg-group="CANALES AGREGADOS",tyc sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BgL0tLc/start-Channel.png" tvg-group="CANALES AGREGADOS",tyc sports
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
