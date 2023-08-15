@@ -42,7 +42,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Fox_Sports_Premiun_HD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hTTjjh/espnP.png" tvg-group="CANALES AGREGADOS",espn premium
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4THgmdp/ESPN-PREMIUM.png" tvg-group="CANALES AGREGADOS",espn premium
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wygvLLm/tnt-sports.jpg" tvg-group="CANALES AGREGADOS",tnt sposts
@@ -60,7 +60,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tvpuar.json
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MsWhTd3/VTV.jpg" group-title="CANALES AGREGADOS",VariedTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PDD0QPH/VARIADATV.jpg" group-title="CANALES AGREGADOS",VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCx1vkR/PLAY-CINE.jpg" tvg-group="CANALES AGREGADOS",cine play
