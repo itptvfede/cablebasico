@@ -16,7 +16,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cronicatvar.json
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HdngHBz/history.png" tvg-group="CANALES AGREGADOS",history
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWMbXk6/HISTORY.png" tvg-group="CANALES AGREGADOS",history
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/history.json
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
@@ -37,7 +37,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Netwo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HxBNQfr/hboFamy.png" tvg-group="CANALES AGREGADOS",hbo family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncr81yn/HBO-FAMILY.png" tvg-group="CANALES AGREGADOS",hbo family
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
