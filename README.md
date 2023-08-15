@@ -11,7 +11,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kBR2JL0/cronicatv.jpg" tvg-group="CANALES AGREGADOS",cronicatv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HtPmzGv/CR-NICA-TV.jpg" tvg-group="CANALES AGREGADOS",cronicatv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cronicatvar.json
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
