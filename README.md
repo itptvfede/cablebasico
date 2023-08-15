@@ -64,7 +64,7 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MsWhTd3/VTV.jpg" group-title="CANALES AGREGADOS",VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k4k1kCH/cineplay.png" tvg-group="CANALES AGREGADOS",cine play
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCx1vkR/PLAY-CINE.jpg" tvg-group="CANALES AGREGADOS",cine play
 https://app.viloud.tv/hls/channel/6bcc772df12b8a5c6d09aca4d9c6d6c1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/NCC8b9Y/TN.jpg" group-title="CANALES AGREGADOS",tn todo noticias
