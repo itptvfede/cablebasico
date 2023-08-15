@@ -50,7 +50,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tntsportsar.json
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMJJTjK/tyc.jpg" tvg-group="CANALES AGREGADOS",tyc_internacional
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5sRdZH/TYC-INTERNACIONAL.png" tvg-group="CANALES AGREGADOS",tyc_internacional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
