@@ -125,6 +125,6 @@ http://visi4k.site:8080/live/gWjP3cnR2a/nmaakCQTKn/17383.m3u8
 #EXTINF:-1 group-title= tv"
 http://visi4k.site:8080/gWjP3/cnR2a/nmaakCQTKn/17383
 
-#EXTINF:-1 group-title= tv"
+#EXTINF:-1 group-title= tv3"
 http://visi4k.site:8080/gWjP3cnR2a/nmaakCQTKn/86826
 
