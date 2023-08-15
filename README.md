@@ -3,10 +3,10 @@ Tv gratis
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SrnFzm5/GCANALDECOSINA.jpg" tvg-group="CANALES AGREGADOS", El Gourmet 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nb8jHNV/Gde-Cosina.jpg" tvg-group="CANALES AGREGADOS", El Gourmet 
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7YDZYDq/tooncast.png" tvg-group="CANALES AGREGADOS",tooncast
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDk4CqR/KIDS.jpg" tvg-group="CANALES AGREGADOS",tooncast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
