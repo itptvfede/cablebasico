@@ -118,7 +118,5 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/FgXqn4C/the-Simpson.png"group-title="CANALES AGREGADOS",the simpsons
-http://castlempire.site:8080/UserTest2Octubre_00z/bqCs7jw4KQJa/186853
 
 
