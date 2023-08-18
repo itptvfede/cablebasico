@@ -116,8 +116,15 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j42vLZb/EUROPA.png" tvg-group="CANALES AGREGADOS", EuropaEuropa 
 https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/ykwNR25/AM-RICA-DAD.jpg"group-title="CANALES AGREGADOS",prueba
-https://dtvott-cbc.akamaized.net/dash_live_1144/dash/1144_HGTV-video=884800.dash
+#EXTINF:-1, tvg-logo="https://i.imgur.com/gMggelI.png", group-title="PREMIUM", TNT Mexico
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SlxUhp3Fyf7wy0RTCqcK5Q","kid":"qQyFdAVaVB63ugf/DaILxw"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1226/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+
+
 
 
 
