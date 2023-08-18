@@ -1,6 +1,5 @@
 #fedetv
 Tv gratis 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nb8jHNV/Gde-Cosina.jpg" tvg-group="CANALES AGREGADOS", El Gourmet 
@@ -64,7 +63,7 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCx1vkR/PLAY-CINE.jpg" tvg-group="CANALES AGREGADOS",cine play
-https://app.viloud.tv/hls/channel/6bcc772df12b8a5c6d09aca4d9c6d6c1.m3u8
+https://app.viloud.tv/hls/channel/4dc4731ef59276855963f43ef9380ee4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/19zGTqF/TN-TODO-NOTICIAS.jpg" group-title="CANALES AGREGADOS",tn todo noticias
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
