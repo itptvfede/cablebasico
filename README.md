@@ -125,7 +125,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg" group-title="ANALES AGREGADOS", CINE INFANTIL
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_225affef1b924d43b4279fd196d296ae~mv2.png" group-title="Argentina", CINE.AR
+https://edge-live12-sl.cvattv.com.ar/live/c2live/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
 
 
 
