@@ -122,7 +122,7 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mfg535z/NEOTV.jpg" group-title="CANALES AGREGADOS", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LpHwZJC/XTREMA-CARTOON.jpg" group-title="ANALES AGREGADOS", CINE INFANTIL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LpHwZJC/XTREMA-CARTOON.jpg" group-title="CANALES AGREGADOS", CINE INFANTIL
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
 
