@@ -63,7 +63,8 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rk9S5jh/PLAY-CINE.jpg" tvg-group="CANALES AGREGADOS",cine play
-https://app.viloud.tv/hls/channel/4dc4731ef59276855963f43ef9380ee4.m3u8
+https://app.viloud.tv/hls/channel/8fa0bb3974e2e8947f7d61d7de86b95c.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/GcMQ0yp/TN-NOTICIAS.jpg" group-title="CANALES AGREGADOS",tn todo noticias
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
