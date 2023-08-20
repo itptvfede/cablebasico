@@ -92,7 +92,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 #EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/bNTP8RV/CANAL-13-SAN-LUIS.jpg"group-title="CANALES AGREGADOS",canal 13 san luis
 https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/SVmXtks/FUTURAMA-MANIA.png"group-title="CANALES AGREGADOS",futurama_mania
+#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="[ ](https://i.ibb.co/Z6nMGMk/FUTURAMA.jpg)"group-title="CANALES AGREGADOS",futurama_mania
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/ryPyb6T/THE-SIMPNOS.jpg"group-title="CANALES AGREGADOS",the simpsons
