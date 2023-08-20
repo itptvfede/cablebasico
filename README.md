@@ -126,6 +126,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" tvg-group="DEPORTES", FOX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports.json
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 
 
