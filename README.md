@@ -44,11 +44,6 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6c3X8N/ESPNPREMIUM.png" tvg-group="CANALES AGREGADOS",espn premium
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K9CmfCn/TNT-SPORT.png" tvg-group="CANALES AGREGADOS",tnt sposts
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tntsportsar.json
-http://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRMqvdT/TYC-INTERNACIONAL.png" tvg-group="CANALES AGREGADOS",tyc_internacional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
