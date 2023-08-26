@@ -130,8 +130,7 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvY1ZG0/Retro-2023.png" group-title="CANALES AGREGADOS",EnerGeek Retro3
+http://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 
