@@ -47,7 +47,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K9CmfCn/TNT-SPORT.png" tvg-group="CANALES AGREGADOS",tnt sposts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tntsportsar.json
-https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
+http://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRMqvdT/TYC-INTERNACIONAL.png" tvg-group="CANALES AGREGADOS",tyc_internacional
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -130,7 +130,7 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvY1ZG0/Retro-2023.png" group-title="CANALES AGREGADOS",EnerGeek Retro3
-http://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+
+
 
 
