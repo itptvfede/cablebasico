@@ -125,6 +125,6 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
 
-#EXTINF:-1,TELEMUNDO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvY1ZG0/Retro-2023.png" group-title="CANALES AGREGADOS",EnerGeek Retro666
 http://plexonline.club:25461/live/root/e445xciptv/1123.ts
 
