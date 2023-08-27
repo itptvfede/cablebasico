@@ -124,9 +124,7 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvY1ZG0/Retro-2023.png" group-title="CANALES AGREGADOS",EnerGeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LpHwZJC/XTREMA-CARTOON.jpg" group-title="CANALES AGREGADOS", CINE INFANTIL3
-http://glevideo.com/videoplayback?expire=1693183861&ei=FZvrZLLBA6XQ1sQP45KKsAE&ip=45.178.0.38&id=FESdYTcooX0.1&itag=134&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=EY&mm=44%2C29&mn=sn-5bxojp5qxjpxojp5-hq1e%2Csn-x1xe7n76&ms=lva%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=353750&siu=1&spc=UWF9f6K9uFCFERz1km9Mb0yCgq9ytlLc7CAxQ5rkCzkWxYDxcOVhgCM&vprv=1&live=1&hang=1&noclen=1&svpuc=1&mime=video%2Fmp4&ns=iBsFtnkK3agB-EIZjlpGcdEP&gir=yes&mt=1693161881&fvip=5&keepalive=yes&fexp=24007246%2C24363393&c=WEB_EMBEDDED_PLAYER&n=EXUiCtehMbtHmQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Csiu%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgbla98g8ZhqLrcmg_Fs8j40Pg4m0sdtWyexuRtIqRWtoCIB3E_qEwAAEDat8bi2S--D9Q-8lwbrSAp0kCkMlFyBOH&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgR7nPOkr2fAYtC24HKol0q9AI8EiRH2-YZ3kT02Pr1iICIQCaw94DxAaMLD-WeykXsmy47G80F54b...
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LpHwZJC/XTREMA-CARTOON.jpg" group-title="CANALES AGREGADOS", CINE INFANTIL37
+http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
 
 
