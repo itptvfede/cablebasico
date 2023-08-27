@@ -124,7 +124,7 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvY1ZG0/Retro-2023.png" group-title="CANALES AGREGADOS",EnerGeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LpHwZJC/XTREMA-CARTOON.jpg" group-title="CANALES AGREGADOS", CINE INFANTIL37
-http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
 
+#EXTINF:-1,TELEMUNDO
+http://plexonline.club:25461/live/root/e445xciptv/1123.ts
 
