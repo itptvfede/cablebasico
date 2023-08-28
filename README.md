@@ -124,5 +124,5 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvY1ZG0/Retro-2023.png" group-title="CANALES AGREGADOS",EnerGeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvY1ZG0/Retro-2023.png" group-title="CANALES AGREGADOS",EnerGeek 
+http://45.58.184.118:12321/live/cyx_28F017644771a75b24D477_480p.ts
