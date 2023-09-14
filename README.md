@@ -132,4 +132,13 @@ https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.m
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/C5N.json
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" tvg-group="CANALES AGREGADOS", C5N 
+https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
+
+
+
+
+
 
