@@ -59,7 +59,7 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rk9S5jh/PLAY-CINE.jpg" tvg-group="CANALES AGREGADOS",cine play
-https://app.viloud.tv/hls/channel/6ae1f253c97fd0e03538e3a2ff22509d.m3u8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_cinepeliculaspty.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/GcMQ0yp/TN-NOTICIAS.jpg" group-title="CANALES AGREGADOS",tn todo noticias
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
@@ -83,7 +83,7 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/ryPyb6T/THE-SIMPNOS.jpg"group-title="CANALES AGREGADOS",the simpsons2
-https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd189.flv
+https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/bNTP8RV/CANAL-13-SAN-LUIS.jpg"group-title="CANALES AGREGADOS",canal 13 san luis
 https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
