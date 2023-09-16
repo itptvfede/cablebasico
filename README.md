@@ -83,7 +83,7 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/ryPyb6T/THE-SIMPNOS.jpg"group-title="CANALES AGREGADOS",the simpsons2
-https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/bNTP8RV/CANAL-13-SAN-LUIS.jpg"group-title="CANALES AGREGADOS",canal 13 san luis
 https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
