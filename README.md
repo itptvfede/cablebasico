@@ -59,7 +59,7 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rk9S5jh/PLAY-CINE.jpg" tvg-group="CANALES AGREGADOS",cine play
-https://stream-cdn-iad2.vaughnsoft.net/play/live_medieval_tv_series.flv
+https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_0.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/GcMQ0yp/TN-NOTICIAS.jpg" group-title="CANALES AGREGADOS",tn todo noticias
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
@@ -133,6 +133,19 @@ https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sport
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/C5N.json
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" tvg-group="CANALES AGREGADOS", C5N 
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="CANALES AGREGADOS", America 
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_2.json
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2127.png" tvg-group="CANALES AGREGADOS", HBO 2 
+https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_2A/HBO_2.mpd
+
+
 
 
 
