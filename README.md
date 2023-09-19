@@ -152,3 +152,9 @@ https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/DfW9ckV/AM-RICA-DAY.jpg"group-title="CANALES AGREGADOS",xpeliculas
 https://stream-cdn-iad2.vaughnsoft.net/play/live_xpeliculas.flv
 
+
+#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/DfW9ckV/AM-RICA-DAY.jpg"group-title="CANALES AGREGADOS",vix
+https://dcs3-live.mp.lura.live/server/podserve/0bnenbTDekmrcDy0/manifest.m3u8?ga...ed9&anvauth=tb=0~te=1695167350~sgn=a34a3fe980b71fedcc1a7d9db5349e635616984c8e48cc2d8e11d69ca5af764a&t=1695167260&_vpng=0
+
+
+
