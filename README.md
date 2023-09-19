@@ -149,5 +149,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" tvg-group="CANALES AGREGADOS", FX 
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/DfW9ckV/AM-RICA-DAY.jpg"group-title="CANALES AGREGADOS",xpeliculas
+https://stream-cdn-iad2.vaughnsoft.net/play/live_xpeliculas.flv
 
