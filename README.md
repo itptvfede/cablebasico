@@ -143,7 +143,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_2A/HBO_2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Fox_Sports_Premiun_HD.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3951.png" tvg-group="Deportes", Fox Sports Premium 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3951.png" tvg-group="CANALES AGREGADOS", Fox Sports Premium 
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 
