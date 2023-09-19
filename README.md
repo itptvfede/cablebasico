@@ -140,20 +140,11 @@ https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_2A/HBO_2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Fox_Sports_Premiun_HD.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3951.png" tvg-group="CANALES AGREGADOS", Fox Sports Premium 
-https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FXHD.json
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" tvg-group="CANALES AGREGADOS", FX 
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/DfW9ckV/AM-RICA-DAY.jpg"group-title="CANALES AGREGADOS",xpeliculas
-https://stream-cdn-iad2.vaughnsoft.net/play/live_xpeliculas.flv
-
-
-#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/DfW9ckV/AM-RICA-DAY.jpg"group-title="CANALES AGREGADOS",vix
-Dy0/rendition.m3u8?track=video-2&ts=1695167486&psi=e18dea646e9519e1522cd53523d97828&encp=Q_4SDEGqZ3h7eKQrjiMkkQ:dwUGh_SuUrSjzdkzwBZ3GBOYMR6eOW6PlOsjpyibQY8orzc38EnmPd0kxiYgS0bdaWBNFjouCcC5e77IBqvf506pVALlqLHqwVUx8Xjq__myBOZkxhOln1ASuKFZlfX-2xtPfsDAQwOEsSJr9WBfWMsSI6sUSatJordTiKhVliwwOJy6AP9dV4Z4Tyo6gT6SkdzWsWTjMLmcBtQ5mbY9BVYIQoeTHJaLH2qLuUVTvFnX409IlyDrbbDpzRLrlucsuR9YcRpnRw1P7C4_k1d24BqDfppJSxhThsuYrThqhfIDcPTajeSrlvxJC-OF-koTGrMwkrdfy7P3idnn0UUU6Xwsp8b8MKQyvgBfPlCkeFTPO0qhZYeie4-Ita6l-pt_UDSlqj7BIk45_EvxoSFuFLOMIVVvApfno5BbWbvZMf41tPyARLCLi8Y-OEgsKiDWGdjzp6f2bB8CIlW09DPX6FCe6O9tZeRnewy6dtIF4KBfqbOrZ3Gz5sDFYDjjtbR9cQn3xfonkpj01-0D1xMXx0uppvjHETX2YNgG0k7G1n7-C1rgJDZY-BaNt7gg1NvTht9LbKrnuUISLhsBtI_-EiSeMedaFEKPXyqjT3lvjZ3QzFpylcOSJQmEOD7M9oBR8tE3VnWI_giKBSx-siS4WRam7NiKPYlht8hQPxD79an9tYRoO-PpR75Lpf5AtqFbMvwxREzbQhtWzgBarDyG3soQl79MA6R7QpFGa6ubhLsdZuhmdbaj3MqXwTD_xbw7gfXot_jlEVBPDCJxyr_WNhT4JUPHtm3feZ_uKLkd1prMV-DZUfwoALqDLFCtMI2YcGxgwyeJkka8ANS7...
+https://stream-cdn-iad.vaughnsoft.net/play/live_xpeliculas.flv
 
 
