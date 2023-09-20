@@ -156,5 +156,6 @@ https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/ryPyb6T/THE-SIMPNOS.jpg"group-title="CANALES AGREGADOS",the 
+https://ddh2.webdicdn.lol/ddh2/premium387/playlist.m3u8
 
