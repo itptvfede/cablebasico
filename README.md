@@ -153,5 +153,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H7pG2m0/sony-1.jpg" tvg-group="CANALES AGREGADOS",SONY CHANNEL  
 https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="JUANCINE_TV"tvg-logo="https://i.ibb.co/6NfZr5s/juancine-tv.jpg"group-title="CANALES AGREGADOS",JUANCINE_TV
+https://stream-cdn-iad.vaughnsoft.net/play/live_juancine_tv.flv
 
 
