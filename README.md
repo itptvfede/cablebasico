@@ -50,7 +50,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tvpuar.json
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pwq423n/VariedTV.png" group-title="CANALES AGREGADOS",VARIEDTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jfrdXxs/VariedTV.png" group-title="CANALES AGREGADOS",VARIEDTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWdXmTx/CINEPlay.png" tvg-group="CANALES AGREGADOS",CINE PLAY
