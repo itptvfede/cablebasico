@@ -91,8 +91,8 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jksYvLx/discovery-theater.jpg" tvg-group="CANALES AGREGADOS",DISCOVERY THEATER
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/JvnDrwW/agente-de-familia1.jpg"group-title="CANALES AGREGADOS",PADRE DE FAMILIA
-https://stream-cdn-iad.vaughnsoft.net/play/live_agente_de_familia1.flv
+#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/JvnDrwW/agente-de-familia1.jpg"group-title="CANALES AGREGADOS",PADRE DE FAMILI
+https://stream-cdn-iad.vaughnsoft.net/play/live_padre_de_familia1.flv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/26_TV_HD.json
