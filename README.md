@@ -2,50 +2,50 @@
 Tv gratis 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m6LGNJV/CANAL-DE-COSINA.png" tvg-group="CANALES AGREGADOS", EL GOURMET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qWM19V9/CANAL-DE-COSINA.png" tvg-group="CANALES AGREGADOS",EL GOURMET
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yt6n89c/tooncast.png" tvg-group="CANALES AGREGADOS",TOONCAST
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S31LNqS/tooncast.png" tvg-group="CANALES AGREGADOS",TOONCAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mhNRkJW/cronicatv.png" tvg-group="CANALES AGREGADOS",CRONICATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2PPp0N/cronicatv.png" tvg-group="CANALES AGREGADOS",CRONICATV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cronicatvar.json
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bNg3Vjc/history-channel.png" tvg-group="CANALES AGREGADOS",HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vzGXSwx/history-channel.png" tvg-group="CANALES AGREGADOS",HISTORY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/history.json
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Qkq0SQx/wowtv.png" group-title="CANALES AGREGADOS",WOWTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0p7KGmS/wowtv.png" group-title="CANALES AGREGADOS",WOWTV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4N1SPHC/TYC.png" tvg-group="CANALES AGREGADOS",TYC SPORST
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XP9jLb/TYC.png" tvg-group="CANALES AGREGADOS",TYC SPORST
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2gPHDr6/food-network.jpg" tvg-group="CANALES AGREGADOS",FOOD NETWORD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x1HGfXN/food-network.png" tvg-group="CANALES AGREGADOS",FOOD NETWORD
 https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LtThZWz/hbo-family.png" tvg-group="CANALES AGREGADOS",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bzM8rHK/hbo-family.png" tvg-group="CANALES AGREGADOS",HBO FAMILY
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kgMQ3L4/tyc-internacional.png" tvg-group="CANALES AGREGADOS",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyXr2ff/tyc-internacional.png" tvg-group="CANALES AGREGADOS",
 TYC_INTERNACIONAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHQpfww/TVPUBLICA.png" tvg-group="CANALES AGREGADOS",TV PUBLICA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7J50HpZ/TVPUBLICA.png" tvg-group="CANALES AGREGADOS",TV PUBLICA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tvpuar.json
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
