@@ -156,4 +156,5 @@ https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="JUANCINE_TV"tvg-logo="https://i.ibb.co/6NfZr5s/juancine-tv.jpg"group-title="CANALES AGREGADOS",JUANCINE_TV
 https://stream-cdn-iad.vaughnsoft.net/play/live_juancine_tv.flv
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R007nXq/variedtv.jpg" group-title="CANALES AGREGADOS",tv
+https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
