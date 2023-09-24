@@ -156,14 +156,8 @@ https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="JUANCINE_TV"tvg-logo="https://i.ibb.co/6NfZr5s/juancine-tv.jpg"group-title="CANALES AGREGADOS",JUANCINE_TV
 https://stream-cdn-iad.vaughnsoft.net/play/live_juancine_tv.flv
 
-
 #EXTINF:-1 tvg-id="" tvg-name="PELI2" tvg-logo="https://i.ibb.co/n1bqtpB/cinepeliculaspty.jpg"group-title="CANALES AGREGADOS",PELI2
 https://stream-cdn-iad.vaughnsoft.net/play/live_cinepeliculaspty.flv
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Quiero_HD.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3281.png" tvg-group="CANALES AGREGADOS", Quiero 
-https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
