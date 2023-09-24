@@ -156,6 +156,7 @@ https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="JUANCINE_TV"tvg-logo="https://i.ibb.co/6NfZr5s/juancine-tv.jpg"group-title="CANALES AGREGADOS",JUANCINE_TV
 https://stream-cdn-iad.vaughnsoft.net/play/live_juancine_tv.flv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n1bqtpB/cinepeliculaspty.jpg" group-title="CANALESAGREGADOS",CINEPELICULASPTY
+
+#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/h112ybq/THE-SIMPNOS.jpg "group-title="CANALES AGREGADOS",PELI2
 https://stream-cdn-iad.vaughnsoft.net/play/live_cinepeliculaspty.flv
 
