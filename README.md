@@ -164,3 +164,10 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_cinepeliculaspty.flv
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" tvg-group="CANALES AGREGADOS", TyC Sports Internacional 
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w0BxZDG/CINE.png" tvg-group="CANALES AGREGADOS",CINE PLAY2
+https://app.viloud.tv/hls/channel/2a7fef29a27d8fc156b6e702b6a9aa09.m3u8
+
+
+
+
