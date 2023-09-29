@@ -169,5 +169,9 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 https://app.viloud.tv/hls/channel/2a7fef29a27d8fc156b6e702b6a9aa09.m3u8
 
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="DEPORTES", DIRECTV SPORTS 2
+https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7-mp4a_145200_spa=20000-scale=48000-13246039405321.mp4
+
 
 
