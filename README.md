@@ -45,11 +45,6 @@ TYC_INTERNACIONAL
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BjSnK24/TVPUBLICA.png" tvg-group="CANALES AGREGADOS",TV PUBLICA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tvpuar.json
-https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R007nXq/variedtv.jpg" group-title="CANALES AGREGADOS",VARIEDTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
