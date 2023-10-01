@@ -162,3 +162,13 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w0BxZDG/CINE.png" tvg-group="CANALES AGREGADOS",CINE PLAY2
 https://app.viloud.tv/hls/channel/sep/2a7fef29a27d8fc156b6e702b6a9aa09/lo_mid.m3u8
 
+
+#EXTINF:-1 tvg-id="ParamountNetwork" group-title="MOVIES" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
+http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
+
+
+
+
+
