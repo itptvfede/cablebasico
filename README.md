@@ -163,5 +163,4 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 https://app.viloud.tv/hls/channel/sep/2a7fef29a27d8fc156b6e702b6a9aa09/lo_mid.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w0BxZDG/CINE.png" tvg-group="CANALES AGREGADOS",CINE PLAY2
-http://fplay2.com:8080/live/PRUEBA@830/xMWChZW8MK/13388.ts
+
