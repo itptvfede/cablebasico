@@ -162,5 +162,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w0BxZDG/CINE.png" tvg-group="CANALES AGREGADOS",CINE PLAY2
 https://app.viloud.tv/hls/channel/sep/2a7fef29a27d8fc156b6e702b6a9aa09/lo_mid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w0BxZDG/CINE.png" tvg-group="CANALES AGREGADOS",PRUEBA
+https://e9.ainakwalajeen.com:999/hls/espnpremium.m3u8?md5=5YnAIpVcYepd2-fD5n11hg&expires=1696382401
 
 
