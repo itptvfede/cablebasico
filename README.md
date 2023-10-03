@@ -54,7 +54,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_0.flv
 #EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/jvYmMhT/TN-NOTICIAS.jpg" group-title="CANALES AGREGADOS",TN TODO NOTICIAS
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/t2TtDyz/acs-network-tv.jpg" group-title="CANALES AGREGADOS",ASC NETWORK TV
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/cFnHvXw/ACS.png" group-title="CANALES AGREGADOS",ASC NETWORK TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -86,7 +86,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jksYvLx/discovery-theater.jpg" tvg-group="CANALES AGREGADOS",DISCOVERY THEATER
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/JvnDrwW/agente-de-familia1.jpg"group-title="CANALES AGREGADOS",PADRE DE FAMILI
+#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/Ss2TmXV/AMERICA-DAY.png"group-title="CANALES AGREGADOS",PADRE DE FAMILI
 https://stream-cdn-iad.vaughnsoft.net/play/live_padre_de_familia1.flv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -125,7 +125,7 @@ https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qFthmPB/America.png" tvg-group="CANALES AGREGADOS",AMERICATV ARG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mvK1S9m/AMERICATV-AR.png" tvg-group="CANALES AGREGADOS",AMERICATV ARG
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
