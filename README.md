@@ -162,4 +162,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w0BxZDG/CINE.png" tvg-group="CANALES AGREGADOS",CINE PLAY2
 https://app.viloud.tv/hls/channel/sep/2a7fef29a27d8fc156b6e702b6a9aa09/lo_mid.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Canal7.json
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" tvg-group="CANALES AGREGADOS", 
+https://cdn.cvattv.com.ar/live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
