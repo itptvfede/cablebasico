@@ -39,12 +39,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Netwo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q97jSDB/HBO-FAMILY.png" tvg-group="CANALES AGREGADOS",hbo family
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpvQD3y/TYC-INTERNACIONAL.png" tvg-group="CANALES AGREGADOS",tyc_internacional
-TYC_INTERNACIONAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
-https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R007nXq/variedtv.jpg" group-title="CANALES AGREGADOS",variedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
