@@ -155,4 +155,13 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" tvg-group="CANALES AGREGADOS", TV Publica 
 https://cdn.cvattv.com.ar/live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DiscoveryTurbo.json
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/492.png" tvg-group="CANALES AGREGADOS", Discovery Turbo 
+https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd
+
+
+
+
+
 
