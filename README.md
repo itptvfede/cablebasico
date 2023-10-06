@@ -165,6 +165,10 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Un
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/77.png" tvg-group="CANALES AGREGADOS", Studio Universal 
 https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/NatGeoHD.json
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/164.png" tvg-group="CANALES AGREGADOS", National Geographic 
+https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
 
 
 
