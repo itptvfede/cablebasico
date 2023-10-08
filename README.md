@@ -119,7 +119,7 @@ https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qFthmPB/America.png" tvg-group="ARGENTINA",americatv ARG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5TSgdnw/AMERICATV.png" tvg-group="ARGENTINA",americatv ARG
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
