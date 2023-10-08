@@ -196,6 +196,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discover
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R007nXq/variedtv.jpg" group-title="EVENTO", PRUEBA 
-http://skycastersupports.mine.nu:25461/live/Itzel/JbK6xn2hJy3J/37014.ts
+http://173.208.205.42:25461/live/Itzel/JbK6xn2hJy3J/37014.m3u8?token=HkdQWUBZQAsSBFsGVgJWAAVQCA0PB1xRUVQFDQAEDV9cVw8KBVJSA1ZEFBEQRRZWVQhmUVISAlYABQIMHhJMFQAXZ1FXE1gTBF4KBVATSBFADFRdFAoISRVFWlwQChtVXFYLGh8TB0lEA0pdAl07V1ETUFtTEgILQllfFBBfVzkBAFVZXVVACxJWGh9BWBdDFl9XTVpcFEdVXEdKU0RcRF9HCQsFBEAdEgVXRg1FFkoWXxt5ZBIUR1JNR11cQ1AJC0cCGl4CFwkSShpaEG4WVkcRS11XXV0XFQ8RCBAcGwsEHWdbXF8MVFMSUVwNQkYJFlYbFBRdVwteQVxKbUBQAkdfGgoLAlATTQ==
 
 
