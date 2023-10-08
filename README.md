@@ -196,6 +196,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discover
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R007nXq/variedtv.jpg" group-title="EVENTO", PRUEBA 
-http://23.227.145.10:3980/R3$3202/live/3R1W3$32/38706_1643.m3u8
+http://23.227.145.10:3980/R3$3202/live/3R1W3$32/38706_1643.ts
 
 
