@@ -200,8 +200,5 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/223.png" tvg-group="CANAL AGREGADO", Fox Sports 
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FYDzjt7/XTREMA-CARTOON.jpg" group-title="CANAL AGREGADO",PRUEBA
-mms://streamqm.uigc.net/qmusica
-
 
 
