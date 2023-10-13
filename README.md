@@ -200,5 +200,12 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSpor
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcine.json
 https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="CANAL AGREGADO", ESPN PREMIUM AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/espnpremium.json
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+
+
+
 
 
