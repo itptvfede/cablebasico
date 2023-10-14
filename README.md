@@ -1,5 +1,6 @@
 #fedetv
 Tv gratis 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLKTmbY/CANAL-DE-COSINA.png" tvg-group="CANAL AGREGADO",el gourmet
@@ -190,5 +191,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fY4wCLb/Discovery-Kids.png" tvg-group="CANAL AGREGADO", Discovery Kids 
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Fox_Sports_Premiun_HD.json
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3951.png" tvg-group="CANAL AGREGADO", Fox Sports Premium 
+https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
