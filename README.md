@@ -196,6 +196,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discover
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/84.png" tvg-group="CANAL AGREGADO", America Sports 
 https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnH9fWv/telefe.jpg" group-title="CANAL AGREGADO",telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
 
