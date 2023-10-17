@@ -81,7 +81,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/t24FjBk/agente-de-familia1.jpg"group-title="CANAL AGREGADO",padre_de_familia1
-https://stream-cdn-iad1.vaughnsoft.net/play/live_padre_de_familia1.flv
+https://stream-cdn-iad.vaughnsoft.net/play/live_padre_de_familia1.flv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/26_TV_HD.json
