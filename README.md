@@ -1,6 +1,5 @@
 #fedetv
 Tv gratis 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLKTmbY/CANAL-DE-COSINA.png" tvg-group="CANAL AGREGADO",el gourmet
