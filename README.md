@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tLKTmbY/CANAL-DE-COSINA.png" tvg-group="CANAL AGREGADO",el gourmet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C8wrT8t/CANAL-COSINA.png" tvg-group="CANAL AGREGADO",el gourmet
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4KW8ZYQ/Tooncast.jpg" tvg-group="CANAL AGREGADO",tooncast
@@ -10,7 +10,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zxgd7dH/cronica-hd.png" tvg-group="CANAL AGREGADO",cronicatv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WKLV0r3/CR-NICATV.png" tvg-group="CANAL AGREGADO",cronicatv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cronicatvar.json
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
