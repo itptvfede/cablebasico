@@ -10,36 +10,31 @@ https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WKLV0r3/CR-NICATV.png" tvg-group="CANAL AGREGADO",cronicatv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cronicatvar.json
-https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9yBSr2p/thehistorychannel.jpg" tvg-group="CANAL AGREGADO",history channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frz8BB4/HISTORY.jpg" tvg-group="CANAL AGREGADO",history channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/history.json
 https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M9RqXBG/wowtv.jpg" group-title="CANAL AGREGADO",wowtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k84bkzq/WOWTV.jpg" group-title="CANAL AGREGADO",wowtv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bLNYsp1/TYC.jpg" tvg-group="CANAL AGREGADO",tycsports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fpFrFns/TYC-SPORT.jpg" tvg-group="CANAL AGREGADO",tycsports
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMSGJsH/food-network.png" tvg-group="CANAL AGREGADO",food netword
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBMycWj/FOOD-NETWORK.png" tvg-group="CANAL AGREGADO",food netword
 https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByGhJn6/hbo-family.png" tvg-group="CANAL AGREGADO",hbo family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ns2FMzs/HBO-FAMILY.png" tvg-group="CANAL AGREGADO",hbo family
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TT1ktz/variedTV.jpg" group-title="CANAL AGREGADO",variedTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cYWfYsL/VARIEDAD-TV.jpg" group-title="CANAL AGREGADO",variedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzQ3ZFn/cinemundo-plus.jpg" tvg-group="CANAL AGREGADO",cinemundo
@@ -188,13 +183,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Discovery_Kids.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fY4wCLb/Discovery-Kids.png" tvg-group="CANAL AGREGADO", Discovery Kids 
-https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/America_Sports.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/84.png" tvg-group="CANAL AGREGADO", America Sports 
-https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_
-
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Canal7.json
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" tvg-group="CANAL AGREGADO", TV Publica 
