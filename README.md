@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C8wrT8t/CANAL-COSINA.png" tvg-group="CANAL AGREGADO",el gourmet
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4KW8ZYQ/Tooncast.jpg" tvg-group="CANAL AGREGADO",tooncast
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXCrSqq/TOONCAST.png" tvg-group="CANAL AGREGADO",tooncast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
