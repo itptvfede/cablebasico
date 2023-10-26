@@ -231,11 +231,6 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/dLxpkND/terrorTV.png" group-title="CANAL AGREGADO",terrorTV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/x6xW1QY/la100.png" group-title="CANAL AGREGADO",LA100
-https://24283.live.streamtheworld.com/FM999_56.mp3
-
-
 #EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/GkcG8fy/red-capital-federal.png" group-title="CANAL AGREGADO",LA_RED_AM910
 https://26653.live.streamtheworld.com/LA_RED_AM910_SC
 
