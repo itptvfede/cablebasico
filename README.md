@@ -251,5 +251,13 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_opinionsur.flv
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Plus.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xj3tmsv/HBO-PLUS.png" tvg-group="CANAL AGREGADO", HBO Plus 
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
+
+
+
+
 
 
