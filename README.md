@@ -246,6 +246,10 @@ https://26653.live.streamtheworld.com/LA_RED_AM910_SC
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/M2jDRW5/opinionsur.jpg" group-title="CANAL AGREGADO",opinionsur
+https://stream-cdn-iad.vaughnsoft.net/play/live_opinionsur.flv
+
+
 
 
 
