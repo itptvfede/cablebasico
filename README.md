@@ -257,6 +257,21 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_opinionsur.flv
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/26_TV_HD.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpG8Q2L/CANAL26.png" tvg-group="CANAL AGREGADO", Canal 26 
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Discovery_Kids.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdyHL9T/Discovery-Kids.png" tvg-group="CANAL AGREGADO", Discovery Kids 
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
+
+
+
+
 
 
 
