@@ -1,3 +1,4 @@
+
 #fedetv Tv gratis 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -225,3 +226,9 @@ https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/XLB9hJp/TN-NOTICIAS.jpg" group-title="CANAL AGREGADO",MONITV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
+
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key = https://wv-client.cvattv.com.ar/?deviceId=NmIwYjUwZDNkZWE0N2RjNDM2NzI0MGI5NzQwZjdlZDY=
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png" group-title = "Argentina", Telefe Córdoba
+https://chromecast.cvattv.com.ar/live/c2live/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd
