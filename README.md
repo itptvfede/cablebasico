@@ -240,12 +240,6 @@ https://26653.live.streamtheworld.com/LA_RED_AM910_SC
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zS6G6HW/SPACETV.jpg" tvg-group="CANAL AGREGADO", Space 
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/M2jDRW5/opinionsur.jpg" group-title="CANAL AGREGADO",opinionsur
-https://stream-cdn-iad.vaughnsoft.net/play/live_opinionsur.flv
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Plus.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xj3tmsv/HBO-PLUS.png" tvg-group="CANAL AGREGADO", HBO Plus 
