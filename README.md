@@ -12,7 +12,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HistoryHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6bWpKYb/history-channel.png" tvg-group="CANAL AGREGADO", History 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRF3P4X/history-channel.png" tvg-group="CANAL AGREGADO", History 
 https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5My3qVs/wowtv.jpg" group-title="CANAL AGREGADO",wowtv
