@@ -216,6 +216,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discover
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TKjsm9P/tvpublica.png" tvg-group="CANAL AGREGADO", TV Publica 
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tTpDGM/Fox-Sports.png" tvg-group="CANAL AGREGADO",FOX_SPORTS
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
