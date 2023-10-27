@@ -1,4 +1,3 @@
-
 #fedetv Tv gratis 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -213,7 +212,7 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/M2jDRW5/opinionsur.jpg" group-title="CANAL AGREGADO",opinionsur
-https://stream-cdn-iad2.vaughnsoft.net/play/live_opinionsur.flv
+http://stream-cdn-iad.vaughnsoft.net/play/live_opinionsur.flv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Canal7.json
