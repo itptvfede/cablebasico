@@ -226,6 +226,6 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZgw4Vf/TCM.png" tvg-group="CANAL AGREGADO", TCM 
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ht4FN2j/apk-cine.png" group-title="CANAL AGREGADO",APK CINE
+https://app.viloud.tv/hls/channel/sep/54b755e5f29c5a35cf2bb47227bb5332/lo_mid.m3u8
 
