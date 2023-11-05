@@ -221,6 +221,11 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tTpDGM/Fox-Sports.png" tvg-group="CANAL AGREGADO",FOX_SPORTS
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yhwqvLP/apk-cine.jpg" group-title="CANAL AGREGADO",apk cine
-https://app.viloud.tv/hls/channel/54b755e5f29c5a35cf2bb47227bb5332.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TCM.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZgw4Vf/TCM.png" tvg-group="CANAL AGREGADO", TCM 
+https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
+
+
+
 
