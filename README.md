@@ -164,12 +164,12 @@ https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Cinemax.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2hk8vv/Cinemax.png" tvg-group="CANAL AGREGADO", Cinemax 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2hk8vv/Cinemax.png" tvg-group="CANAL AGREGADO",CINEMAX
 https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TelefeHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nrp0RNQ/telefe.jpg" tvg-group="CANAL AGREGADO", Telefe 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nrp0RNQ/telefe.jpg" tvg-group="CANAL AGREGADO",TELEFE
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -193,17 +193,17 @@ https://26653.live.streamtheworld.com/LA_RED_AM910_SC
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Space.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zS6G6HW/SPACETV.jpg" tvg-group="CANAL AGREGADO", Space 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zS6G6HW/SPACETV.jpg" tvg-group="CANAL AGREGADO",SPACE
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Plus.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xj3tmsv/HBO-PLUS.png" tvg-group="CANAL AGREGADO", HBO Plus 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xj3tmsv/HBO-PLUS.png" tvg-group="CANAL AGREGADO",HBOPLUS
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/26_TV_HD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NpG8Q2L/CANAL26.png" tvg-group="CANAL AGREGADO", Canal 26 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpG8Q2L/CANAL26.png" tvg-group="CANAL AGREGADO",CANAL 26 NOTICIAS
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -213,7 +213,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discover
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Canal7.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TKjsm9P/tvpublica.png" tvg-group="CANAL AGREGADO", TV Publica 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKjsm9P/tvpublica.png" tvg-group="CANAL AGREGADO",TV-PUBLICA
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -223,11 +223,10 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TCM.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZgw4Vf/TCM.png" tvg-group="CANAL AGREGADO", TCM 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZgw4Vf/TCM.png" tvg-group="CANAL AGREGADO",TCM 
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ncfQf3X/NEOTV.jpg" group-title="CANAL AGREGADO",SEOTV-PELICULAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X82vctg/SEOPELITV.jpg" group-title="CANAL AGREGADO",SEOTV-PELICULAS
 https://live.seo.tv.bo/live/SEO_4.m3u8
 
 
