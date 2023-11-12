@@ -227,3 +227,10 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncfQf3X/NEOTV.jpg" group-title="CANAL AGREGADO",SEO TV 4 PELICULAS
+https://live.seo.tv.bo/live/SEO_4.m3u8
+
+
+
+
+
