@@ -2,26 +2,26 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmdd7Dw/el-gourmet.png" tvg-group="CANAL AGREGADO",CANAL 01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmdd7Dw/el-gourmet.png" tvg-group="CANAL AGREGADO",Gourmet
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQzwST0/Tooncast.jpg" tvg-group="CANAL AGREGADO",CANAL 02
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQzwST0/Tooncast.jpg" tvg-group="CANAL AGREGADO",Tooncast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HistoryHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRF3P4X/history-channel.png" tvg-group="CANAL AGREGADO", CANAL 03
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRF3P4X/history-channel.png" tvg-group="CANAL AGREGADO",HistoryHD
 https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5My3qVs/wowtv.jpg" group-title="CANAL AGREGADO",CANAL 04
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5My3qVs/wowtv.jpg" group-title="CANAL AGREGADO",wowtv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2ZK8L7K/TYC.jpg" tvg-group="CANAL AGREGADO",CANAL 05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ZK8L7K/TYC.jpg" tvg-group="CANAL AGREGADO",TyC_HD
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -226,10 +226,9 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZgw4Vf/TCM.png" tvg-group="CANAL AGREGADO",TCM 
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X82vctg/SEOPELITV.jpg" group-title="CANAL AGREGADO",CANAL 43
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X82vctg/SEOPELITV.jpg" group-title="CANAL AGREGADO",SEO_4
 https://live.seo.tv.bo/live/SEO_4.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ht4FN2j/apk-cine.png" group-title="CANAL AGREGADO",44
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ht4FN2j/apk-cine.png" group-title="CANAL AGREGADO",cineplay
 https://app.viloud.tv/hls/channel/sep/4a5c44f00d48788481467a82c11e84ff/lo_mid.m3u8
 
