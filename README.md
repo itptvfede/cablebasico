@@ -229,6 +229,3 @@ https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X82vctg/SEOPELITV.jpg" group-title="CANAL AGREGADO",SEO_4
 https://live.seo.tv.bo/live/SEO_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ht4FN2j/apk-cine.png" group-title="CANAL AGREGADO",cineplay
-https://app.viloud.tv/hls/channel/sep/4a5c44f00d48788481467a82c11e84ff/lo_mid.m3u8
-
