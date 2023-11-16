@@ -211,10 +211,12 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdyHL9T/Discovery-Kids.png" tvg-group="CANAL AGREGADO", Discovery Kids 
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Canal7.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TKjsm9P/tvpublica.png" tvg-group="CANAL AGREGADO",TV-PUBLICA
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports.json
@@ -225,6 +227,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TCM.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZgw4Vf/TCM.png" tvg-group="CANAL AGREGADO",TCM 
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X82vctg/SEOPELITV.jpg" group-title="CANAL AGREGADO",SEO_4
 https://live.seo.tv.bo/live/SEO_4.m3u8
