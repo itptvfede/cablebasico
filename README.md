@@ -217,7 +217,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discover
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TKjsm9P/tvpublica.png" tvg-group="CANAL AGREGADO",TV-PUBLICA
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tTpDGM/Fox-Sports.png" tvg-group="CANAL AGREGADO",FOX_SPORTS
@@ -231,4 +230,14 @@ https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X82vctg/SEOPELITV.jpg" group-title="CANAL AGREGADO",SEO_4
 https://live.seo.tv.bo/live/SEO_4.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Eurochannel.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KqTkxKW/descarga.png" tvg-group="CANAL AGREGADO", Eurochannel 
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/Eurochannel.mpd
+
+
+
+
 
