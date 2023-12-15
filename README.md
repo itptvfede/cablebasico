@@ -227,10 +227,8 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZgw4Vf/TCM.png" tvg-group="CANAL AGREGADO",TCM 
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X82vctg/SEOPELITV.jpg" group-title="CANAL AGREGADO",SEO_4
-https://live.seo.tv.bo/live/SEO_4.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnbMPy8/cineplay.png" group-title="CANAL AGREGADO",SEO_4
+https://app.viloud.tv/hls/channel/2627e8ae4f6d29e102600e38b97ec4c6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Eurochannel.json
