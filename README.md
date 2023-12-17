@@ -232,8 +232,6 @@ https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KqTkxKW/descarga.png" tvg-group="CANAL AGREGADO", Eurochannel 
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/Eurochannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/XJ8VZRG/CINE-APK.png" group-title="CANAL AGREGADO",apk-cine
-https://app.viloud.tv/hls/channel/2627e8ae4f6d29e102600e38b97ec4c6.m3u8
 
 
 
