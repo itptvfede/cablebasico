@@ -236,17 +236,6 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pz323cg/AXNHD.png" tvg-group="CANALES", AXN 
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/SyFy.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rv74Jy6/SYFY.png" tvg-group="CANALES", SYFY 
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/CinecanalHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZKdnVxv/cinecanal.png" tvg-group="Cine y Series", Cinecanal 
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
-
-
 
 
 
