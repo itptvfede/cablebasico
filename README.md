@@ -2,26 +2,26 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmdd7Dw/el-gourmet.png" tvg-group="CANAL AGREGADO",Gourmet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TTDLr0R/CANAL-DE-COSINA.png" tvg-group="CANALES VARIOS",Gourmet
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQzwST0/Tooncast.jpg" tvg-group="CANAL AGREGADO",Tooncast
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KNmyFQ5/Tooncast.png" tvg-group="CANALES KIDS",Tooncast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HistoryHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRF3P4X/history-channel.png" tvg-group="CANAL AGREGADO",HistoryHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9jGF9R/history-channel.jpg" tvg-group="CANALES CULTURALES",HistoryHD
 https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5My3qVs/wowtv.jpg" group-title="CANAL AGREGADO",wowtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dWXc8fr/wowtv.jpg" group-title="CANALES VARIOS",wowtv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2ZK8L7K/TYC.jpg" tvg-group="CANAL AGREGADO",TyC_HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KG5vmgb/TYC.jpg" tvg-group="CANALES DEPOR ARG",TyC_HD
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
