@@ -2,26 +2,26 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TTDLr0R/CANAL-DE-COSINA.png" tvg-group="CANALES",Gourmet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/stvcnVS/CANAL-DE-COSINA.png" tvg-group="CANALES",Gourmet
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KNmyFQ5/Tooncast.png" tvg-group="CANALES",Tooncast
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RPvMWrp/Tooncast.png" tvg-group="CANALES",Tooncast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HistoryHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9jGF9R/history-channel.jpg" tvg-group="CANALES",HistoryHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK61q6f/history-channel.jpg" tvg-group="CANALES",HistoryHD
 https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dWXc8fr/wowtv.jpg" group-title="CANALES",wowtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k6n8q3p/wowtv.jpg" group-title="CANALES",wowtv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KG5vmgb/TYC.jpg" tvg-group="CANALES",TyC_HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7j32B9J/TYC.jpg" tvg-group="CANALES",TyC_HD
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -134,101 +134,101 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DiscoveryTurbo.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bFB3FJB/Discovery-Turbo.jpg" tvg-group="CANALES", Discovery Turbo 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V2SsZNT/Discovery-Turbo.jpg" tvg-group="CANALES", Discovery Turbo 
 https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Universal_Channel_HD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNrymxZ/Universal-TV.png" tvg-group="CANALES", UniversalTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbzgRjR/Universal-TV.png" tvg-group="CANALES", UniversalTV 
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Studio_Universal.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTBLPyG/Studio-Universal.jpg" tvg-group="CANALES", Studio Universal 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSjhdvm/Studio-Universal.jpg" tvg-group="CANALES", Studio Universal 
 https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/NatGeoHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp82Qw9/National-Geographic.png" tvg-group="CANALES", National Geographic 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tK6W47k/National-Geographic.png" tvg-group="CANALES", National Geographic 
 https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Paramount.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xg5B5kQ/Paramount-Network.png" tvg-group="CANALES", Paramount Network 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM4VtMv/Paramount-Network.png" tvg-group="CANALES", Paramount Network 
 https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/WarnerHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgQXdbg/Warner-TV.png" tvg-group="CANALES", WarnerTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZHwGnW9/Warner-TV.png" tvg-group="CANALES", WarnerTV 
 https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Cinemax.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2hk8vv/Cinemax.png" tvg-group="CANALES",CINEMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NZGk0XM/Cinemax.png" tvg-group="CANALES",CINEMAX
 https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TelefeHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nrp0RNQ/telefe.jpg" tvg-group="CANALES",TELEFE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gVgRKQ/telefe.jpg" tvg-group="CANALES",TELEFE
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/espnpremium.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJF6Ccv/ESPN-PREMIUM.png" tvg-group="CANALES", ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbWL3hM/ESPN-PREMIUM.png" tvg-group="CANALES", ESPN PREMIUM
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/CronicaTV.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B454QtG/cronica-hd.png" tvg-group="CANALES", Cronica 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW23BD5/cronica-hd.png" tvg-group="CANALES", Cronica 
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/G3d6skv/moniTV.png" group-title="CANALES",MONITV
+#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/qpSg85S/moniTV.png" group-title="CANALES",MONITV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/dLxpkND/terrorTV.png" group-title="CANALES",terrorTV
+#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/s9DY8Qf/terrorTV.png" group-title="CANALES",terrorTV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/GkcG8fy/red-capital-federal.png" group-title="CANALES",LA_RED_AM910
+#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/Ld7N0sG/red-capital-federal.png" group-title="CANALES",LA_RED_AM910
 https://26653.live.streamtheworld.com/LA_RED_AM910_SC
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Space.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zS6G6HW/SPACETV.jpg" tvg-group="CANALES",SPACE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1h3pWm/SPACETV.jpg" tvg-group="CANALES",SPACE
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Plus.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xj3tmsv/HBO-PLUS.png" tvg-group="CANALES",HBOPLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2t7TLz/HBO-PLUS.png" tvg-group="CANALES",HBOPLUS
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/26_TV_HD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NpG8Q2L/CANAL26.png" tvg-group="CANALES",CANAL 26 NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swcZQz4/CANAL26.png" tvg-group="CANALES",CANAL 26 NOTICIAS
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Discovery_Kids.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qdyHL9T/Discovery-Kids.png" tvg-group="CANALES", Discovery Kids 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f842ywk/Discovery-Kids.png" tvg-group="CANALES", Discovery Kids 
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Canal7.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TKjsm9P/tvpublica.png" tvg-group="CANALES",TV-PUBLICA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dK6tKs9/tvpublica.png" tvg-group="CANALES",TV-PUBLICA
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FoxSports.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tTpDGM/Fox-Sports.png" tvg-group="CANALES",FOX_SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DW1kCkS/Fox-Sports.png" tvg-group="CANALES",FOX_SPORTS
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TCM.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZgw4Vf/TCM.png" tvg-group="CANALES",TCM 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhbL2f5/TCM.jpg" tvg-group="CANALES",TCM 
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Eurochannel.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KqTkxKW/descarga.png" tvg-group="CANALES", Eurochannel 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hDGzYY8/descarga.png" tvg-group="CANALES", Eurochannel 
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/Eurochannel.mpd
 
 
