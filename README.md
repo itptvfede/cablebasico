@@ -62,7 +62,7 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/ph2p2YF/THE-SIMPNOS.jpg"group-title="CANALES",the simpsons
-https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/f4mM8JB/tvsan-luis.png"group-title="CANALES",canal 13 san luis
 https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
@@ -88,9 +88,6 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmvvg8y/NEOTV.jpg" group-title="CANALES",neoTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Mn65gY/XTREMA-CARTOON.jpg" group-title="CANALES",cineinfantil
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_HD_Arg.json
