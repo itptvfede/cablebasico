@@ -218,12 +218,10 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DW1kCkS/Fox-Sports.png" tvg-group="CANALES",FOX_SPORTS
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TCM.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FhbL2f5/TCM.jpg" tvg-group="CANALES",TCM 
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Eurochannel.json
@@ -234,9 +232,6 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AXNHD.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pz323cg/AXNHD.png" tvg-group="CANALES", AXN 
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rjn9yHN/Retro.png" group-title="CANALES",Retro Cartoon 
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PKgCPg/Canela-Cinema.png" group-title="CANALES", Canela Cinema
 https://ov.ottera.tv/channels/cnm_cn_mv/master350000.m3u8;session=cnm_cn_mv
