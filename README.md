@@ -235,6 +235,8 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pz323cg/AXNHD.png" tvg-group="CANALES", AXN 
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rjn9yHN/Retro.png" group-title="CANALES",Retro Cartoon 
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 
 
