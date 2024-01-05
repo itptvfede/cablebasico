@@ -233,7 +233,6 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pz323cg/AXNHD.png" tvg-group="CANALES", AXN 
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PKgCPg/Canela-Cinema.png" group-title="CANALES", Canela Cinema
-https://ov.ottera.tv/channels/cnm_cn_mv/master350000.m3u8;session=cnm_cn_mv
+
 
 
