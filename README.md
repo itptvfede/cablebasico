@@ -238,7 +238,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rjn9yHN/Retro.png" group-title="CANALES",Retro Cartoon 
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2PKgCPg/Canela-Cinema.png" group-title="CANALES", Canela Cinema
+https://ov.ottera.tv/channels/cnm_cn_mv/master350000.m3u8;session=cnm_cn_mv
 
 
