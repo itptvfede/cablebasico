@@ -75,9 +75,6 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w0q3Y3d/discovery-theater.png" tvg-group="CANALES",discovery theater
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="agente_de_familia1" tvg-logo="https://i.ibb.co/k290KNT/agente-de-familia.jpg"group-title="CANALES",padre_de_familia1
-https://stream-cdn-iad.vaughnsoft.net/play/live_padre_de_familia1.flv
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Europa_Europa.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q6ckdc3/europa-europa.jpg" tvg-group="CANALES",europa europa
