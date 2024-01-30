@@ -230,6 +230,6 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pz323cg/AXNHD.png" tvg-group="CANALES", AXN 
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QXDMcQm/goldenplus.png" group-title="CANALES",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_webvtt.m3u8
 
