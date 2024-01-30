@@ -65,7 +65,7 @@ https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/f4mM8JB/tvsan-luis.png"group-title="CANALES",canal 13 san luis
-https://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/chunklist_w141252790_b346000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/zVqnfQ3/FOTURAMA.png"group-title="CANALES",fururama_mania
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
