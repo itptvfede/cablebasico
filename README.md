@@ -230,7 +230,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSYSc9d/AXN.jpg" tvg-group="CANALES", AXN 
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dkt8GRL/gh.png" group-title="CANALES",gran hermano
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/Dkt8GRL/gh.png" group-title="CANALES",prueba
 https://live-ak2.vimeocdn.com/c2c1c510-965b-44b1-a3a8-345d416861c0/hdntl=exp=1706838822~acl=%2f*~data=hdntl~hmac=c51abb66b38aaff2d7410fdb2b0fca6eb4bb1742e9c6080dc1fa954ed5825a5e/chunklist_b728000.m3u8
 
 
