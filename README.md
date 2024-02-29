@@ -176,8 +176,8 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NS2YBXj/cronica.jpg" tvg-group="CANALES", Cronica 
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/R2042n0/moniTV.png" group-title="CANALES",MONITV
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="_planetasimpsons" tvg-logo="https://i.ibb.co/R2042n0/moniTV.png" group-title="CANALES",planetasimpsons
+https://stream-cdn-iad.vaughnsoft.net/play/live_planetasimpsons.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/fHBkh1g/terrorTV.png" group-title="CANALES",terrorTV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
