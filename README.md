@@ -2,17 +2,17 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L0ngmvC/ELgourmet.jpg" tvg-group="CANALES",Gourmet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4mntWM/Gourmet1.png" tvg-group="CANALES",Gourmet
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fGgxzrq/toon-cast.jpg" tvg-group="CANALES",Tooncast
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZMZRKd/tooncast.png" tvg-group="CANALES",Tooncast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HistoryHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JqQ5YHG/the-History-channel.jpg" tvg-group="CANALES",HistoryHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bYmN8C/history.png" tvg-group="CANALES",History
 https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wSjMMbs/wowtv.jpg" group-title="CANALES",wowtv
