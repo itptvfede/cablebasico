@@ -49,6 +49,10 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://i.ibb.co/cbJHLgR/planetasimpsons.jpg" group-title="CANALES AGREGADOS",Sicardi TV
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cbJHLgR/planetasimpsons.jpg" group-title="CANALES",SIMPSONS 1
 https://stream-cdn-iad2.vaughnsoft.net/play/live_planetasimpsons.flv
+
+
 
