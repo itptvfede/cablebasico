@@ -55,7 +55,7 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://i.imgur.com/x6hiZRU.png" group-title="CANALES AGREGADOS",Telefe Santa Fe
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SKmZqhV/simpson-maniahd189.jpg" group-title="CANALES AGREGADOS",SIMPSONS 2
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 
