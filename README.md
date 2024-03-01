@@ -36,6 +36,13 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDd9FJT/cn5.png" tvg-group="CANALES AGREGADOS", C5N 
 https://edge-mix02-mun.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/America24.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vjyqR5Q/A.png" tvg-group="CANALES AGREGADOS", A24 
+https://edge-mix02-mun.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
+
+
+
 
 
 
