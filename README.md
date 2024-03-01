@@ -72,16 +72,12 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="CL | Planeta Family TV Kids" tvg-name="CL | Planeta Family TV Kids" tvg-logo="https://i.ibb.co/PZ3T37m/PLANETATV.png" group-title="CANALES AGREGADOS",Planeta Family TV Kids
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="CL | Energeek Fanpop" tvg-name="CL | Energeek Fanpop" tvg-logo="https://i.ibb.co/X8HWvWP/KIDS.jpg" group-title="CANALES AGREGADOS", Energeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="USA | TeenNick" tvg-name="USA | TeenNick" tvg-logo="https://i.ibb.co/2ZGk0g2/Teen-Nick-2019-logo-svg.png" group-title="CANALES AGREGADOS", TeenNick
+http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
 
 
 
