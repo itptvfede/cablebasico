@@ -64,10 +64,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jbJKn6t/TE.png" group-title="CANALES AGREGADOS",TERROR TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="CANALES AGREGADOS",Cadena103.TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="CANALES AGREGADOS",NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
