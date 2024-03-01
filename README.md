@@ -83,8 +83,8 @@ http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/25dbcP8/CANALCOSINA.png" tvg-group="CANALES AGREGADOS",GOURMET
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/hmHZP8G/TN.png"group-title="CANALES AGREGADOS",TN TODO NOTICIAS
+https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 
 
 
