@@ -50,10 +50,20 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cbJHLgR/planetasimpsons.jpg" group-title="CANALES AGREGADOS",SIMPSONS 1
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R6zfXtt/variedTV.jpg" group-title="CANALES AGREGADOS",VARIEDTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/XVCtxgT/canal-13-san-luis.jpg"group-title="CANALES AGREGADOS",
+CANAL 13 SAN LUIS
+https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/chunklist_w141252790_b346000.m3u8
+
 
 
 
