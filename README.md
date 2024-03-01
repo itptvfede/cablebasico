@@ -2,93 +2,100 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4mntWM/Gourmet1.png" tvg-group="CANALES",Gourmet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/25dbcP8/CANALCOSINA.png" tvg-group="CANALES",GOURMET
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZMZRKd/tooncast.png" tvg-group="CANALES",Tooncast
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPQxkG8/Tooncast.jpg" tvg-group="CANALES",TOONCAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/tooncast.json
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HistoryHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1bYmN8C/history.png" tvg-group="CANALES",History
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCstCQ6/HISTORY.png" tvg-group="CANALES",HISTORY
 https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wSjMMbs/wowtv.jpg" group-title="CANALES",wowtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gFvqPY6/descarga.jpg" group-title="CANALES",WOWTV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p2J2Cxz/tyc.jpg" tvg-group="CANALES",TyC_HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkqXJ0s/TyC.jpg" tvg-group="CANALES",TYC SPORTS
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Food_Network.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K2qSRtr/food-network.png" tvg-group="CANALES",food netword
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WbjbpN/food-netword.png" tvg-group="CANALES",FOOD NETWORD
 https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDRMPhg/hbo-family.jpg" tvg-group="CANALES",hbo family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4HnjRh/HBOFAMILY.png" tvg-group="CANALES",HBOFAMILY
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6mq4tbp/variedTV.jpg" group-title="CANALES",variedTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R6zfXtt/variedTV.jpg" group-title="CANALES",VARIEDTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7KMqFSY/cinemundo-plus.jpg" tvg-group="CANALES",cinemundo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DGK819y/cinemundo-0.jpg" tvg-group="CANALES",CINEMUNDO
 https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_0.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/0QCycw9/tn.jpg" group-title="CANALES",tn todo noticias
+#EXTINF:-1 tvg-id="" tvg-name="tn noticias" tvg-logo="https://i.ibb.co/hmHZP8G/TN.png"group-title="CANALES",TN TODO NOTICIAS
 https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/MsfCntv/acs-network-tv.jpg" group-title="CANALES",asc network tv
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/DkvvPzs/acs-network-tv.jpg"group-title="CANALES",ASC NETWORKTV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/FOXHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HP1t2m1/star-channela.jpg" tvg-group="CANALES",star channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqP1vvN/star.png"tvg-group="CANALES",STAR CHANNEL
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/DiscoveryHD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HVBnqfm/discovery-ch.jpg" tvg-group="CANALES",discovery channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TT68vJc/discovery.png"tvg-group="CANALES",DISCOVERY CHANNEL
 https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/History_2.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7QPf9t1/the-History-channel2.jpg" tvg-group="CANALES",history2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDpzJV1/history2.png"tvg-group="CANALES",HISTORY2
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="the simpsons2" tvg-logo="https://i.ibb.co/Nm0C4pw/THE-SIMPNOS.jpg"group-title="CANALES",the simpsons
+#EXTINF:-1 tvg-id="" tvg-name="the simpsons2"tvg-logo="https://i.ibb.co/SKmZqhV/simpson-maniahd189.jpg"group-title="CANALES",
+SIMPSON_MANIA
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/KjvCp2x/tvsan-luis.png"group-title="CANALES",canal 13 san luis
+#EXTINF:-1 tvg-id="" tvg-name="canal 13 san luis"tvg-logo="https://i.ibb.co/XVCtxgT/canal-13-san-luis.jpg"group-title="CANALES",
+CANAL 13 SAN LUIS
 https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/chunklist_w141252790_b346000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/vhWSMxJ/FOTURAMA.png"group-title="CANALES",fururama_mania
+#EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/Vg67jSF/futurama-mania.jpg"group-title="CANALES",
+FUTURAMA_MANIA
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Theater_HD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkZc2HP/discovery-theater.png" tvg-group="CANALES",discovery theater
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKPR2zx/discovery-theater.png"tvg-group="CANALES",DISCOVERY THEATER
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Europa_Europa.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkvnyn/europa-europa.jpg" tvg-group="CANALES",europa europa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/89j4XfP/europa-europa.png"tvg-group="CANALES",
+EUROPA EUROPA
 https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0ybTJM/EL-CHAVO-8.jpg" group-title="CANALES",el chavo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T8n4WFk/elchavo.jpg"group-title="CANALES",
+EL CHAVO
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4pcGQ5z/NEOTV.jpg" group-title="CANALES",neoTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dc8fRpn/neotv.jpg"group-title="CANALES",
+NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_HD_Arg.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8XGdCDp/tnt-hd.jpg" tvg-group="CANALES",tnt
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cgXSkC/tnt.png"tvg-group="CANALES",
+TNT
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
