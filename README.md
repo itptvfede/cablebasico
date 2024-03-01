@@ -65,11 +65,9 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="CANALES AGREGADOS",NEOTV
+
+#EXTINF:-1 tvg-id="" tvg-name="CL | Planeta Family TV Kids" tvg-logo="https://pbs.twimg.com/media/Frs3AxpWwAEG08o?format=png&name=240x240" group-title="CANALES AGREGADOS", 153 | NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-
-
-
 
 
 
