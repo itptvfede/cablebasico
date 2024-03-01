@@ -57,7 +57,7 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x6hiZRU.png" group-title="CANALES AGREGADOS",CANAL13 S/L
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XVCtxgT/canal-13-san-luis.jpg" group-title="CANALES AGREGADOS",CANAL13 S/L
 https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/chunklist_w141252790_b346000.m3u8
 
 
