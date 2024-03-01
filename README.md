@@ -48,15 +48,14 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cbJHLgR/planetasimpsons.jpg" group-title="CANALES AGREGADOS",SIMPSONS 1
-https://stream-cdn-iad2.vaughnsoft.net/play/live_planetasimpsons.flv
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R6zfXtt/variedTV.jpg" group-title="CANALES AGREGADOS",VARIEDTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SKmZqhV/simpson-maniahd189.jpg" group-title="CANALES AGREGADOS",SIMPSONS 2
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 
 
