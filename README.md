@@ -56,15 +56,6 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XVCtxgT/canal-13-san-luis.jpg" group-title="CANALES AGREGADOS",CANAL13 S/L
 https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/chunklist_w141252790_b346000.m3u8
 
-
-
-
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/espnpremium.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m55dRmY/espnpremium.png" tvg-group="CANALES AGREGADOS", ESPN PREMIUM
@@ -72,6 +63,11 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/F
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jbJKn6t/TE.png" group-title="CANALES AGREGADOS",TERROR TV
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 
 
