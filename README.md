@@ -12,6 +12,6 @@ https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_Sports_HD.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qF1tkc3/tnt-sports.jpg" tvg-group="CANALES AGREGADOS",tnt sports
-https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF1tkc3/tnt-sports.jpg" tvg-group="CANALES AGREGADOS", TNT Sports 
+https://edge-mix02-mun.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
