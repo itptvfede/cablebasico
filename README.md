@@ -44,10 +44,12 @@ https://edge-mix02-mun.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/Am
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.ibb.co/DMN4gsW/Magic-Kids.png" group-title="CANALES AGREGADOS",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-
 #EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://i.ibb.co/T4GmZTq/W2EUIL2.png" group-title="CANALES AGREGADOS",Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 
 
+#EXTINF:-1 tvg-id="LOS SIMPSONS 1" tvg-logo="https://i.ibb.co/cbJHLgR/planetasimpsons.jpg" group-title="CANALES AGREGADOS",
+LOS SIMPSONS 1
+https://stream-cdn-iad2.vaughnsoft.net/play/live_planetasimpsons.flv
 
