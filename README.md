@@ -75,9 +75,22 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Energeek Fanpop" tvg-name="CL | Energeek Fanpop" tvg-logo="https://i.ibb.co/X8HWvWP/KIDS.jpg" group-title="CANALES AGREGADOS", Energeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="USA | TeenNick" tvg-name="USA | TeenNick" tvg-logo="https://i.ibb.co/2ZGk0g2/Teen-Nick-2019-logo-svg.png" group-title="CANALES AGREGADOS", TeenNick
 http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Gourmet.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/25dbcP8/CANALCOSINA.png" tvg-group="CANALES AGREGADOS",GOURMET
+https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
+
+
+
+
+
+
+
+
+
 
 
 
