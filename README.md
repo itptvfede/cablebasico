@@ -41,3 +41,10 @@ https://edge-mix02-mun.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vjyqR5Q/A.png" tvg-group="CANALES AGREGADOS", A24 
 https://edge-mix02-mun.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
 
+
+
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.ibb.co/DMN4gsW/Magic-Kids.png" group-title="Animation",Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+
+
