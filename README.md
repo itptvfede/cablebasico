@@ -28,7 +28,7 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TyC_Internacional.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tYLkFSV/tycinternacional.png" tvg-group="CANALES AGREGADOS", TYC_INTERNACONAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFW3Nv8/tycinter.png" tvg-group="CANALES AGREGADOS", TYC_INTERNACONAL
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -60,11 +60,6 @@ https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/chunklist_w141252790_b
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/espnpremium.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m55dRmY/espnpremium.png" tvg-group="CANALES AGREGADOS", ESPN PREMIUM
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jbJKn6t/TE.png" group-title="CANALES AGREGADOS",TERROR TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
