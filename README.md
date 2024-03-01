@@ -69,6 +69,9 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dc8fRpn/neotv.jpg" group-title="CANALES AGREGADOS", NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-id="CL | Planeta Family TV Kids" tvg-name="CL | Planeta Family TV Kids" tvg-logo="https://i.ibb.co/PZ3T37m/PLANETATV.png" group-title="INFANTILES",Planeta Family TV Kids
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+
 
 
 
