@@ -20,3 +20,10 @@ https://edge-mix02-mun.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Jb8mpm/LN.jpg" tvg-group="CANALES AGREGADOS", LN+ 
 https://edge-mix02-mun.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-name="futurama_mania"tvg-logo="https://i.ibb.co/Vg67jSF/futurama-mania.jpg"group-title="CANALES",
+FUTURAMA_MANIA
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N-avc1_2499968=10001-scale=30000-8675743967700.mp4
+
+
+
