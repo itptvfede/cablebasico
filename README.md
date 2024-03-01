@@ -23,3 +23,9 @@ https://edge-mix02-mun.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vg67jSF/futurama-mania.jpg" tvg-group="CANALES AGREGADOS", FUTURAMA_MANIA
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv
 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4230.png" tvg-group="CANALES AGREGADOS", prueba
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
+
+
+
+
