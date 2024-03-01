@@ -89,7 +89,11 @@ https://live-01-01-tn.vodgc.net/TN24/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGK819y/cinemundo-0.jpg" tvg-group="CANALES AGREGADOS",CINEMUNDO
 https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_0.flv
 
-
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tyc.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkqXJ0s/TyC.jpg" tvg-group="CANALES AGREGADOS",TYC SPORTS
+https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
 
 
