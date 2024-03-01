@@ -41,14 +41,3 @@ https://edge-mix02-mun.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vjyqR5Q/A.png" tvg-group="CANALES AGREGADOS", A24 
 https://edge-mix02-mun.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
 
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Investigacion_Periodistica.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZDSx2J/NOTICIAS.jpg" tvg-group="CANALES AGREGADOS", IP 
-https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_2A/Investigacion_Periodistica.mpd
-
-
-
