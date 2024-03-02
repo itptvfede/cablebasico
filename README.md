@@ -95,6 +95,8 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_0.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vkqXJ0s/TyC.jpg" tvg-group="CANALES AGREGADOS",TYC SPORTS
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gFvqPY6/descarga.jpg" group-title="CANALES AGREGADOS",WOWTV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 
