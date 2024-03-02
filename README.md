@@ -103,4 +103,22 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypN7STz/cronicanoticias.png" tvg-group="CANALES AGREGADOS", Cronica 
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TelefeHD.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qW0SR96/telefe.png" tvg-group="CANALES AGREGADOS",TELEFE
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4HnjRh/HBOFAMILY.png" tvg-group="CANALES AGREGADOS",HBOFAMILY
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
+
+
+
+
+
+
+
+
+
 
