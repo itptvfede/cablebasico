@@ -118,7 +118,10 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DkvvPzs/acs-network-tv.jpg" group-title="CANALES AGREGADOS",ASC NETWORKTV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Plus.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc7zB8n/HBOPLUS.png" tvg-group="CANALES AGREGADOS",HBOPLUS
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
 
 
 
