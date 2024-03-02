@@ -98,7 +98,9 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gFvqPY6/descarga.jpg" group-title="CANALES AGREGADOS",WOWTV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/CronicaTV.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ypN7STz/cronicanoticias.png" tvg-group="CANALES AGREGADOS", Cronica 
+https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
 
