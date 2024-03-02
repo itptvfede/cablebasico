@@ -113,7 +113,8 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t4HnjRh/HBOFAMILY.png" tvg-group="CANALES AGREGADOS",HBOFAMILY
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/DkvvPzs/acs-network-tv.jpg"group-title="CANALES AGREGADOS",ASC NETWORKTV
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 
 
