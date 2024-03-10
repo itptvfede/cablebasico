@@ -20,11 +20,29 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://i.ibb.co/T4L90S7/cine-familiar.png" group-title="CANALES AGREGADOS",Cine Familiar
 http://191.97.60.193:10000/play/a02w/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_HD_Arg.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cgXSkC/tnt.png" tvg-group="CANALES AGREGADOS", TNT 
+https://edge-mix02-mun.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mp
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_HD_Arg.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4230.png" tvg-group="Cine y Series", TNT 
-https://edge-mix02-mun.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_Sports_HD.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF1tkc3/tnt-sports.jpg" tvg-group="CANALES AGREGADOS", TNT Sports 
+https://edge-mix02-mun.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+
+
+
+
+
+
+
+
+
+
+
 
 
