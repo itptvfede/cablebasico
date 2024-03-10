@@ -1,7 +1,7 @@
 #CABLE BASICO 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/30241f39-14a6-4a71-8c06-c6901e3df022
+#KODIPROP:inputstream.adaptive.license_type=clearke
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/60004bde-999a-4703-b464-495c03069d9fy
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Nacionales", America 
 https://edge-mix02-mun.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
