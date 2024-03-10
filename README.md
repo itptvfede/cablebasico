@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="CL | MX Classic" tvg-name="CL | MX Classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="CANALES AGREGADOS", 75 | MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="CANALES AGREGADOS", 74 | MX Family
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_HD_Arg.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5cgXSkC/tnt.png" tvg-group="CANALES AGREGADOS",TNT
