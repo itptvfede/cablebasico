@@ -11,17 +11,19 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t4HnjRh/HBOFAMILY.png" tvg-group="CANALES AGREGADOS",HBOFAMILY
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
 
-#EXTINF:-1 tvg-id="CL | MX Classic" tvg-name="CL | MX Classic" tvg-logo="https://i.ibb.co/9r311Xr/MX-CLASIC-FONDO-2-300x169.jpg" group-title="CANALES AGREGADOS", 75 | MX Classic
+#EXTINF:-1 tvg-id="CL | MX Classic" tvg-name="CL | MX Classic" tvg-logo="https://i.ibb.co/9r311Xr/MX-CLASIC-FONDO-2-300x169.jpg" group-title="CANALES AGREGADOS",MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://i.ibb.co/mcCBQbf/MX-FAMILY-FONDO-2-300x169.jpg" group-title="CANALES AGREGADOS", 74 | MX Family
+#EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://i.ibb.co/mcCBQbf/MX-FAMILY-FONDO-2-300x169.jpg" group-title="CANALES AGREGADOS",MX Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://i.ibb.co/T4L90S7/cine-familiar.png" group-title="PELICULAS Y SERIES", 121 | Cine Familiar
+#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://i.ibb.co/T4L90S7/cine-familiar.png" group-title="CANALES AGREGADOS",Cine Familiar
 http://191.97.60.193:10000/play/a02w/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="CANALES AGREGADOS", 206 | HGTV
-http://138.59.177.34:8000/play/a00u/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_HD_Arg.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cgXSkC/tnt.png" tvg-group="CANALES AGREGADOS",TNT
+https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
 
 
 
