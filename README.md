@@ -1,9 +1,10 @@
 #CABLE BASICO 
 
-#KODIPROP:inputstream.adaptive.license_type=clearke
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/60004bde-999a-4703-b464-495c03069d9fy
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Nacionales", America 
-https://edge-mix02-mun.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+
+#EXTINF:-1 tvg-id="ColorsHD" group-title="Indian" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",116 Colors HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/60004bde-999a-4703-b464-495c03069d9f
+http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_HD_Arg.json
