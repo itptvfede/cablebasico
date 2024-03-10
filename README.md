@@ -22,8 +22,7 @@ http://191.97.60.193:10000/play/a02w/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_HD_Arg.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cgXSkC/tnt.png" tvg-group="CANALES AGREGADOS",TNT
-https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
-
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4230.png" tvg-group="Cine y Series", TNT 
+https://edge-mix02-mun.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
 
 
