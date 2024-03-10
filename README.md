@@ -17,5 +17,10 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://i.ibb.co/mcCBQbf/MX-FAMILY-FONDO-2-300x169.jpg" group-title="CANALES AGREGADOS", 74 | MX Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://i.ibb.co/T4L90S7/cine-familiar.png" group-title="PELICULAS Y SERIES", 121 | Cine Familiar
+http://191.97.60.193:10000/play/a02w/index.m3u8
+
+
+
 
 
