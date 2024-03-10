@@ -20,7 +20,8 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://i.ibb.co/T4L90S7/cine-familiar.png" group-title="PELICULAS Y SERIES", 121 | Cine Familiar
 http://191.97.60.193:10000/play/a02w/index.m3u8
 
-
+#EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="CANALES AGREGADOS", 206 | HGTV
+http://138.59.177.34:8000/play/a00u/index.m3u8
 
 
 
