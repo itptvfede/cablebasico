@@ -1,11 +1,10 @@
 #CABLE BASICO 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vstv.broadpeak-aas.com/live/prod_vtvcab3-thethaotv_fps/prod_vtvcab3-thethaotv_fps.isml/prod_vtvcab3-thethaotv_fps.mpd
-#EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="K+ Cine" group-title="K+",K+ Bong Da TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000197&SessionId=52ABA8DD2AB57825&Ticket=8E94E0BA0A5448EF
+
+#EXTINF:-1 tvg-id="TV1" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=912760c409eb5aff3e060422c502f410&key=bea2d0f89fb3fbafa1fc9f34ba8734a6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_HD_Arg.json
