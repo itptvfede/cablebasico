@@ -10,7 +10,7 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 http://191.97.60.193:10000/play/a02w/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cbJHLgR/planetasimpsons.jpg" group-title="canales",004/simpson_mania
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cbJHLgR/planetasimpsons.jpg" group-title="canales",004/simpson
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 
