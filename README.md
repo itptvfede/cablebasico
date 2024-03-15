@@ -9,11 +9,20 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://i.ibb.co/T4L90S7/cine-familiar.png" group-title="canales",003/Cine Familiar
 http://191.97.60.193:10000/play/a02w/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="CL | Planeta Family TV Kids" tvg-name="CL | Planeta Family TV Kids" tvg-logo="https://i.ibb.co/PZ3T37m/PLANETATV.png" group-title="canales",005/Planeta Family 
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Plus.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc7zB8n/HBOPLUS.png" tvg-group="canales",
+005/HBOPLUS
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
+
+
+
+
 
 
 
