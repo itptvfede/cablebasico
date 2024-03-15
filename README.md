@@ -12,6 +12,16 @@ http://191.97.60.193:10000/play/a02w/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="CL | Planeta Family TV Kids" tvg-name="CL | Planeta Family TV Kids" tvg-logo="https://i.ibb.co/PZ3T37m/PLANETATV.png" group-title="canales",005/Planeta Family 
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cbJHLgR/planetasimpsons.jpg" group-title="canales",004/simpson
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
