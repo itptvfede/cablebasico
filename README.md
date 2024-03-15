@@ -17,19 +17,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bc7zB8n/HBOPLUS.png" tvg-group="canales",
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cbJHLgR/planetasimpsons.jpg" group-title="canales",004/simpson
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cbJHLgR/planetasimpsons.jpg" group-title="canales",
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
 
 
