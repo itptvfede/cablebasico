@@ -25,8 +25,6 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd189.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFW3Nv8/tycinter.png" tvg-group="canales", (tyc_internacional)
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/TNT_Sports_HD.json
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qF1tkc3/tnt-sports.jpg" tvg-group="canales", (tnt sports)
