@@ -27,9 +27,6 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_I
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qF1tkc3/tnt-sports.jpg" tvg-group="canales", (tnt sports)
 https://edge-mix02-mun.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="canales",(cine_familiar)
 http://191.97.60.193:10000/play/a02w/index.m3u8
 
