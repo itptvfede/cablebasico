@@ -13,5 +13,5 @@ http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/37758.m3u8
 
 
 #EXTINF:-1tvg-id="881"tvg-name="Wapp"tvg-logo="https://i.ibb.co/qN0DcvX/neotvdigital.jpg"group-title="CANALES",neotvdigital
-
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
