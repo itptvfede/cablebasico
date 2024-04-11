@@ -15,3 +15,17 @@ http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/37758.m3u8
 #EXTINF:-1tvg-id="881"tvg-name="Wapp"tvg-logo="https://i.ibb.co/qN0DcvX/neotvdigital.jpg"group-title="CANALES",neotvdigital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/68XQc2C/tntodonocias.jpg" group-title="canales",(tn noticias)
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+
+
+
+
+
+
