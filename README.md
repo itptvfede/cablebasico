@@ -8,8 +8,8 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/23b1vdR/simpson-maniahd189.png" group-title="GRILLA CANALES",(tn noticias)
-http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/37758.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23b1vdR/simpson-maniahd189.png" group-title="GRILLA CANALES",(simpson-mania)
+http://tv.proyectox.vip:8080/live/ossi2022/RNe48QBDyX/37758.m3u8
 
 
 
