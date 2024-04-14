@@ -27,5 +27,14 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3V1aWQiOiJRem9EcWQ5Vk9hV2wxZklIWWM4cDZWR29FZmQyIiwiaXNzIjoiaHR0cHM6Ly9qc29uc2lsby5jb20iLCJleHAiOjE3MTU2NDY0OTV9.m5QEcUDq7n1j9Ek-k95jp-Y5CbUMjnncadS4Z1Pk3us
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFW3Nv8/tycinter.png" tvg-group="canales", (tyc_2internacional)
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
+
+
+
+
+
 
 
