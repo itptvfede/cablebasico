@@ -8,6 +8,9 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/68XQc2C/tntodonocias.jpg" group-title="GRILLA CANALES",(2)
 http://181.209.114.13:8000/play/a078/index.m3u8
 
