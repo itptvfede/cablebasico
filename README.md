@@ -8,4 +8,4 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",PRUEBA
-https://6.tutl24.xyz/live/ST60ce236e6df0e7d.m3u8
+http://45.172.16.186:8000/play/a0o8
