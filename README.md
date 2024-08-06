@@ -8,5 +8,4 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",PRUEBA
-https://router.cdn.rcs.net.ar/mnp/space/output.mpd
-
+https://ddh1.mizhls.ru/ddh1/premium131/tracks-v1a1/mono.m3u8
