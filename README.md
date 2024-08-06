@@ -9,3 +9,6 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",PRUEBA
 http://190.119.40.74:8200/play/a0gg/index.m3u8
+
+#EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="PELICULAS",PRUEBA
+https://hfs279.serversicuro.cc/hls/,dnzpfrbt23gxgiwyvbkx5mbzybcrswh7dgnwrslc63hibrx3fbwdwyomj7mq,.urlset/master.m3u8
