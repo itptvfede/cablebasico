@@ -8,7 +8,5 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",PRUEBA
-http://190.119.40.74:8200/play/a0gg/index.m3u8
+https://edge-live17-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD-avc1_4999936=10014-scale=30000-p=302336871530833-9087344807365.mp4
 
-#EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="PELICULAS",PRUEBA
-https://hfs285.serversicuro.cc/hls/dnzpf3zt23gxgiwyvbkx5pznyc5x4du2fhnio6qmo7ujebeb22jgrgddentq/index-v1-a1.m3u8
