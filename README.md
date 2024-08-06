@@ -7,5 +7,6 @@ https://anym3u8player.com/youtube.php/id/66782447e6e76.m3u8
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
-#EXTINF:-1 tvg-id="PRUEBA" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",PRUEBA
-https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd193.flv
+#EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",PRUEBA
+https://router.cdn.rcs.net.ar/mnp/space/output.mpd
+
