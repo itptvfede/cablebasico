@@ -4,8 +4,7 @@
 https://anym3u8player.com/youtube.php/id/66782447e6e76.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",TELEFE 
-http://181.78.4.250:8098/play/a04f/index.m3u8
-
+http://170.82.37.21:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="THE SIMPSONS" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="General",THE SIMPSONS
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd193.flv
