@@ -13,6 +13,5 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd193.flv
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://i.imgur.com/FwtwLMy.png" group-title="General",CINECANAL 
-http://177.126.51.9:8001/play/a01x
-
+http://45.172.16.186:8000/play/a06g
 
