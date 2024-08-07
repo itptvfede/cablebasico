@@ -8,4 +8,4 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",PRUEBA
-http://45.172.16.186:8000/play/a0r8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
