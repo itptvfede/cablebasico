@@ -10,4 +10,4 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="General",P
-https://n2.dramaticreadings.com:999/hls/tycsd.m3u8?md5=svJmKWBocGXnKQaZOCMVFA&expires=1723063198
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
