@@ -8,4 +8,4 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",PRUEBA
-https://live.statssportsgoal.com/vivo/1-4181987-0.m3u8?sign=289152f6280c6112f1427cea69b2d164&t=66b2d71b
+http://45.172.16.186:8000/play/a0r8
