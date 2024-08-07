@@ -8,4 +8,4 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",PRUEBA
-http://177.126.51.9:8001/play/a01x
+https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd193.flv
