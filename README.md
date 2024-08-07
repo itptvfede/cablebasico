@@ -9,5 +9,5 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="THE SIMPSONS" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="General",THE SIMPSONS
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
-#EXTINF:-1 tvg-id="P" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="General",P
+#EXTINF:-1 tvg-id="BIG CHANNEL" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="General",BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
