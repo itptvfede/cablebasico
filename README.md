@@ -18,7 +18,8 @@ https://router.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 https://app.viloud.tv/hls/channel/sep/27fdcb0abb5ddb8b4eab813ccbda988d/low.m3u8
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="EVENTO",EVENTO
-https://
+https://live.statssportsgoal.com/vivo/1-4178720-0.m3u8?sign=5dde908768344eff6a2d0e686764d880&t=66b54537
+
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://i.imgur.com/YiBOqD0.jpg" group-title="General",TN 
 https://anym3u8player.com/youtube.php/id/66782447e6e76.m3u8
