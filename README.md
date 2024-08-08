@@ -18,5 +18,4 @@ https://router.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-id="CINEONLINE" tvg-logo="https://i.imgur.com/1qq0RLw.jpeg" group-title="General",CINEONLINE
 https://app.viloud.tv/hls/channel/sep/27fdcb0abb5ddb8b4eab813ccbda988d/low.m3u8
 
-
 #EXTINF:-1 tvg-id="EVENTOS" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",http://170.82.37.21:8000/play/a042/index.m3u8
