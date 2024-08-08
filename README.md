@@ -21,5 +21,9 @@ https://router.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 https://app.viloud.tv/hls/channel/sep/27fdcb0abb5ddb8b4eab813ccbda988d/low.m3u8
 
 
-#EXTINF:-1 tvg-id="EVENTOS" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="General",
-http://
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://i.imgur.com/YiBOqD0.jpg" group-title="General",TN 
+https://anym3u8player.com/youtube.php/id/66782447e6e76.m3u8
+
+
+
+
