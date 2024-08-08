@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://i.imgur.com/YiBOqD0.jpg" group-title="General",TN 
-https://rr2---sn-hxb5j5cax5g-a09l.googlevideo.com/generate_204
+https://www.youtube.com/watch?v=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",TELEFE 
 http://170.82.37.21:8000/play/a042/index.m3u8
