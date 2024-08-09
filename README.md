@@ -26,3 +26,9 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-id="VARIEDTV" tvg-logo="https://i.imgur.com/xYDUy0V.png" group-title="KIDS",VARIEDTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+
+#EXTINF:-1 tvg-id="CRONICATV" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="NOTICIAS AR",TN 
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
+
+
+
