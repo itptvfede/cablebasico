@@ -19,6 +19,4 @@ https://router.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 https://app.viloud.tv/hls/channel/sep/27fdcb0abb5ddb8b4eab813ccbda988d/low.m3u8
 
 #EXTINF:-1 tvg-id="EVENTO" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="EVENTO",EVENTO
-https://live.statssportsgoal.com/vivo/1-4182181-0.m3u8?sign=3f43c9b5862e66b4816b44679842b86c&t=66b596c7
-
-
+https://livecdn-bp2.rumsport.com/stream/33/chunks.m3u8?x-sign=c6c91e2ca444372ef6bdffddddfe1807&x-time=1723219500&is_vip=false&token=af105a3a826513dba17291549d1700773a1a3e66
