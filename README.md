@@ -20,3 +20,9 @@ https://app.viloud.tv/hls/channel/sep/27fdcb0abb5ddb8b4eab813ccbda988d/low.m3u8
 
 #EXTINF:-1 tvg-id="EVENTO" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="EVENTO",EVENTO
 https://livecdn-bp2.rumsport.com/stream/33/chunks.m3u8?x-sign=c6c91e2ca444372ef6bdffddddfe1807&x-time=1723219500&is_vip=false&token=af105a3a826513dba17291549d1700773a1a3e66
+
+#EXTINF:-1 tvg-id="MONITV" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="KIDS",MONITV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+
+
+
