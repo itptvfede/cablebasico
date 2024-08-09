@@ -19,7 +19,7 @@ https://router.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 https://app.viloud.tv/hls/channel/sep/27fdcb0abb5ddb8b4eab813ccbda988d/low.m3u8
 
 #EXTINF:-1 tvg-id="EVENTO" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="EVENTO",EVENTO
-https://fonz02.dlive.click/TUBkWEFOPCgxjNV_Brl7zA/1723264687/3138312e3131372e3234362e33/ff525/playlist.m3u8
+https://webhdrunns.mizhls.ru/lb/premium387/index.m3u8
 
 #EXTINF:-1 tvg-id="MONITV" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="KIDS",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
