@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://i.imgur.com/YiBOqD0.jpg" group-title="General",TN 
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Nq2wYlWFucg
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="General",TELEFE 
 http://170.82.37.21:8000/play/a042/index.m3u8
