@@ -24,5 +24,5 @@ https://livecdn-bp2.rumsport.com/stream/33/chunks.m3u8?x-sign=c6c91e2ca444372ef6
 #EXTINF:-1 tvg-id="MONITV" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="KIDS",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
-
-
+#EXTINF:-1 tvg-id="VARIEDTV" tvg-logo="https://i.imgur.com/xYDUy0V.png" group-title="KIDS",VARIEDTV
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
