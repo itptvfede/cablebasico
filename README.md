@@ -19,6 +19,6 @@ https://router.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 https://app.viloud.tv/hls/channel/sep/27fdcb0abb5ddb8b4eab813ccbda988d/low.m3u8
 
 #EXTINF:-1 tvg-id="EVENTO" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="EVENTO",EVENTO
-https://live.statssportsgoal.com/vivo/1-4097697-0.m3u8?sign=e913a3c748b82773036fd35b5006d0f5&t=66b56eef
+https://live.statssportsgoal.com/vivo/1-4182181-0.m3u8?sign=3f43c9b5862e66b4816b44679842b86c&t=66b596c7
 
 
