@@ -19,7 +19,7 @@ https://router.cdn.rcs.net.ar/mnp/tnt/output.mpd
 https://app.viloud.tv/hls/channel/sep/27fdcb0abb5ddb8b4eab813ccbda988d/low.m3u8
 
 #EXTINF:-1 tvg-id="EVENTO" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="EVENTO",EVENTO
-http://ts4.tvcluboficial.com/ts/LosSimpson/_308834.ts
+http://magmaplayer.com/stream/hls/635.m3u8
 
 #EXTINF:-1 tvg-id="MONITV" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="KIDS",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
