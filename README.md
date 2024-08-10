@@ -19,7 +19,9 @@ https://router.cdn.rcs.net.ar/mnp/tnt/output.mpd
 https://app.viloud.tv/hls/channel/sep/27fdcb0abb5ddb8b4eab813ccbda988d/low.m3u8
 
 #EXTINF:-1 tvg-id="EVENTO" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="EVENTO",EVENTO
-https://live.statssportsgoal.com/vivo/1-4054514-0.m3u8?sign=145e04eab0116f78622be280125e0db2&t=66b826cb
+https://live.statssportsgoal.com/vivo/1-4054514-0.m3u8?sign=238f26b6472acb265ca385e9c8fdd99a&t=66b827bb
+
+#EXTINF:-1 tvg-id="EVENTO" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="EVENTO2",EVENTO2
 
 #EXTINF:-1 tvg-id="MONITV" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="KIDS",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
