@@ -23,6 +23,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_mani
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/5fHAD9E.png" group-title="",CINEMAX
 https://router.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
-
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/rY6DBrB.png" group-title="",TEENNICK
+http://190.119.40.74:8200/play/a0gg/index.m3u8
 
 
