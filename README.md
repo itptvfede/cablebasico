@@ -10,8 +10,6 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO
-https://live.statssportsgoal.com/vivo/1-4054514-0.m3u8?sign=238f26b6472acb265ca385e9c8fdd99a&t=66b827bb
-
-
+https:///live/
 
 
