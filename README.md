@@ -23,6 +23,3 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_mani
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/5fHAD9E.png" group-title="CINE",CINEMAX
 http://45.172.16.186:8000/play/a0o8
-
-
-
