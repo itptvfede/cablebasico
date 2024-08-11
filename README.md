@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/YiBOqD0.jpg" group-title="",TN 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
@@ -21,5 +20,9 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_mani
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/5fHAD9E.png" group-title="CINE",CINEMAX
-http://45.172.16.186:8000/play/a0o8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/5fHAD9E.png" group-title="",CINEMAX
+https://router.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+
+
+
+
