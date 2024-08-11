@@ -9,7 +9,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO
-https://live.statssportsgoal.com/vivo/1-4054513-0.m3u8?sign=059a67a85ee078122b9374f2135f194c&t=66b97edb
+https://live.statssportsgoal.com/vivo/1-4054513-0.m3u8?sign=449df19f4c0f87dda398b828269ab258&t=66b985e3
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
@@ -23,7 +23,6 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_mani
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/5fHAD9E.png" group-title="",CINEMAX
 https://router.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/rY6DBrB.png" group-title="",TEENNICK
-https://router.cdn.rcs.net.ar/mnp/teennick/output.mpd
+
 
 
