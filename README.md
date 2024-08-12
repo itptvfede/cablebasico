@@ -25,9 +25,7 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_mani
 https://router.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/6M68SPV.png" group-title="",TOONCAST
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(RADIOLA)/1717571071377item-04item_Segment-59170455406172.m4v
-
-https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10300.m3u8
+https://router.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
 
 
