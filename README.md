@@ -9,8 +9,8 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/xYDUy0V.png" group-title="",VARIEDTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO
-https://live.statssportsgoal.com/vivo/1-4153925-0.m3u8?sign=f219aa26a999a87d7173cbac85d0fcdb&t=66bab387
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 1
+https://live.statssportsgoal.com/vivo/1-4054520-0.m3u8?sign=f8fb2bbeea67e6fccbf74b07e9978a87&t=66bacc23
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
