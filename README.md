@@ -25,6 +25,10 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_mani
 https://router.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/6M68SPV.png" group-title="",TOONCAST
+https://edge-live01-mun.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd
+
+
+
 https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10300.m3u8
 
 
