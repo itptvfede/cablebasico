@@ -22,7 +22,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_mani
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/5fHAD9E.png" group-title="",CINEMAX
-https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
+https://router.cdn.rcs.net.ar/mnp/tvpublica/output.mpd
 
 
 
