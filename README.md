@@ -40,4 +40,4 @@ http://190.242.41.219:8000/play/a0aq/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",TYC
 http://190.60.37.154:45000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2,
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2,
