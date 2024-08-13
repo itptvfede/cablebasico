@@ -30,7 +30,7 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/wNdwJhn.png" group-title="",GOGOPLAY
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2,
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2
 http://190.60.37.154:45000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",TOONCAST
@@ -40,5 +40,4 @@ http://190.242.41.219:8000/play/a0aq/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",TYC
 http://190.60.37.154:45000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title= 
-https://live.statssportsgoal.com/vivo/1-4174020-0.m3u8?sign=ecea747c4c80cef5b4bfa123b5e6216e&t=66bc1de8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2,
