@@ -31,7 +31,7 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2
-https://live.statssportsgoal.com/vivo/1-4164361-0.m3u8?sign=a14faad94609465078ec5900611055b3&t=66bbac6f
+http://190.60.37.154:45000/play/a03d/index.m3u8
 
 
 
