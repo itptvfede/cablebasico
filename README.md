@@ -21,7 +21,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/5fHAD9E.png" group-title="",CINEMAX
-https://router.cdn.rcs.net.ar/mnp/cinmax/output.mpd
+https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/qnohgYS.jpeg" group-title="",MX FAMILY
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
