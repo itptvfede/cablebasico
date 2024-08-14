@@ -10,7 +10,6 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 1
-http://179.1.146.21:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
@@ -22,7 +21,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/5fHAD9E.png" group-title="",CINEMAX
-https://router.cdn.rcs.net.ar/mnp/tnt/output.mpd
+https://router.cdn.rcs.net.ar/mnp/cinmax/output.mpd
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/qnohgYS.jpeg" group-title="",MX FAMILY
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
@@ -30,18 +29,13 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/wNdwJhn.png" group-title="",GOGOPLAY
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2
-http://190.60.37.154:45000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO2 
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",TOONCAST
 http://177.126.51.9:8001/play/a07a
 
-
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",TYC
-http://190.60.37.154:45000/play/a05a/index.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 3
-https://live.statssportsgoal.com/vivo/1-4179330-0.m3u8?sign=30ef044ebed0ccef3612c58b06fedeef&t=66bcf3db
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
+https://app.viloud.tv/hls/channel/4a5b1c02b18e716d70ce4334450782f4.m3u8
 
 
 
