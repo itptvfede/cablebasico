@@ -37,6 +37,6 @@ http://177.126.51.9:8001/play/a07a
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
 https://app.viloud.tv/hls/channel/4a5b1c02b18e716d70ce4334450782f4.m3u8
 
-
-
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="VOD",TV P
+https://hfs271.serversicuro.cc/hls/,dnzpe5nk27g4ypgyvboh5m3zya3z35siredtrquzeyctjiltcohlmwg64idq,.urlset/master.m3u8
 
