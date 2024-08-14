@@ -40,7 +40,7 @@ http://190.242.41.219:8000/play/a0aq/index.m3u8
 http://190.60.37.154:45000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 3
-https://7f6335dfeb2a39.librarywhispering.com/hls/8087961684dfcf0f-f86bbdff06e589ef6bdd0952595c2ac8a47954282562bd95c5fc9df370cb290a/live.m3u8
+https://live.statssportsgoal.com/vivo/1-4179330-0.m3u8?sign=30ef044ebed0ccef3612c58b06fedeef&t=66bcf3db
 
 
 
