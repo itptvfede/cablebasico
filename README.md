@@ -35,8 +35,8 @@ http://177.126.51.9:8001/play/a07a
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
 https://app.viloud.tv/hls/channel/4a5b1c02b18e716d70ce4334450782f4.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="EVENTOS",EVENTO 2 
-https://live.statssportsgoal.com/vivo/1-4049716-0.m3u8?sign=c26917e6ea862ab0d9d709be65e94856&t=66bd5479
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2 
+https://live.statssportsgoal.com/vivo/1-4197461-0.m3u8?sign=93233a384f1843e46c26bdc61d6818da&t=66bd55d3
 
 
 
