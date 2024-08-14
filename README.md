@@ -34,7 +34,8 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 http://190.60.37.154:45000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",TOONCAST
-http://190.242.41.219:8000/play/a0aq/index.m3u8
+http://177.126.51.9:8001/play/a07a
+
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",TYC
 http://190.60.37.154:45000/play/a05a/index.m3u8
