@@ -53,5 +53,6 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/Q821tES.jpeg" group-title="",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/05qmz22.png" group-title="",DREIKO TV
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
