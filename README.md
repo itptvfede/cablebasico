@@ -43,6 +43,6 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/wJj3j2U.png" group-title="",TYC
-http://181.191.140.2:8000/play/a0gz/index.m3u8
+http://217.26.191.105:8126/play/a0ew/index.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2
