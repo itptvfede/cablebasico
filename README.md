@@ -57,7 +57,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/EflFccE.png" group-title="",CINECANAL
-https://edge-live01-mun.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD-avc1_2499968=10008-scale=30000-p=303642946001000-9113392520070.mp4
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CINECANAL_HD)/1723656140492item-05item_Segment-1941915863066.m4v
+
 
 
 
