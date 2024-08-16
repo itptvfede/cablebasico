@@ -39,8 +39,6 @@ https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",Net TV
-https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd
 
-
-
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe HD 2
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
