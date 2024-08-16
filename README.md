@@ -44,7 +44,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/wJj3j2U.png" group-title="",TYC
 http://38.187.2.194:8000/play/a09e
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/wNdwJhn.png" group-title="",MIX BOLIVIA
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/5F0Nutl.png" group-title="",MIX BOLIVIA
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2
