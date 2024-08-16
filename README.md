@@ -48,5 +48,6 @@ http://38.187.2.194:8000/play/a09e
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2
+https://live.statssportsgoal.com/vivo/1-4054530-0.m3u8?sign=7d0e89a32be16b63b7b6052976c9b219&t=66c006b8
 
 
