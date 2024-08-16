@@ -38,6 +38,3 @@ https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2 
 https://fonz03.dlive.click/WD1lmVp-L4iW0UAa16GFUg/1723802968/3136382e37352e37322e3139/ff491/playlist.m3u8
-
-
-
