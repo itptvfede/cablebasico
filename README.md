@@ -37,7 +37,7 @@ http://177.126.51.9:8001/play/a07a
 https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2 
-https://live.statssportsgoal.com/vivo/1-4174022-0.m3u8?sign=5cc44e8d577089d90f276d13a6832f8c&t=66bd64ec
+https://deportes.sdfgnksbounce.com:8080/MTY4Ljc1LjcyLjE5/16_.m3u8?token=03HoP389URCM6G_wvmRekg&expires=1723788374
 
 
 
