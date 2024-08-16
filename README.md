@@ -1,4 +1,4 @@
-#EXTM3U
+no#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/YiBOqD0.jpg" group-title="",TN 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
@@ -38,8 +38,5 @@ https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2 
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/ArtearHD.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Nacionales", eltrece 
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
+else if (id == "telefe") {
+url = ".cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd"; k1 = "3cec1b1ea9799dda5596e64f37e5ed20"; k2 = "c69f3afde2085dcaaaddbf55246a0323";}
