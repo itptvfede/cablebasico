@@ -37,6 +37,4 @@ http://177.126.51.9:8001/play/a07a
 https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2 
-
-else if (id == "telefe") {
-url = ".cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd"; k1 = "3cec1b1ea9799dda5596e64f37e5ed20"; k2 = "c69f3afde2085dcaaaddbf55246a0323";}
+https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
