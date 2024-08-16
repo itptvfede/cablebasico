@@ -49,3 +49,9 @@ http://38.187.2.194:8000/play/a09e
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/5F0Nutl.png" group-title="",MIX BOLIVIA
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/Q821tES.jpeg" group-title="",EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+
+
