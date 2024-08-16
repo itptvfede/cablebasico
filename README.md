@@ -39,6 +39,7 @@ https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2 
 
 
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/w480/Telefe.png",Telefe HD 2
-https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/ArtearHD.json
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Nacionales", eltrece 
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
