@@ -9,10 +9,13 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/xYDUy0V.png" group-title="",VARIEDTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 1
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/xYDUy0V.png" group-title="",VARIEDTV
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS
+https://live.statssportsgoal.com/vivo/1-4054530-0.m3u8?sign=94f69ac5bc303931eea3303c903679fe&t=66c0093b
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
@@ -46,8 +49,3 @@ http://38.187.2.194:8000/play/a09e
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/5F0Nutl.png" group-title="",MIX BOLIVIA
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
-
-#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2
-https://live.statssportsgoal.com/vivo/1-4054530-0.m3u8?sign=7d0e89a32be16b63b7b6052976c9b219&t=66c006b8
-
-
