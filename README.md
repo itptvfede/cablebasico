@@ -10,7 +10,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 1
-https://fonz01.dlive.click/6EFhms3QHFDBqopZqd0ypQ/1723858127/3136382e37352e37322e3139/ff430/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
@@ -39,6 +39,10 @@ https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/Fh0dH3P.jpeg" group-title="",BOB ESPONJA
 http://51.159.104.29:8080/bobesponja/index.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 
+#EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/wJj3j2U.png" group-title="",TYC
+http://181.191.140.2:8000/play/a0gz/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2
