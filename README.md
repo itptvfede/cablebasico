@@ -45,4 +45,4 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/wJj3j2U.png" group-title="",TYC
 http://38.187.2.194:8000/play/a09e
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2
