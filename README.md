@@ -57,8 +57,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/EflFccE.png" group-title="",CINECANAL
-https://live.sdfgnksbounce.com:8080/NDUuMTc4LjAuNjI=/163_.m3u8?token=GwpcdO2ajS-PRKeN_8blUQ&expires=1723865287
-
+http://45.160.12.253:8000/play/107
 
 
 
