@@ -37,4 +37,4 @@ http://177.126.51.9:8001/play/a07a
 https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2 
-http://170.254.18.106:80/HBO_FAMILY/index.m3u8 
+http://51.159.104.29:8080/bobesponja/index.m3u8
