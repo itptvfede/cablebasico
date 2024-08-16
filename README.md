@@ -30,11 +30,15 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/wNdwJhn.png" group-title="",GOGOPLAY
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",TOONCAST
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/6M68SPV.png" group-title="",TOONCAST
 http://177.126.51.9:8001/play/a07a
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
 https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTO 2 
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/Fh0dH3P.jpeg" group-title="",BOB ESPONJA
 http://51.159.104.29:8080/bobesponja/index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
+
