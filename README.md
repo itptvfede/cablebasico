@@ -15,7 +15,7 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS
-https://live.statssportsgoal.com/vivo/1-4054530-0.m3u8?sign=94f69ac5bc303931eea3303c903679fe&t=66c0093b
+https://live.statssportsgoal.com/vivo/1-4054529-0.m3u8?sign=e30bc4e25dbdb4c77492f8fa417c6241&t=66c020ae
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
