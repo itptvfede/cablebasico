@@ -10,7 +10,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+http://38.7.24.161:8000/play/a03q
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
