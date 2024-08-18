@@ -55,8 +55,4 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 http://192.141.99.3:8000/play/a00d
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/PUYtLkM.png" group-title="",HBO FAMILY
-http://192.141.99.3:8000/play/a00d
-
-
-
-
+http://190.14.249.39:8000/play/a026
