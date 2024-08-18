@@ -30,7 +30,7 @@ https://fl1002.bozztv.com/ssh101/gogoplaysd/index.m3u8
 http://177.126.51.9:8001/play/a07a
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
-https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
+https://app.viloud.tv/hls/channel/4a5b1c02b18e716d70ce4334450782f4.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/Fh0dH3P.jpeg" group-title="",BOB ESPONJA
 http://51.159.104.29:8080/bobesponja/index.m3u8
@@ -58,4 +58,3 @@ http://38.41.8.1:8000/play/a031
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/TntCOc5.png" group-title="",ENERGEEK RETRO
 https://stream.wifiexpert.cl/energeek/canal-1/playlist.m3u8
-
