@@ -55,3 +55,7 @@ http://192.141.99.3:8000/play/a00d
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/PUYtLkM.png" group-title="",HBO FAMILY
 http://38.41.8.1:8000/play/a031
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/TntCOc5.png" group-title="",ENERGEEK RETRO
+https://stream.wifiexpert.cl/energeek/canal-1/playlist.m3u8
+
