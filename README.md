@@ -58,6 +58,3 @@ http://38.41.8.1:8000/play/a031
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/TntCOc5.png" group-title="",ENERGEEK RETRO
 https://stream.wifiexpert.cl/energeek/canal-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/pe7U4h3.png" group-title="",DREAMWORKS
-http://45.175.139.194:8000/play/a00s
