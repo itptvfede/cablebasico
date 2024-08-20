@@ -58,7 +58,7 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 http://192.141.99.3:8000/play/a00d
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/PUYtLkM.png" group-title="",HBO FAMILY
-http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/51.ts
+http://daleplay.club/live/Gustavo43a/d4NQHVSE37jt/53.ts
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/TntCOc5.png" group-title="",ENERGEEK RETRO
 https://stream.wifiexpert.cl/energeek/canal-1/playlist.m3u8
