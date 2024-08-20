@@ -64,3 +64,4 @@ http://daleplay.club/live/Gustavo43a/d4NQHVSE37jt/53.ts
 https://stream.wifiexpert.cl/energeek/canal-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 3
+ 
