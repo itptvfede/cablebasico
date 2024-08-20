@@ -1,4 +1,4 @@
-v#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/YiBOqD0.jpg" group-title="",TN 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
@@ -14,6 +14,8 @@ http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339649.ts
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 2
 http://daleplay.club/live/Gustavo43a/d4NQHVSE37jt/339472.ts
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 3
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
@@ -73,5 +75,5 @@ http://daleplay.club/live/Gustavo43a/d4NQHVSE37jt/53.ts
 https://stream.wifiexpert.cl/energeek/canal-1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 3
+
  
