@@ -62,3 +62,5 @@ http://daleplay.club/live/Gustavo43a/d4NQHVSE37jt/53.ts
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/TntCOc5.png" group-title="",ENERGEEK RETRO
 https://stream.wifiexpert.cl/energeek/canal-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 3
