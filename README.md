@@ -23,6 +23,26 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/PUYtLkM.png" group-title="",HBO FAMILY
+http://daleplay.club/live/Gustavo43a/d4NQHVSE37jt/53.ts
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/Fh0dH3P.jpeg" group-title="",BOB ESPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
+https://stream-cdn-iad1.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
+https://
+
+
+
+
+
+
+
+
 
 
 
