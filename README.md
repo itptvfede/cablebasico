@@ -27,6 +27,12 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/PUYtLkM.png" group-title="",HBO FAMILY
 http://daleplay.club/live/Gustavo43a/d4NQHVSE37jt/53.ts
 
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/Fh0dH3P.jpeg" group-title="",BOB ESPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
+http://
+
 
 
 
