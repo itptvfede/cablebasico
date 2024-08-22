@@ -11,6 +11,3 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/132710.ts
-
-
-
