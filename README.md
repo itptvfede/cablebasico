@@ -7,3 +7,6 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 1
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="",CRONICATV
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
