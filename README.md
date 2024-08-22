@@ -14,3 +14,6 @@ http://daleplay.club:80/live/VmHEeLF8/mUz7ESyq6fUx/339473.ts
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL
+https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
