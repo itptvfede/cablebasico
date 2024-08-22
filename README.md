@@ -16,3 +16,14 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339473.ts
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="",CRONICATV
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL
+https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+
+
+
+
+
