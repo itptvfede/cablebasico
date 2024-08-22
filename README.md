@@ -11,3 +11,6 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 1
 https://
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
