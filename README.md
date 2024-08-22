@@ -33,6 +33,7 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/365765.ts
 
-
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 
+http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339473.ts
 
 
