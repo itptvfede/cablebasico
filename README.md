@@ -24,6 +24,8 @@ http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339473.ts
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/xYDUy0V.png" group-title="",VARIEDTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/PUYtLkM.png" group-title="",HBO FAMILY
+http://daleplay.club/live/Gustavo43a/d4NQHVSE37jt/53.ts
 
 
 
