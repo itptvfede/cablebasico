@@ -18,11 +18,11 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/HT1TaJA.jpeg" group-title="",EL CHAVO 
-http://daleplay.club:80/live/VmHEeLF8/mUz7ESyq6fUx/212265.ts
-
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339473.ts
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/xYDUy0V.png" group-title="",VARIEDTV
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 
 
