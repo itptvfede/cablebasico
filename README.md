@@ -36,8 +36,11 @@ https://stream-cdn-iad1.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
 https://
 
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/5F0Nutl.png" group-title="",MIX BOLIVIA
+https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
-
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/Q821tES.jpeg" group-title="",EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
 
