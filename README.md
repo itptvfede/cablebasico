@@ -18,7 +18,7 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",2 EVENTOS
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339473.ts
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/xYDUy0V.png" group-title="",VARIEDTV
@@ -33,7 +33,7 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/365765.ts
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS  
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",3 EVENTOS  
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339473.ts
 
 
