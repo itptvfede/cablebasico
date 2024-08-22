@@ -15,11 +15,5 @@ https://
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/xYDUy0V.png" group-title="",VARIEDTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
-
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339473.ts
-
-
-
-
-
