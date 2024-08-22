@@ -30,7 +30,7 @@ http://daleplay.club/live/Gustavo43a/d4NQHVSE37jt/53.ts
 http://51.159.104.29:8080/bobesponja/index.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
-https://stream-cdn-iad1.vaughnsoft.net/play/live_simpson_maniahd193.flv
+https://stream-cdn-iad01.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
