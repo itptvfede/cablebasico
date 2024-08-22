@@ -10,4 +10,4 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://player.twitch.tv/?channel=ip_noticias&parent=ipnoticias.ar
+https://router.cdn.rcs.net.ar/mnp/IP/output.mpd
