@@ -21,5 +21,5 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/HT1TaJA.jpeg" group-title="",EL CHAVO 
 http://daleplay.club:80/live/VmHEeLF8/mUz7ESyq6fUx/212265.ts
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 2
-
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 
+http://daleplay.club:80/live/VmHEeLF8/mUz7ESyq6fUx/339474.ts
