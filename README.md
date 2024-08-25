@@ -34,7 +34,7 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
-https://
+https://live.statssportsgoal.com/vivo/1-4054547-0.m3u8?sign=745aaa278fabbd0ca27e89162382bc55&t=66cba4a7
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/5F0Nutl.png" group-title="",MIX BOLIVIA
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
