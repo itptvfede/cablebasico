@@ -43,8 +43,7 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
-https://app.viloud.tv/hls/channel/sep/4a5b1c02b18e716d70ce4334450782f4/low.m3u8
-
+https://app.viloud.tv/hls/channel/sep/161abc510238db4e190885f5860e30bb/low.m3u8
 
 
 
