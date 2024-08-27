@@ -16,7 +16,7 @@ http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339472.ts
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
-http://
+https://live.statssportsgoal.com/vivo/1-4140521-2.m3u8?sign=70d65f2898f2018ad632060ea0f7a437&t=66ce733b
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="",CRONICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
