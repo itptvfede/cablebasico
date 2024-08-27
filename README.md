@@ -10,13 +10,13 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339472.ts
+https://
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/xYDUy0V.png" group-title="",VARIEDTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
-http://daleplay.club:80/live/002global/C2MbWrCPz8a9/234854.ts
+https://
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="",CRONICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
@@ -42,9 +42,14 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/Q821tES.jpeg" group-title="",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
 https://app.viloud.tv/hls/channel/sep/161abc510238db4e190885f5860e30bb/low.m3u8
 
+#EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/qnohgYS.jpeg" group-title="",MX FAMILY
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/wJj3j2U.png" group-title="",TYC
+http://38.187.2.194:8000/play/a09e
 
 
 
