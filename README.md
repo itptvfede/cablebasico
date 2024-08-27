@@ -16,7 +16,7 @@ http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339472.ts
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
-https://live.statssportsgoal.com/vivo/1-4140521-2.m3u8?sign=70d65f2898f2018ad632060ea0f7a437&t=66ce733b
+https://fhlsport20.fls77.xyz/token-dkF4mLacIaSGvzB8kvY6kWnXlMPb1iHjaiKolfNHFTSk5bmaHUFdCI4rpR1LVUpbFiyewTVomvc%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5MW5tLmhueW9uZ3NodW4uY24=/live/sd-6MrBAg8Bw8ZunRH4b8.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="",CRONICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
