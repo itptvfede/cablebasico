@@ -51,6 +51,10 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/wJj3j2U.png" group-title="",TYC
 http://38.187.2.194:8000/play/a09e
 
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/6M68SPV.png" group-title="",TOONCAST
+http://177.126.51.9:8001/play/a07a
+
+
 
 
 
