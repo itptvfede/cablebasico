@@ -1,6 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://router.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/6M68SPV.png" group-title="",TOONCAST
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10300.m3u8
