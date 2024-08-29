@@ -1,4 +1,4 @@
- #EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/365765.ts
@@ -16,7 +16,7 @@ http://
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
-https://live.statssportsgoal.com/vivo/1-4174049-0.m3u8?sign=b39519d79189e4899582942897e26d00&t=66cff508
+https://
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="",CRONICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
@@ -47,9 +47,6 @@ https://app.viloud.tv/hls/channel/sep/161abc510238db4e190885f5860e30bb/low.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/qnohgYS.jpeg" group-title="",MX FAMILY
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/wJj3j2U.png" group-title="",TYC
-http://38.187.2.194:8000/play/a09e
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/6M68SPV.png" group-title="",TOONCAST
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/132704.ts
