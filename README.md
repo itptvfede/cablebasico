@@ -36,7 +36,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_P
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TV CINE
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
 https://app.viloud.tv/hls/channel/sep/161abc510238db4e190885f5860e30bb/lo_mid.m3u8
 
 
