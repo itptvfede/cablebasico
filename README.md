@@ -6,7 +6,7 @@
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8?fbclid=PAAaagylDoTQ3WF9b_-7_pOIaQY7Zyj2d7k0JdoNIdIlAo0-KqhikaWEFKfD4
+https://cdn8.en-vivo.info/hotflix/tycsports/index.m3u8?token=979135fe267416e64fbe14ca0caef2ef2e96ecf3-c8beb081b61073031597d1107bbd7462-1725037928-1725027128&remote=201.219.168.171
 
 
 
