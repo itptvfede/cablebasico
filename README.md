@@ -6,7 +6,7 @@
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
-https://app.viloud.tv/hls/channel/161abc510238db4e190885f5860e30bb.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 
 
 
