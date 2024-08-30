@@ -30,13 +30,19 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 https://
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/80JtfrC.png" group-title="",ESPN PREMIUM
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
 https://app.viloud.tv/hls/channel/sep/161abc510238db4e190885f5860e30bb/lo_mid.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/5F0Nutl.png" group-title="",MIX BOLIVIA
+https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/wNdwJhn.png" group-title="",GOGOPLAY
+https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
 
