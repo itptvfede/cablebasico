@@ -16,6 +16,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
+https://
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
@@ -27,9 +28,15 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 https://
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
+https://
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/80JtfrC.png" group-title="",ESPN PREMIUM
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TV CINE
+https://app.viloud.tv/hls/channel/sep/161abc510238db4e190885f5860e30bb/lo_mid.m3u8
+
+
