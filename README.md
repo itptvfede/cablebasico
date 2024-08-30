@@ -23,5 +23,18 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="",CRONICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
+https://
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/80JtfrC.png" group-title="",ESPN PREMIUM
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+
+
+
+
+
+
 
 
