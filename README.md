@@ -16,7 +16,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://telefe.paramount.tech/h/2.QcKWyS2dvGsxETuI4uhpWdmPfKRxC9wTccBF4kjszwlsruf-QBE999J-ujTxW3IlVOCTgHZA3wbnkS9jN8HL1rMkr_37XqFkdSaQW9J5yaC74oU1Jy0hCuaAEm0wuGQ0p30TpMpq_2xzOQbsqOHRzGlrqyd7_6wvuv-Sf6RlkUZ4xyHvEjYbilC87adIn6yNysLgAJ-NltIj7DR8NuYBUbZin4HYSiSnn0rT2ORwmg6FCxG_g9iOCHfxrKMo1m8zJmJ7w-SNScTOtxgHtbb2fRYuH9IhHfLbiJCsR1Z4BUq_NzY/master.m3u8?hdnts=st%3D1725140462~exp%3D1725147662~acl%3D%2Fh%2F2.QcKWyS2dvGsxETuI4uhpWdmPfKRxC9wTccBF4kjszwlsruf-QBE999J-ujTxW3IlVOCTgHZA3wbnkS9jN8HL1rMkr_37XqFkdSaQW9J5yaC74oU1Jy0hCuaAEm0wuGQ0p30TpMpq_2xzOQbsqOHRzGlrqyd7_6wvuv-Sf6RlkUZ4xyHvEjYbilC87adIn6yNysLgAJ-NltIj7DR8NuYBUbZin4HYSiSnn0rT2ORwmg6FCxG_g9iOCHfxrKMo1m8zJmJ7w-SNScTOtxgHtbb2fRYuH9IhHfLbiJCsR1Z4BUq_NzY%2Fmaster.m3u8~hmac%3D1a99f66945e2bbbdd35b94c412ddcb35f9de111952a3a64a173d61c37326f64b
+https://
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
