@@ -28,7 +28,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
-https://
+https://live.statssportsgoal.com/vivo/1-4148958-2.m3u8?sign=0666395364892bc196ab63b5f3c07ec3&t=66d36067
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
