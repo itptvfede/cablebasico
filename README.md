@@ -16,7 +16,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://fonz02.dlive.click/UDYNET3pYiDP8g9CZzHjUw/1725144232/3230312e3231392e3136382e313731/ff425/playlist.m3u8
+http://127.0.0.1:6878/ace/m/692bf46893d21bac36c65eea23d7be0606109d80/bc74fab53c20f7a27fd9bcaeadb833d4.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
