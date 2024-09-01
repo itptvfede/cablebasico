@@ -30,7 +30,7 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 https://live.statssportsgoal.com/vivo/1-4054551-0.m3u8?sign=78a44d5b53686bfb12e3f8556f6c1564&t=66d3e6ef
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE OPCION VPN AR
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
