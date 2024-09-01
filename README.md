@@ -51,3 +51,6 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/F6XG47Y.png" group-title="",LATINO KIDS
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE OPCION 2
+https://8.tutl24.xyz/live/STe62ba59009e8031.m3u8
+
