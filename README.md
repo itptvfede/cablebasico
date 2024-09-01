@@ -16,7 +16,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://clutch.vaughnsoft.net/ord/vl/medieval_tv_series.m3u8
+https://clutch.vaughnsoft.net/ord/vl/medieval_tv_series.flv
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
@@ -28,7 +28,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl
+https://live.statssportsgoal.com/vivo/1-4054551-0.m3u8?sign=78a44d5b53686bfb12e3f8556f6c1564&t=66d3e6ef
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
