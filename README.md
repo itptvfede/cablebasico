@@ -43,7 +43,7 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
-https://
+https://aeceapejeif3aa.hopehouse.mov/hls/03fe14207a2e5330-058a71802f1632d1cda7714d1859b90aef184cb87b4528271e71b1479debe429/live.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
