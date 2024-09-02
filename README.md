@@ -16,7 +16,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://clutch.vaughnsoft.net/ord/vl/medieval_tv_series.flv
+http://daleplay.club:80/live/LorenaValdiviezo/sf3buq6Pe6hc/53482.ts
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
