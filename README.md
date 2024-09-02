@@ -16,7 +16,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://off1.hamaradilhai.com:999/hls/espnar.m3u8?md5=UlUu5FvtVTCV7dqeFTcXAQ&expires=1725308391
+https://live.statssportsgoal.com/vivo/1-4054553-0.m3u8?sign=3e19172653fc50e8df1161c44be99b8c&t=66d65bc7
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
