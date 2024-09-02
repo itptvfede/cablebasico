@@ -16,7 +16,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-http://daleplay.club:80/live/LorenaValdiviezo/sf3buq6Pe6hc/53482.ts
+http://
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
@@ -28,7 +28,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
-https://live.statssportsgoal.com/vivo/1-4054556-0.m3u8?sign=7ab8df1d12e3e92cd733fc5cfd612fcd&t=66d50c9b
+http://daleplay.club:80/live/LorenaValdiviezo/sf3buq6Pe6hc/53482.ts
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
@@ -43,7 +43,7 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
-https://aeceapejeif3aa.hopehouse.mov/hls/03fe14207a2e5330-058a71802f1632d1cda7714d1859b90aef184cb87b4528271e71b1479debe429/live.m3u8
+https://
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
