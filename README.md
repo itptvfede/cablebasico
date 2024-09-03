@@ -23,11 +23,3 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE OPCION 2
 https://8.tutl24.xyz/live/STe62ba59009e8031.m3u8
 
-
-
-
-
-
-
-
-
