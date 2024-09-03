@@ -11,11 +11,3 @@ http://
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 04
 http://
-
-
-
-
-
-
-
-
