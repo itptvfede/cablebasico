@@ -16,7 +16,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://27.tiofutbol.com/lb/tycsports/index.m3u8?token=55c2ee00e47062307a594f8f330c6c876a01750b-e9e3040c004ad784ed9c681d0cedbb47-1725388683-1725377883&remote=201.219.168.171
+http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/387065.ts
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
