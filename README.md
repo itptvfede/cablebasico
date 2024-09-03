@@ -38,6 +38,8 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=NdQSOItOQ5Y
 https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/0Kreo0K.jpeg" group-title="",QUIERO MUSICA 
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=UC_-fqnv3Rp8k9VJ06_aDIHg
 
 
 
