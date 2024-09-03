@@ -16,7 +16,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/387065.ts
+
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
@@ -43,7 +43,7 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
-https://
+http://38.7.24.161:8000/play/a03q
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
@@ -53,4 +53,9 @@ https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE OPCION 2
 https://8.tutl24.xyz/live/STe62ba59009e8031.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/HT1TaJA.jpeg" group-title="",EL CHAVO
+http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/387065.ts
+
+
 
