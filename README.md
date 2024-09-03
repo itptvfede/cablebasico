@@ -45,20 +45,11 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 
+
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV OPCION 2
 https://ythls-v3.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
+
 #EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
-
-
-
-
-
-
-
-
-
-
-
 
