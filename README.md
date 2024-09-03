@@ -47,8 +47,17 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/rGaSHd8.png" group-title="",A24 OPCION 2
+#EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/rGaSHd8.png" group-title="",A24 OPCION 2
+https://
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/5F0Nutl.png" group-title="",MIX BOLIVIA
+https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+
