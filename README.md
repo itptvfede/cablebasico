@@ -44,3 +44,9 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/HT1TaJA.jpeg" group-title="",EL CHAVO
+http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/387065.ts
+
+
