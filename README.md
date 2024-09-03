@@ -28,7 +28,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
-http://daleplay.club:80/live/LorenaValdiviezo/sf3buq6Pe6hc/53482.ts
+
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
@@ -43,7 +43,7 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
-http://38.7.24.161:8000/play/a03q
+http://
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
@@ -56,6 +56,13 @@ https://8.tutl24.xyz/live/STe62ba59009e8031.m3u8
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/HT1TaJA.jpeg" group-title="",EL CHAVO
 http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/387065.ts
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/Q6PDUEF.png" group-title="",CN5
+https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
+
+
+
 
 
 
