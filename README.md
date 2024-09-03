@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/rGaSHd8.png" group-title="",A24 OPCION 2
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 
@@ -39,3 +37,10 @@ https://8.tutl24.xyz/live/STe62ba59009e8031.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/5F0Nutl.png" group-title="",MIX BOLIVIA
+https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
+
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/BNihN5F.png" group-title="",MONITV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
