@@ -16,7 +16,7 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://ewvz.la10tv.com/lb/espnpremium/index.m3u8?token=24cad8a34d5b59570ef40ad05949ba41ac855f9d-8ceb411c08442f346d53491aad87fc8d-1725413207-1725377207&remote=201.219.168.171
+https://27.tiofutbol.com/lb/tycsports/index.m3u8?token=55c2ee00e47062307a594f8f330c6c876a01750b-e9e3040c004ad784ed9c681d0cedbb47-1725388683-1725377883&remote=201.219.168.171
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
