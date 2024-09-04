@@ -82,6 +82,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
 https://app.viloud.tv/hls/channel/sep/161abc510238db4e190885f5860e30bb/lo_mid.m3u8
 
+#EXTINF:-1 tvg-id="28" tvg-logo="https://i.imgur.com/qnohgYS.jpeg" group-title="",MX FAMILY
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
 
 
