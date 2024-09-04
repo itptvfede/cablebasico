@@ -70,6 +70,19 @@ https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo="https://i.imgur.com/F6XG47Y.png" group-title="",LATINO KIDS
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
+#EXTINF:-1 tvg-id="24" tvg-logo="https://i.imgur.com/Fh0dH3P.jpeg" group-title="",BOB ESPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL
+https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-logo="https://i.imgur.com/Q821tES.jpeg" group-title="",EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-logo="https://i.imgur.com/NWXeCMj.jpeg" group-title="",TV CINE
+https://app.viloud.tv/hls/channel/sep/161abc510238db4e190885f5860e30bb/lo_mid.m3u8
+
+
 
 
 
