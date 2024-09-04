@@ -60,3 +60,20 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="",CRONICATV
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
+
+#EXTINF:-1 tvg-id="21" tvg-logo="https://i.imgur.com/0Kreo0K.jpeg" group-title="",QUIERO MUSICA OPCION 2
+https://ythls-v3.onrender.com/channel/UC_-fqnv3Rp8k9VJ06_aDIHg.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/wNdwJhn.png" group-title="",GOGOPLAY
+https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-logo="https://i.imgur.com/F6XG47Y.png" group-title="",LATINO KIDS
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+
+
+
+
+
+
+
+
