@@ -39,4 +39,10 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/HT1TaJA.jpeg" group-title="",EL CHAVO
 http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/387065.ts
 
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
+https://
+
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 04
+https://
+
 
