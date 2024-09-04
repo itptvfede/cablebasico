@@ -85,10 +85,8 @@ https://app.viloud.tv/hls/channel/sep/161abc510238db4e190885f5860e30bb/lo_mid.m3
 #EXTINF:-1 tvg-id="28" tvg-logo="https://i.imgur.com/qnohgYS.jpeg" group-title="",MX FAMILY
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
+#EXTINF:-1 tvg-id="29" tvg-logo="https://i.imgur.com/05qmz22.png" group-title="",DREIKO TV
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="30" tvg-logo="https://i.imgur.com/TntCOc5.png" group-title="",ENERGEEK RETRO
+https://stream.wifiexpert.cl/energeek/canal-1/playlist.m3u8
