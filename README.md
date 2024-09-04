@@ -14,7 +14,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 https://ythls-v3.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/t7msThe.jpeg" group-title="",AMERICA TV
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/d23bbfc1-b3e8-42c7-9dd0-e98c31c8c963:SCL/master.m3u8
+http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/81283
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
 http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/369581
