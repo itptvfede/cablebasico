@@ -50,7 +50,3 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=NdQSOItOQ5Y
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/Q6PDUEF.png" group-title="",CN5 OPCION 2
 https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-
-
-
-
