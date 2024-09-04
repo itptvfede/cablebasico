@@ -17,7 +17,7 @@ https://ythls-v3.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/d23bbfc1-b3e8-42c7-9dd0-e98c31c8c963:SCL/master.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://tvcanales.cf/95da1c1f-ed1e-4ed3-b439-8a04160ed646
+http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/369581
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 https://
