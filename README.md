@@ -1,7 +1,6 @@
 
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/rGaSHd8.png" group-title="",A24 OPCION 2
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 
@@ -59,3 +58,5 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
 #EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="",CRONICATV OPCION 2
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/8KXVHmj.jpeg" group-title="",CRONICATV
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=avly0uwZzOE
