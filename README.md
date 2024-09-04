@@ -17,7 +17,7 @@ https://ythls-v3.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/369581
+http://45.58.186.133:24423/live/cyx_37787046092661183749537_480p.ts?delay=22
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 https://
