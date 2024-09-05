@@ -17,7 +17,7 @@ https://ythls-v3.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-http://64.31.56.75:23455/live/cyx_39077CF3429D8189BDA34D.ts
+http://64.31.56.75:23455/live/cyx-B172C6604BF7bde63354_480p.ts
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 https://
