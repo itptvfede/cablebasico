@@ -17,7 +17,7 @@ https://ythls-v3.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://live.statssportsgoal.com/vivo/1-4204554-0.m3u8?sign=4ff970f73184cbe74bc2b6eb46a0b78c&t=66da64a7
+https://fdj49sum3z6ht7bp85wg2n.cdnstrength.net:8443/hls/pdiez3cpk4198.m3u8?s=EwMFLAlUeHS2hhg18GA4Jg&e=1725596331
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 https://
