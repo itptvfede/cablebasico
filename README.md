@@ -33,5 +33,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q821tES.jpeg" group-title="",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q8Cpu1f.png" group-title="",TVP
+https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+
 
 
