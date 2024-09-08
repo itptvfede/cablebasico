@@ -42,3 +42,11 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 http://45.160.12.253:8000/play/209
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ws7vnQX.png" group-title="",CANAL 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Fh0dH3P.jpeg" group-title="",BOB ESPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
+
+
