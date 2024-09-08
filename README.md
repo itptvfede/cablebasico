@@ -18,6 +18,6 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0Kreo0K.jpeg" group-title="",QUIERO MUSICA 
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
 
