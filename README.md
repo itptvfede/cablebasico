@@ -37,7 +37,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
-https://
+http://45.160.12.253:8000/play/209
+
