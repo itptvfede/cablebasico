@@ -61,7 +61,7 @@ https://
 http://45.160.12.253:8000/play/209
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
-https://agl2zq.la10tv.com/lb/dsports/index.m3u8?token=289d794dc098e9bc6694ffb8a8fbf6385032304a-416de8bb579f36de645fcfdbc110c2b3-1725874273-1725838273&remote=168.138.143.60
+https://a2lja3m.la10tv.com/lb/tycinternacional/index.m3u8?token=19191b49a9aa782ac6e438efaa9aa4dabca04389-cb0b8682dfdd4f73f29c64dc795c95b6-1725874567-1725838567&remote=168.138.143.60
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 04
 https://live.statssportsgoal.com/vivo/1-4210620-0.m3u8?sign=1a2e071b3ea4c6719d19e13575e97975&t=66de6a7f
