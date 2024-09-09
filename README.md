@@ -34,7 +34,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_1_av-p.m3u8?sd=10&rebase=on 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q821tES.jpeg" group-title="",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
