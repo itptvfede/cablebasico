@@ -55,7 +55,7 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 http://45.160.12.253:8000/play/209
