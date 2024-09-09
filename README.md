@@ -34,7 +34,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E3gT40a.jpeg" group-title="",TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q821tES.jpeg" group-title="",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -55,13 +55,13 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 http://45.160.12.253:8000/play/209
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 03
-https://a2lja3m.la10tv.com/lb/tycinternacional/index.m3u8?token=19191b49a9aa782ac6e438efaa9aa4dabca04389-cb0b8682dfdd4f73f29c64dc795c95b6-1725874567-1725838567&remote=168.138.143.60
+https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 04
-https://live.statssportsgoal.com/vivo/1-4210620-0.m3u8?sign=1a2e071b3ea4c6719d19e13575e97975&t=66de6a7f
+https://
