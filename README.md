@@ -64,4 +64,4 @@ http://45.160.12.253:8000/play/209
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 04
-https://
+https://router.cdn.rcs.net.ar/mnp/space/output.mpd
