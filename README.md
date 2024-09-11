@@ -64,4 +64,4 @@ http://45.160.12.253:8000/play/209
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 04
-
+https://ahmf7yrnsxdwj285t6zpvq.cdnstrength.net:8443/hls/02vc4js8y7sld7.m3u8?s=eAm8jXiVtwG71RiXhsbszA&e=1726036363
