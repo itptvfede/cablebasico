@@ -3,17 +3,10 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Fh0dH3P.jpeg" group-title="",BOB ESPONJA
 http://51.159.104.29:8080/bobesponja/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HT1TaJA.jpeg" group-title="",EL CHAVO
-http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/387065.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iv2kJ2p.jpeg" group-title="",BIG CHANNEL 
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OIuUp63.jpeg" group-title="",THE SIMPSONS
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ySYN3RC.png" group-title="",MONITV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ws7vnQX.png" group-title="",CANAL 26
 https://ythls-v3.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
