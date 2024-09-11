@@ -44,4 +44,4 @@ http://45.160.12.253:8000/play/209
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 04
-
+https://ch01-04-11-tyc.vodgc.net:443/out/v1/84ee2b0cce384a30abd70b05562ddd91/index_10.m3u8
