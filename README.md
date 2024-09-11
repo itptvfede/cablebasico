@@ -27,6 +27,17 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iQVpxbO.jpeg" group-title="",EL CHAVO
 http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/387065.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bPeSlyT.jpeg" group-title="",AMERICA TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0E9zD9e.jpeg" group-title="",TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RWdFxVb.png" group-title="",MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+
+
 
 
 
