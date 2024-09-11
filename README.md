@@ -64,4 +64,4 @@ http://45.160.12.253:8000/play/209
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 04
-https://live.statssportsgoal.com/vivo/1-4007910-2.m3u8?sign=9999b9c54bc2535925444cf2334d89b2&t=66e11f58
+https://live.statssportsgoal.com/vivo/1-4007910-2.m3u8?sign=16bb55afc5f9f01006276a3afc8ea02e&t=66e12664
