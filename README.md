@@ -64,4 +64,4 @@ http://45.160.12.253:8000/play/209
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 04
-https://router.cdn.rcs.net.ar/mnp/space/output.mpd
+https://bgfuzq.la10tv.com/golperu/tracks-v1a1/mono.m3u8?remote=168.138.143.60&token=84db39fa46946f1305a6d001f3578fcc7fe63243-afa07050491de24dabe3807bf8a9e040-1726048852-1726012852
