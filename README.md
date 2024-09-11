@@ -35,7 +35,7 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 01
-https://live.statssportsgoal.com/vivo/1-4007909-0.m3u8?sign=2928706461d8972d057e5493c6fa337d&t=66e0f28b
+http://182.168.1.11:8585/play/nFMgOKx_xwNh6fWFEj-4wz5If3G3T0C4ADB7eBDu5lU/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 02
 http://45.160.12.253:8000/play/209
@@ -44,4 +44,4 @@ http://45.160.12.253:8000/play/209
 https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIJ3oJS.png" group-title="",EVENTOS 04
-https://live.statssportsgoal.com/vivo/1-4007910-2.m3u8?sign=16bb55afc5f9f01006276a3afc8ea02e&t=66e12664
+
