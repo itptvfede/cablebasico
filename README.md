@@ -37,4 +37,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DdKPOnA.png" group-title="",EVENTOS DEPORTIVO
-https://aeceapejeif3aa.coalcannon.com/hls/e1a6e08e716688b9-23de026200f611178a020768f87f9f6971db831473bf93c9704eb539cc1753cc/live.m3u8
+https://8.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
+
+
+
+
