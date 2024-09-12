@@ -39,4 +39,8 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DdKPOnA.png" group-title="",EVENTOS DEPORTIVO
 https://8.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DdKPOnA.png" group-title="",EVENTOS DEPORTIVO
+https://live.sdfgnksbounce.com:8080/MjAxLjIxOS4xNjguMTcx/49_680.ts
+
+
 
