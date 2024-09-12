@@ -4,7 +4,7 @@
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wFanuVL.jpeg" group-title="",TN
-https://ythls-v3.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+http://ythls-v3.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iGOrAq3.jpeg" group-title="",CRONICA TV
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
