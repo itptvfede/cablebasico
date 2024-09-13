@@ -24,7 +24,7 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 https://8.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tXCgyZw.png" group-title="",EVENTOS 2
-https://
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uHp18gV.jpeg" group-title="",QUIERO MUSICA 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
