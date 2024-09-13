@@ -29,6 +29,14 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uHp18gV.jpeg" group-title="",QUIERO MUSICA 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SWuvB9u.jpeg" group-title="",BIG CHANNEL 
+https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RXnpkoK.png" group-title="",MIX BOLIVIA
+https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n2isExW.jpeg" group-title="",BOB ESPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
 
 
 
