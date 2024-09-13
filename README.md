@@ -24,7 +24,7 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 https://8.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tXCgyZw.png" group-title="",EVENTOS 2
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+https://b2zmawnpyww.la10tv.com/tycinternacional/tracks-v1a1/mono.m3u8?remote=201.219.168.171&token=918e43a8164cb7c9eb74561f12bdf75e4d8cb4e2-466078c4d9da0196c4bbb682edc55196-1726298384-1726262384
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uHp18gV.jpeg" group-title="",QUIERO MUSICA 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
