@@ -12,8 +12,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0sdIWwS.png" group-title="",TVP
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
-
+https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
 
 
