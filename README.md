@@ -52,3 +52,9 @@ http://45.160.12.253:8000/play/209
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tXCgyZw.png" group-title="",EVENTOS 5
 https://
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5quct15.png" group-title="",ACS NETWORD TV
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1148934289.m3u8
+
+
+
