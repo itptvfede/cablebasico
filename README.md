@@ -61,7 +61,7 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1148934289
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vna4hpL.png" group-title="",TYC
 https://8.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vna4hpL.png" group-title="",TNT SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EKfDj0M.png" group-title="",TNT SPORTS
 https://8.tutl24.xyz/live/ST9945b3149bac165.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z6sNi9e.jpeg" group-title="",EL CHAVO
