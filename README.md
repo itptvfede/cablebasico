@@ -20,11 +20,11 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3FMzHMt.jpeg" group-title="",NET TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tXCgyZw.png" group-title="",EVENTOS 1
-https://8.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cjULHGK.jpeg" group-title="",EVENTOS 1
+https://
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tXCgyZw.png" group-title="",EVENTOS 2
-https://b2zmawnpyww.la10tv.com/tycinternacional/tracks-v1a1/mono.m3u8?remote=201.219.168.171&token=918e43a8164cb7c9eb74561f12bdf75e4d8cb4e2-466078c4d9da0196c4bbb682edc55196-1726298384-1726262384
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cjULHGK.jpeg" group-title="",EVENTOS 2
+https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uHp18gV.jpeg" group-title="",QUIERO MUSICA 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
@@ -47,15 +47,24 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1kyBIwn.png" group-title="",MONI TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tXCgyZw.png" group-title="",EVENTOS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cjULHGK.jpeg" group-title="",EVENTOS 3
 http://45.160.12.253:8000/play/209
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tXCgyZw.png" group-title="",EVENTOS 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cjULHGK.jpeg" group-title="",EVENTOS 4
 https://fdj49sum3z6ht7bp85wg2n.cdnstrength.net:8443/hls/02vc4js8y7sld7.m3u8?s=bXoAbnSsiXPjPmwLsxr9pQ&e=1726345324
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5quct15.png" group-title="",ACS NETWORD TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1148934289.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vna4hpL.png" group-title="",TYC
+https://8.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vna4hpL.png" group-title="",TNT SPORTS
+https://8.tutl24.xyz/live/ST9945b3149bac165.m3u8
+
+
+
 
 
 
