@@ -51,7 +51,7 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 http://45.160.12.253:8000/play/209
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cjULHGK.jpeg" group-title="",EVENTOS 4
-https://live.statssportsgoal.com/vivo/1-4054575-0.m3u8?sign=0452a1271d54aef15bba63153c245fbc&t=66e60815
+https://fonz02.dlive.click/EyfNFm6I-SIPEHu-MWuPcw/1726366033/3230312e3231392e3136382e313731/ff636/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5quct15.png" group-title="",ACS NETWORD TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1148934289.m3u8
