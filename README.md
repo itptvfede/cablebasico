@@ -51,7 +51,8 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 http://45.160.12.253:8000/play/209
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cjULHGK.jpeg" group-title="",EVENTOS 4
-https://aeceapejeif3aa.hopehouse.mov/hls/29eabd8ef9c65f38-05d041fbeebe266701f3097e91ef14f56c89e436a73e7ea6c76596bac7e0396b/live.m3u8
+https://ad20171t.mizhls.ru/fls/cdn/myfeed103/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5quct15.png" group-title="",ACS NETWORD TV
