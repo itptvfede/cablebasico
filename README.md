@@ -65,4 +65,6 @@ https://8.tutl24.xyz/live/ST9945b3149bac165.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z6sNi9e.jpeg" group-title="",EL CHAVO
 http://daleplay.club:80/live/Gustavo43a/d4NQHVSE37jt/387065.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F8Ujc9P.jpeg" group-title="",TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
