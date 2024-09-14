@@ -21,7 +21,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cjULHGK.jpeg" group-title="",EVENTOS 1
-https://
+https://live.statssportsgoal.com/vivo/1-4054572-0.m3u8?sign=7ec38934dab9dd034f33465679a9bb2f&t=66e62ce2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cjULHGK.jpeg" group-title="",EVENTOS 2
 https://
