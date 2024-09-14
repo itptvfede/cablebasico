@@ -51,7 +51,7 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 http://45.160.12.253:8000/play/209
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tXCgyZw.png" group-title="",EVENTOS 5
-https://agl2zq.la10tv.com/lb/disney7/index.m3u8?token=613ec2e4a707476bbdee9684cdd5c1d28ba08dfb-01b795823f8baaa5b4cbea736f5a5d1b-1726357249-1726321249&remote=201.219.168.171
+https://fdj49sum3z6ht7bp85wg2n.cdnstrength.net:8443/hls/02vc4js8y7sld7.m3u8?s=bXoAbnSsiXPjPmwLsxr9pQ&e=1726345324
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5quct15.png" group-title="",ACS NETWORD TV
