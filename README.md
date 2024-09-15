@@ -21,7 +21,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cjULHGK.jpeg" group-title="",EVENTOS 1
-https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/hdntl=exp=1726494818~acl=%2f*~data=hdntl~hmac=be3dd9979005e9c7ec249ae42742ef7dd9dfcb83737714a5b5d53ee766523359/master0.m3u8
+https://app.viloud.tv/hls/channel/05824e249d45bc8d7dec6b47a3d520b8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cjULHGK.jpeg" group-title="",EVENTOS 2
 https://
