@@ -14,6 +14,13 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7XX7HMw.png" group-title="",CN5
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=NdQSOItOQ5Y
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7XX7HMw.png" group-title="",C
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1726608572~acl=%2f*~data=hdntl~hmac=36e45367c20e42d84a489c42a7c15c3b907906c03f5775c79ac84d38ee998a44/Canal8cordoba0.m3u8
+
+
+
+
+
 
 
 
