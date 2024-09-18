@@ -19,9 +19,5 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HTAk9yf.jpeg" group-title="",LPF (SOLO PARTIDOS)
 https://
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JVygfoE.jpeg" group-title="",BIG CHANNEL
+https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
