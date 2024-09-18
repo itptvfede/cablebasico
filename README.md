@@ -29,8 +29,17 @@ https://27583.live.streamtheworld.com/AM790_56.mp3?dist=onlineradiobox
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/13a9tG3.jpeg" group-title="",QUIERO MUSICA 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zEYQOjp.jpeg" group-title="", a 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FS88Nb7.png" group-title="", A24 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4bXsFS1.png" group-title="", CINE PARA TODOS 
+https://app.viloud.tv/hls/channel/05824e249d45bc8d7dec6b47a3d520b8.m3u8
+
+
+
+
+
+
 
 
 
