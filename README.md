@@ -21,3 +21,10 @@ https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JVygfoE.jpeg" group-title="",BIG CHANNEL
 https://glb.bozztv.com/glb/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JVygfoE.jpeg" group-title="",RADIO
+https://streamconex.com:8056/stream?
+
+
+
+
