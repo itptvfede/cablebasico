@@ -34,3 +34,8 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4bXsFS1.png" group-title="", CINE PARA TODOS 
 https://app.viloud.tv/hls/channel/sep/05824e249d45bc8d7dec6b47a3d520b8/low.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FS88Nb7.png" group-title="", AMERICA TV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/64ac605d-90ec-43a4-b919-67a74771fd0e:SCL/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
+
+
