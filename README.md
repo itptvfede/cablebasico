@@ -26,5 +26,6 @@ https://streamconex.com:8056/stream?
 https://27583.live.streamtheworld.com/AM790_56.mp3?dist=onlineradiobox
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HTAk9yf.jpeg" group-title="",LPF (SOLO PARTIDOS)
+OPCION 2
 https://
 
