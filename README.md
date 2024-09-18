@@ -12,7 +12,7 @@ https://8.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HTAk9yf.jpeg" group-title="",LPF (SOLO PARTIDOS)
-https://deportes.slkdhfdhldeportes.com:8080/MjAxLjIxOS4xNjguMTcx/4_1728.ts
+https://deportes.slkdhfdhldeportes.com:8080/live/MjAxLjIxOS4xNjguMTcx/4_1728.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wnlgp4x.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
