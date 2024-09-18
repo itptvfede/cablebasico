@@ -33,13 +33,4 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4bXsFS1.png" group-title="", CINE PARA TODOS 
-https://app.viloud.tv/hls/channel/05824e249d45bc8d7dec6b47a3d520b8.m3u8
-
-
-
-
-
-
-
-
-
+https://app.viloud.tv/hls/channel/sep/05824e249d45bc8d7dec6b47a3d520b8/low.m3u8
