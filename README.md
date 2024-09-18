@@ -27,6 +27,6 @@ https://streamconex.com:8056/stream?
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/24cEEKG.jpeg" group-title="",RADIO MITRE AM 790
 https://27583.live.streamtheworld.com/AM790_56.mp3?dist=onlineradiobox
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uHp18gV.jpeg" group-title="",QUIERO MUSICA 
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HTAk9yf.jpeg" group-title="",LPF (SOLO PARTIDOS)
+https://
 
