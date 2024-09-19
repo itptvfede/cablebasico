@@ -44,6 +44,15 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mAM1GR0.png" group-title="",MAGIC RETRO
 https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JVygfoE.jpeg" group-title="",BIC CHANNEL
+https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
 
 
 
