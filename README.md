@@ -38,10 +38,12 @@ http://daleplay.club:80/live/002global/C2MbWrCPz8a9/81285
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/13a9tG3.jpeg" group-title="",QUIERO MUSICA
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wnlgp4x.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mAM1GR0.png" group-title="",MAGIC RETRO
+https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
+
 
 
 
