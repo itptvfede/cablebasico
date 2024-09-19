@@ -20,3 +20,6 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bZXADcj.png" group-title="",CN5
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=NdQSOItOQ5Y
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FS88Nb7.png" group-title="",A24
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
