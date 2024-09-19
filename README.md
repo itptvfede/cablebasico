@@ -63,10 +63,8 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bRVbZXj.png" group-title="",GOGOPLAY
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4bXsFS1.png" group-title="",CINE PARA TODOS
+https://
 
 
 
