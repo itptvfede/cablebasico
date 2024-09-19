@@ -24,3 +24,6 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=NdQSOItOQ5Y
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FS88Nb7.png" group-title="",A24
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4fwalF0.jpeg" group-title="",CRONICA TV
+https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
