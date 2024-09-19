@@ -40,4 +40,12 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wnlgp4x.jpeg" group-title="",THE SIMPSONS
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+
+
+
+
+
 
