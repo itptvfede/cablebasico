@@ -17,3 +17,6 @@ https://8.tutl24.xyz/live/ST9945b3149bac165.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DFDoDVG.jpeg" group-title="",TN
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bZXADcj.png" group-title="",CN5
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=NdQSOItOQ5Y
