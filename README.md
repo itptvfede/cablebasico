@@ -11,7 +11,7 @@ https://streamconex.com:8056/stream?
 https://27583.live.streamtheworld.com/AM790_56.mp3?dist=onlineradiobox
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QXJSRUI.png" group-title="",TYC
-https://7.tutl24.xyz/live/STb88a289438c3944.m3u8
+https://7.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XIsc7Iz.png" group-title="",TNT SPORTS
 https://8.tutl24.xyz/live/ST9945b3149bac165.m3u8
