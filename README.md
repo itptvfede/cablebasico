@@ -14,7 +14,7 @@ https://27583.live.streamtheworld.com/AM790_56.mp3?dist=onlineradiobox
 https://7.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XIsc7Iz.png" group-title="",TNT SPORTS
-https://8.tutl24.xyz/live/ST9945b3149bac165.m3u8
+http://daleplay.club:80/live/002global/C2MbWrCPz8a9/370732.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DFDoDVG.jpeg" group-title="",TN
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
