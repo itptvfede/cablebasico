@@ -58,8 +58,7 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ervwk18.png" group-title="",SPORT EVENTS
-https://bwfrzq.la10tv.com/espn2/tracks-v1a1/mono.m3u8?remote=201.219.168.171&token=88cad1df4661f419848fcd42f1362dd8efbce608-fdd06cddb193f2246c68c5d9319364e5-1726964228-1726928228
-
+https://off2.hamaradilhai.com:999/hls/wsmkmlfeed107-25963.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bRVbZXj.png" group-title="",GOGOPLAY
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
