@@ -58,17 +58,12 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ervwk18.png" group-title="",SPORT EVENTS
-http://daleplay.club:80/live/002global/C2MbWrCPz8a9/339625
+https://bwfrzq.la10tv.com/espn2/tracks-v1a1/mono.m3u8?remote=201.219.168.171&token=88cad1df4661f419848fcd42f1362dd8efbce608-fdd06cddb193f2246c68c5d9319364e5-1726964228-1726928228
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bRVbZXj.png" group-title="",GOGOPLAY
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4bXsFS1.png" group-title="",CINE PARA TODOS
 https://app.viloud.tv/hls/channel/sep/05824e249d45bc8d7dec6b47a3d520b8/low.m3u8
-
-
-
-
-
-
 
