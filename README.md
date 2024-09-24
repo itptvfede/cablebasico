@@ -51,7 +51,7 @@ https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HTAk9yf.jpeg" group-title="",LPF (SOLO PARTIDOS)
-http://163.172.40.244:8080/aHR0cHM6Ly9kZHk1Lm1pemhscy5ydS9kZHk1L3ByZW1pdW0zODcvdHJhY2tzLXYxYTEvMjAyNC8wOS8yNC8wMC8wNC8zMy0wNDAwNC50cw==.ts
+http://163.172.40.244:8080/aHR0cHM6Ly9kZHk1Lm1pemhscy5ydS9kZHk1L3ByZW1pdW0zODcvdHJhY2tzLXYxYTEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iar0eIb.png" group-title="",MONI TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
