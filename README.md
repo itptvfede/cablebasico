@@ -57,7 +57,7 @@ http://163.172.40.244:8080/aHR0cHM6Ly9kZHk1Lm1pemhscy5ydS9kZHk1L3ByZW1pdW0zODcvd
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ervwk18.png" group-title="",SPORT EVENTS
-https://fdj49sum3z6ht7bp85wg2n.cdnstrength.net:8443/hls/l57xdb4wvi930cf.m3u8?s=lh8FO07DqOayVo_16ml43g&e=1726950831
+http://daleplay.club:80/live/002global/C2MbWrCPz8a9/367912.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bRVbZXj.png" group-title="",GOGOPLAY
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
