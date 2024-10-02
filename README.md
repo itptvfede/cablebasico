@@ -51,7 +51,7 @@ https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HTAk9yf.jpeg" group-title="",LPF (SOLO PARTIDOS)
-https://live.statssportsgoal.com/vivo/1-4054604-0.m3u8?sign=386a491166f997af4bc9443802bb59e4&t=66fca3f7
+https://live.statssportsgoal.com/vivo/1-4054601-0.m3u8?sign=3b0d6fe7227522a22499a5f30b6fa567&t=66fcc75b
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iar0eIb.png" group-title="",MONI TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
