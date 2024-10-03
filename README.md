@@ -2,19 +2,11 @@
 
 LISTA FREE SIN FINES DE LUCRO
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xk3l5JO.jpeg" group-title="",RADIO LA RED SAN LUIS
-https://streamconex.com:8056/stream?
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/24cEEKG.jpeg" group-title="",RADIO MITRE AM 790
-https://27583.live.streamtheworld.com/AM790_56.mp3?dist=onlineradiobox
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QXJSRUI.png" group-title="",TYC
-https://7.tutl24.xyz/live/ST609ab7f8a4d3f2a.m3u8
+http://daleplay.club:80/live/002global/C2MbWrCPz8a9/370732
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XIsc7Iz.png" group-title="",TNT SPORTS
-http://daleplay.club:80/live/002global/C2MbWrCPz8a9/370732.ts
+http://daleplay.club:80/live/002global/C2MbWrCPz8a9/367912
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DFDoDVG.jpeg" group-title="",TN
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
@@ -45,19 +37,19 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JVygfoE.jpeg" group-title="",BIC CHANNEL
-https://fl1002.bozztv.com/ssh101/magic2019/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iwOgNYV.png" group-title="",MIX BOLIVIA
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HTAk9yf.jpeg" group-title="",LPF (SOLO PARTIDOS)
-https://live.statssportsgoal.com/vivo/1-4054601-0.m3u8?sign=3b0d6fe7227522a22499a5f30b6fa567&t=66fcc75b
+https://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iar0eIb.png" group-title="",MONI TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ervwk18.png" group-title="",SPORT EVENTS
-http://daleplay.club:80/live/002global/C2MbWrCPz8a9/367912.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bRVbZXj.png" group-title="",GOGOPLAY
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
