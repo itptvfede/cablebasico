@@ -46,7 +46,7 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 https://7.tutl24.xyz/dash/STe6f666cfe0cd37f.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iar0eIb.png" group-title="",MONI TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+https://fdj49sum3z6ht7bp85wg2n.cdnstrength.net:8443/hls/6cby7ib.m3u8?s=HreIiMDg-WFu1cM1u26LGg&e=1728098039
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ervwk18.png" group-title="",SPORT EVENTS
 http://daleplay.club:80/play/RWy-8CPjtxxgvrudpTa0EoG-Z9mFAu2dOkgIB58L4iTt0eAo058QomrwWidUc8sv
