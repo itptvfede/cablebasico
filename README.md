@@ -49,7 +49,7 @@ https://7.tutl24.xyz/dash/STe6f666cfe0cd37f.mpd
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ervwk18.png" group-title="",SPORT EVENTS
-
+http://daleplay.club:80/play/RWy-8CPjtxxgvrudpTa0EoG-Z9mFAu2dOkgIB58L4iTt0eAo058QomrwWidUc8sv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bRVbZXj.png" group-title="",GOGOPLAY
 https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
