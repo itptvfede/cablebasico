@@ -43,7 +43,7 @@ https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HTAk9yf.jpeg" group-title="",LPF (SOLO PARTIDOS)
-https://
+http://daleplay.club:80/play/RWy-8CPjtxxgvrudpTa0EudYQsCVMgBVQFJ8KwQAxrMTdWKvSuNmHU-lg8053_fy
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iar0eIb.png" group-title="",MONI TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
