@@ -12,7 +12,7 @@ http://daleplay.club:80/live/002global/C2MbWrCPz8a9/367912
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bZXADcj.png" group-title="",CN5
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=NdQSOItOQ5Y
+https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FS88Nb7.png" group-title="",A24
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QGpHLgRnrx4
