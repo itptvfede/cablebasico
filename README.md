@@ -28,3 +28,11 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JVygfoE.jpeg" group-title="",BIG CHANNEL
 https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1JRvbp.jpeg" group-title="",EL NUEVE (SOLO IP ARG)
+https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+
+
+
+
