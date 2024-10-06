@@ -14,6 +14,9 @@ https://7.tutl24.xyz/dash/ST9945b3149bac165.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XnzVxku.jpeg" group-title="",DIREC SPORTS 
 https://7.tutl24.xyz/dash/STe6f666cfe0cd37f.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DFDoDVG.jpeg" group-title="",TB  
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
+
 
 
 
