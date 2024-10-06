@@ -31,8 +31,3 @@ https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1JRvbp.jpeg" group-title="",EL NUEVE (SOLO IP ARG)
 https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-
-
-
-
-
