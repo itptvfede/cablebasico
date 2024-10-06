@@ -39,7 +39,7 @@ https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HTAk9yf.jpeg" group-title="",LPF (SOLO PARTIDOS)
-https://off6.hamaradilhai.com:999/hls/espn1hd-24460.ts
+https://off2.hamaradilhai.com:999/hls/espn1hd-11011.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iwOgNYV.png" group-title="",MIX BOLIVIA
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
