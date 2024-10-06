@@ -44,3 +44,10 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iwOgNYV.png" group-title="",MIX BOLIVIA
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QXJSRUI.png" group-title="",TYC OPC 2
+http://daleplay.club:80/live/002global/C2MbWrCPz8a9/370732
+
+
+
+
+
