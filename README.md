@@ -14,13 +14,13 @@ https://7.tutl24.xyz/dash/ST9945b3149bac165.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XnzVxku.jpeg" group-title="",DIREC SPORTS 
 https://7.tutl24.xyz/dash/STe6f666cfe0cd37f.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DFDoDVG.jpeg" group-title="",TB  
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DFDoDVG.jpeg" group-title="",TN
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Whub9Sg.png" group-title="",ESPN PREMIUM 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nKuMpiJ.png" group-title="",ESPN PREMIUM 
 https://7.tutl24.xyz/dash/STbca216071d5456e.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r5FWInO.png" group-title="",THE SIMPSONS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wnlgp4x.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 
