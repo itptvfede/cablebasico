@@ -10,3 +10,14 @@ https://7.tutl24.xyz/dash/ST609ab7f8a4d3f2a.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XIsc7Iz.png" group-title="",TNT SPORTS 
 https://7.tutl24.xyz/dash/ST9945b3149bac165.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XnzVxku.jpeg" group-title="",DIREC SPORTS 
+https://7.tutl24.xyz/dash/STe6f666cfe0cd37f.mpd
+
+
+
+
+
+
+
+
