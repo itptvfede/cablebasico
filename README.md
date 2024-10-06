@@ -20,6 +20,14 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r5FWInO.png" group-title="",ESPN PREMIUM 
 https://7.tutl24.xyz/dash/STbca216071d5456e.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r5FWInO.png" group-title="",THE SIMPSONS
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+
+
+
+
+
 
 
 
