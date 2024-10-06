@@ -17,6 +17,15 @@ https://7.tutl24.xyz/dash/STe6f666cfe0cd37f.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DFDoDVG.jpeg" group-title="",TB  
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r5FWInO.png" group-title="",ESPN PREMIUM 
+https://7.tutl24.xyz/dash/STbca216071d5456e.mpd
+
+
+
+
+
+
+
 
 
 
