@@ -23,6 +23,11 @@ https://7.tutl24.xyz/dash/STbca216071d5456e.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wnlgp4x.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mdfG3DQ.png" group-title="",LPF PARTIDOS HOY
+https://
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4fwalF0.jpeg" group-title="",CRONICATV
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JVygfoE.jpeg" group-title="",BIG CHANNEL
+https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
