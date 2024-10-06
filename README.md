@@ -49,3 +49,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/13a9tG3.jpeg" group-title="",QUIERO MUSICA
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mAM1GR0.png" group-title="",MAGIC RETRO
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+
