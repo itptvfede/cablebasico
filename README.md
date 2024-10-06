@@ -47,7 +47,6 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QXJSRUI.png" group-title="",TYC OPC 2
 http://daleplay.club:80/live/002global/C2MbWrCPz8a9/370732
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IjKTLFG.jpeg" group-title="",TELEFE (SOLO IP ARG)
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
