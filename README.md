@@ -39,7 +39,7 @@ https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HTAk9yf.jpeg" group-title="",LPF (SOLO PARTIDOS)
-https://live.statssportsgoal.com/vivo/1-4054615-0.m3u8?sign=852841ee64917c4be2072d5b92c75033&t=67034f37
+https://fdj49sum3z6ht7bp85wg2n.cdnstrength.net:8443/hls/6cby7ib.m3u8?s=1V64dA1rkWfr_mWjBpNlHg&e=1728358087
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iwOgNYV.png" group-title="",MIX BOLIVIA
