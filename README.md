@@ -18,7 +18,7 @@ https://7.tutl24.xyz/dash/STe6f666cfe0cd37f.mpd
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nKuMpiJ.png" group-title="",ESPN PREMIUM 
-https://zxzlbnrz.la10tv.com/espnpremium/tracks-v1a1/mono.m3u8?remote=201.219.168.171&token=2450947ba31629790da9ac42e53a300e4fd1751b-89-1728646428-1728610428
+https://d2hpc3rszq.la10tv.com/tntsports/tracks-v1a1/mono.m3u8?remote=201.219.168.171&token=479cc956b327376da9b9644a1c1f50296f20c8f6-42-1728647777-1728611777
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wnlgp4x.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
