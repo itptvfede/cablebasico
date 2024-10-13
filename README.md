@@ -6,7 +6,7 @@ LISTA FREE SIN FINES DE LUCRO
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=jEk25C92JIQ
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QXJSRUI.png" group-title="",TYC
-https://7.tutl24.xyz/dash/ST609ab7f8a4d3f2a.mpd
+https://oopeechae9rah3.coalcannon.com/hls/8b04138eb4f2b49a-4e5d5c8adbad84b04ae867c751ebcd8a6e2671a1d82c2fd26476886e779fb2a20fc7c98889618d594e56e49280581a5373cd7cad2ceb54717393c28d90197557/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XIsc7Iz.png" group-title="",TNT SPORTS 
 https://7.tutl24.xyz/dash/ST9945b3149bac165.mpd
