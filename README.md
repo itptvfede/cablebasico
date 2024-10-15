@@ -53,4 +53,5 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8Mw0YdKN2XY
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mAM1GR0.png" group-title="",MAGIC RETRO
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mAM1GR0.png" group-title="", Futbol 
+https://kwv8semyftqgz46c793hd2.cdnministry.net:8443/hls/qgdzborpo.m3u8?s=oxce5KKhi0RQMfndXFL8dA&e=1729049240
