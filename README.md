@@ -17,9 +17,7 @@ http://181.13.173.86:8000/play/a0a7/index.m3u8
 http://38.123.205.14:8000/play/a0nl/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
-https://off5.jismhaitokia.com:999/hls/espn22.m3u8?md5=XU397QXd-HIAzb_zcYDu1A&expires=1729045349
-
-
+http://200.121.48.17:8000/play/a022/index.m3u8
 
 
 
