@@ -17,7 +17,7 @@ http://181.13.173.86:8000/play/a0a7/index.m3u8
 http://38.123.205.14:8000/play/a0nl/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
-https://off1.jismhaitokia.com:999/hls/testey6-10613.ts
+http://192.168.100.6:30001/file/ynQcvUO7/video.m3u8
 
 
 
