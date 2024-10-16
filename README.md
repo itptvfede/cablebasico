@@ -49,6 +49,3 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HM5Wzkn.jpeg" group-title="",MAGIC RETRO
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-
-
-
