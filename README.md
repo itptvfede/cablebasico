@@ -17,9 +17,7 @@ http://181.13.173.86:8000/play/a0a7/index.m3u8
 http://38.123.205.14:8000/play/a0nl/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(07f27b5e-7e98-98a2-af5a-aa2d6e3ddc0c)/master.mpd
-
-
+http://45.171.64.180:8000/play/a086/index.m3u8
 
 
 
