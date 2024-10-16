@@ -12,15 +12,12 @@ https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U9jFtED.jpeg" group-title="", AMERICA TV 
 http://181.13.173.86:8000/play/a0a7/index.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC
 http://38.123.205.14:8000/play/a0nl/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
 http://
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
-http://
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HP9pzIq.jpeg" group-title="",TELEFE (SOLO IP ARG)
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
@@ -42,4 +39,12 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jzkcB7N.jpeg" group-title="",VARIEDTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 2
+http://
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vHKesRD.jpeg" group-title="",THE SIMPSONS
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
