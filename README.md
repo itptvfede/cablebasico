@@ -40,7 +40,7 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 2
-http://
+http://swiptv.pro/live/tevistv/tevistv/78124.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vHKesRD.jpeg" group-title="",THE SIMPSONS
