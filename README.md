@@ -13,7 +13,7 @@ https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 http://181.13.173.86:8000/play/a0a7/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC
-http://38.123.205.14:8000/play/a0nl/index.m3u8
+http://38.187.2.125:8000/play/a02h
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
 http://
