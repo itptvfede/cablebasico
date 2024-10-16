@@ -28,3 +28,10 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pH9xBQl.jpeg" group-title="",EL NUEVE (SOLO IP ARG)
 https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2MKBSGE.jpeg" group-title="",EL TRECE (SOLO IP ARG)
+https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TTdqIBg.png" group-title="",CANAL 26 
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=MS0QdZ5zvn8
+
