@@ -17,8 +17,7 @@ http://181.13.173.86:8000/play/a0a7/index.m3u8
 http://38.123.205.14:8000/play/a0nl/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
-http://45.171.64.180:8000/play/a086/index.m3u8
-
+https://fdj49sum3z6ht7bp85wg2n.cdnstrength.net:8443/hls/tjw6jpt8n95.m3u8?s=JHe93rv2ioS942VCT-Zk6A&e=1729059385
 
 
 
