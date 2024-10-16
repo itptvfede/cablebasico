@@ -19,7 +19,6 @@ http://38.123.205.14:8000/play/a0nl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
 http://
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
 http://
 
