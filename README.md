@@ -3,7 +3,8 @@
 LISTA FREE SIN FINES DE LUCRO
 
 #EXTINF:-1 tvg-id="ARGENTINA" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_360.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JwHMEjd.jpeg" group-title="",BIG CHANNEL
 https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
