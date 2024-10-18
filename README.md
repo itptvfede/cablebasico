@@ -40,7 +40,8 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 2
-http://186.167.80.82:8126/play/a0g4/index.m3u8
+https://coeld.pricesaskeloadsc.com/espn_premium/tracks-v1a1/mono.m3u8?token=77d76d8fe012aecffdbfca6dff87214bb20bf4ab-61-1729248171-1729212171
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vHKesRD.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
