@@ -35,8 +35,9 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=MS0QdZ5zvn8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6270HnR.png" group-title="",CRONICATV
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jzkcB7N.jpeg" group-title="",VARIEDTV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YrnZPD1.jpeg" group-title="",MIX BOLIVIA TV
+https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 2
 http://novared.pro:8080/live/002global/C2MbWrCPz8a9/339649.ts
