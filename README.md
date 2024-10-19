@@ -65,14 +65,3 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2MKBSGE.jpeg" group-title="",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
