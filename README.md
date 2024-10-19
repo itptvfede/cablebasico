@@ -16,7 +16,7 @@ http://181.13.173.86:8000/play/a0a7/index.m3u8
 http://38.187.2.125:8000/play/a02h
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
-https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
+http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HP9pzIq.jpeg" group-title="",TELEFE (SOLO IP ARG)
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
