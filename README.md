@@ -47,3 +47,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HM5Wzkn.jpeg" group-title="",MAGIC RETRO
 https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/slt514A.png" group-title="",MONI TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+
+
