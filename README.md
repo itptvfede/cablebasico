@@ -52,4 +52,15 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/slt514A.png" group-title="",MONI TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5SfF3SN.jpeg" group-title="",CN5 
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=jEk25C92JIQ
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 3
+http://
+
+
+
+
+
 
