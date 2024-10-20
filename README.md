@@ -57,7 +57,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=jEk25C92JIQ
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 3
-https://live.statssportsgoal.com/vivo/1-4054631-0.m3u8?sign=78d4b65a77fb2a7c8033012df9672dd2&t=6714704b
+https://pub2.dbcast.live/oDTS0km8VGG6ENwHUdlHuw/1729414437/3230312e3231392e3136382e313731/ff660/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xg1Y7rq.png" group-title="",NEO TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
