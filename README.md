@@ -57,8 +57,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=jEk25C92JIQ
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 3
-https://www.youtube.com/embed/CKF3t_D9Ta0
-
+http://38.123.205.14:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xg1Y7rq.png" group-title="",NEO TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
