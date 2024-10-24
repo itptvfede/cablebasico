@@ -66,6 +66,5 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEkORvq.jpeg" group-title="",CINE PARA TODOS
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_16.m3u8
-
+https://app.viloud.tv/hls/channel/sep/099d6fbbccae5b17dd0f93b1d3cde9b8/normal.m3u8
 
