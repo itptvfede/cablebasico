@@ -57,7 +57,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=jEk25C92JIQ
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 3
-http://tv.nousiptv.com:8080/3716721/Diego/18576
+https://fdj49sum3z6ht7bp85wg2n.cdnstrength.net:8443/hls/tyh9ei.m3u8?s=35NGy6pM9MAO4E-31zyIkQ&e=1729835921
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xg1Y7rq.png" group-title="",NEO TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
