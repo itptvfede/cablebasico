@@ -2,7 +2,7 @@
 
 LISTA FREE SIN FINES DE LUCRO
 
-#EXTINF:-1 tvg-id="ARGENTINA" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JwHMEjd.jpeg" group-title="",BIG CHANNEL
@@ -67,4 +67,9 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEkORvq.jpeg" group-title="",CINE PARA TODOS
 https://app.viloud.tv/hls/channel/sep/099d6fbbccae5b17dd0f93b1d3cde9b8/normal.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN OPCION 2
+http://192.141.95.253:8000/play/a009
+
+
 
