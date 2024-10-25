@@ -66,7 +66,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEkORvq.jpeg" group-title="",CINE PARA TODOS
-https://app.viloud.tv/hls/channel/sep/099d6fbbccae5b17dd0f93b1d3cde9b8/normal.m3u8
+https://y2fzdgxl.la10tv.com/lb/espnpremium/index.m3u8?token=56cc813f6d1ed777d301e7674f8916da3ac8af4d-7e-1729878540-1729864140&remote=38.7.222.162
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN OPCION 2
 http://192.141.95.253:8000/play/a009
