@@ -5,15 +5,6 @@ LISTA FREE SIN FINES DE LUCRO
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JwHMEjd.jpeg" group-title="",BIG CHANNEL
-https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U9jFtED.jpeg" group-title="", AMERICA TV 
-http://181.13.173.86:8000/play/a0a7/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC
-http://38.187.2.125:8000/play/a02h
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 
 https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m3u8
@@ -35,41 +26,17 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=MS0QdZ5zvn8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6270HnR.png" group-title="",CRONICATV
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YrnZPD1.jpeg" group-title="",MIX BOLIVIA TV
-https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 2
-http://novared.pro:8080/live/002global/C2MbWrCPz8a9/339649.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vHKesRD.jpeg" group-title="",THE SIMPSONS
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HM5Wzkn.jpeg" group-title="",MAGIC RETRO
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/slt514A.png" group-title="",MONI TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+https://magicstream.ddns.net/magicstream/stream.
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5SfF3SN.jpeg" group-title="",CN5 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=jEk25C92JIQ
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdvca0y.jpeg" group-title="",EVENTOS TV 3
-https://fdj49sum3z6ht7bp85wg2n.cdnstrength.net:8443/hls/tyh9ei.m3u8?s=35NGy6pM9MAO4E-31zyIkQ&e=1729835921
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xg1Y7rq.png" group-title="",NEO TV 
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2MKBSGE.jpeg" group-title="",EL TRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEkORvq.jpeg" group-title="",CINE PARA TODOS
-https://y2fzdgxl.la10tv.com/lb/espnpremium/index.m3u8?token=56cc813f6d1ed777d301e7674f8916da3ac8af4d-7e-1729878540-1729864140&remote=38.7.222.162
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN OPCION 2
-http://192.141.95.253:8000/play/a009
 
 
 
