@@ -28,10 +28,6 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HM5Wzkn.jpeg" group-title="",MAGIC RETRO
-https://magicstream.ddns.net/magicstream/stream.
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5SfF3SN.jpeg" group-title="",CN5 
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=jEk25C92JIQ
 
