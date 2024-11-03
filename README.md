@@ -10,3 +10,13 @@ http://38.187.2.125:8000/play/a02h
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN
 https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xB0yl90.png" group-title="",TNT SPORST
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
+
+
+
+
+
+
