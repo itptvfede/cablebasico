@@ -33,7 +33,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=jEk25C92JIQ
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5SfF3SN.jpeg" group-title="",oooou
-http://www.youtube.com/video/9fkB8aDdSik
+http://www.youtube.com/embed/9fkB8aDdSik
 
 
 
