@@ -15,7 +15,7 @@ https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TTdqIBg.png" group-title="",CANAL 26 NOTICIAS 
-https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=MS0QdZ5zvn8
+https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=9fkB8aDdSik
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6270HnR.png" group-title="",CRONICATV
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
