@@ -61,4 +61,6 @@ https://
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 2
 https://
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mJ9bI6C.jpeg" group-title="",HBO FAMALY
+http://190.95.11.209:8000/play/018
 
