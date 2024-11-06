@@ -37,7 +37,11 @@ https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/slt514A.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JwHMEjd.jpeg" group-title="",BIG CHANNEL
+https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vHKesRD.jpeg" group-title="",THE SIMPSONS
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 
 
