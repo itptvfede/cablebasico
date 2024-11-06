@@ -26,6 +26,7 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pH9xBQl.jpeg" group-title="",EL NUEVE
+http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/6987
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bWJVJpN.jpeg" group-title="",IP
 https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
