@@ -52,3 +52,13 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xg1Y7rq.png" group-title="",NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JFN2xDH.jpeg" group-title="",MIX BOLIVIA TV
+https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 1
+https://
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 2
+https://
+
+
