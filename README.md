@@ -33,4 +33,3 @@ https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HM5Wzkn.jpeg" group-title="",RETRO MAGIC
 https://magicstream.ddns.net/magicstream/stream.m3u8
-
