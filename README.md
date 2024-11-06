@@ -56,7 +56,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 1
-https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 2
 https://
