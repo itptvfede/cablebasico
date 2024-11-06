@@ -27,13 +27,9 @@ https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pH9xBQl.jpeg" group-title="",EL NUEVE
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bWJVJpN.jpeg" group-title="",IP
+https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HM5Wzkn.jpeg" group-title="",RETRO MAGIC
+https://magicstream.ddns.net/magicstream/stream.m3u8
 
