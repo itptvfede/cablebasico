@@ -55,8 +55,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JFN2xDH.jpeg" group-title="",MIX BOLIVIA TV
 https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 1
-https://router.cdn.rcs.net.ar/mnp/americatv/output.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 1 boca vs Godoy cruz
+
+http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/57162
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 2
 https://
