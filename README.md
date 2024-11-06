@@ -44,7 +44,7 @@ https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vHKesRD.jpeg" group-title="",tv prueba
-https://
+http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/48357
 
 
 
