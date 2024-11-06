@@ -49,14 +49,6 @@ http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/48357
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2MKBSGE.jpeg" group-title="",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xg1Y7rq.png" group-title="",NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
