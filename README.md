@@ -22,6 +22,16 @@ https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45fcj1t.png" group-title="",LPF (EVENTOS)
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HP9pzIq.jpeg" group-title="",TELEFE
+https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pH9xBQl.jpeg" group-title="",EL NUEVE
+
+
+
+
+
+
 
 
 
