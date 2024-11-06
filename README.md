@@ -32,4 +32,12 @@ https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pH9xBQl.jpeg" group-title="",EL NUEVE
-http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/6987
+https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/slt514A.png" group-title="",MONITV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+
+
+
+
+
