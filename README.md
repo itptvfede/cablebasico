@@ -66,3 +66,6 @@ http://190.95.11.209:8000/play/018
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qqRYagn.png" group-title="",DISCOVERY CHANNEL
 http://38.41.8.1:8000/play/a07l
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XW7rtEc.png" group-title="",TOONCATS
+https://delivery.cdn.rcs.net.ar/mnp/tooncast/output.mpd
