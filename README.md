@@ -58,6 +58,7 @@ https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 1
 http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/50740
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 2
 https://
 
