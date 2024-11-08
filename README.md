@@ -6,7 +6,7 @@ LISTA FREE SIN FINES DE LUCRO
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC SPORTS
-https://edge-live01-cte.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+https://caeth9oon3die4.eyespeeled.click/hls/1d138da6d2c00035-f921303fc89d04a28f9edcf3835bb0940555753c68ac84e651784cda031670e4/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN
 https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
