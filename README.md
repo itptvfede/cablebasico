@@ -60,7 +60,8 @@ http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/50740
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/elXxSBS.jpeg" group-title="",EVENTOS 2
-https://
+https://tes2.dbcast.live/5Ht4tENUL-kPnknnwO3tmA/1731060067/3230312e3231392e3136382e313731/ff421/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mJ9bI6C.jpeg" group-title="",HBO FAMALY
 http://190.95.11.209:8000/play/018
