@@ -64,7 +64,7 @@ https://tes2.dbcast.live/5Ht4tENUL-kPnknnwO3tmA/1731060067/3230312e3231392e31363
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mJ9bI6C.jpeg" group-title="",HBO FAMALY
-http://190.95.11.209:8000/play/018
+http://181.78.105.146:8800/play/a018
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qqRYagn.png" group-title="",DISCOVERY CHANNEL
 http://38.41.8.1:8000/play/a07l
