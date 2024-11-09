@@ -5,10 +5,5 @@ LISTA FREE SIN FINES DE LUCRO
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN TODO NOTICIAS
 https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC SPORTS
-https://
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" tvg-group="ARGENTINA", CRONICA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://directv.bz/uuid/3436osla/key/36eeffd519c6d36e0f989f72c596a53a
-https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6270HnR.png" group-title="",CRONICA TV
+https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
