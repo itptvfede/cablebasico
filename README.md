@@ -12,4 +12,3 @@ https://
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/cronicatvar.json
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
-
