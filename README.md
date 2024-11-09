@@ -37,5 +37,5 @@ http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/48357
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45fcj1t.png" group-title="",(SOLO PARTIDOS) LPF
-https://off4.jismhaitokia.com:999/hls/espnar-4495.ts
+https://off4.jismhaitokia.com:999/hls/espnar.m3u8?md5=7mCiNN2JMuBr2XUkpryaww&expires=1731190621
 
