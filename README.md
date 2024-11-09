@@ -36,3 +36,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8
 http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/48357
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45fcj1t.png" group-title="",(SOLO PARTIDOS) LPF
+https://tes2.dbcast.live/gHYGfAKa7NtyoOiFkdDCyg/1731211711/3230312e3231392e3136382e313731/ff485/playlist.m3u8
+
+
