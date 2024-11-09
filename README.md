@@ -20,6 +20,12 @@ https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=9fkB8aDdSik
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pH9xBQl.jpeg" group-title="",EL NUEVE
 https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HP9pzIq.jpeg" group-title="",TELEFE
+https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m3u8
+
+
+
+
 
 
 
