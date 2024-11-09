@@ -14,5 +14,5 @@ https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bWJVJpN.jpeg" group-title="",IP
 https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bWJVJpN.jpeg" group-title="",CANAL 26 NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TTdqIBg.png" group-title="",CANAL 26 NOTICIAS
 https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=9fkB8aDdSik
