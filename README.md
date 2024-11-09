@@ -38,3 +38,23 @@ http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/48357
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45fcj1t.png" group-title="",(SOLO PARTIDOS) LPF
 https://live.statssportsgoal.com/vivo/live-1-4054679-0.m3u8?sign=efca67258ec252efa57e8b401bce6b45&t=672ffc67
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vHKesRD.jpeg" group-title="",THE SIMPSONS
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XW7rtEc.png" group-title="",TOONCATS
+https://delivery.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45fcj1t.png" group-title="",(SOLO PARTIDOS) LPF
+https://
+
+
+
+
+
+
+
+
+
+
+
+
