@@ -17,6 +17,27 @@ https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TTdqIBg.png" group-title="",CANAL 26 NOTICIAS
 https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=9fkB8aDdSik
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pH9xBQl.jpeg" group-title="",EL NUEVE
+https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
