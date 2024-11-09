@@ -10,5 +10,5 @@ https://
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wRcv19b/Imagen-dummy.png" tvg-group="ARGENTINA", CRONICA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/cronicatvar.json
+#KODIPROP:inputstream.adaptive.license_key=https://directv.bz/uuid/3436osla/key/36eeffd519c6d36e0f989f72c596a53a
 https://dtvott-abc.akamaized.net/dash_live_1055/manifest.mpd
