@@ -26,6 +26,11 @@ https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U9jFtED.jpeg" group-title="",AMERICATV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/96aa1ef6-3398-446a-ad8a-6ac7462dc7ea:SCL/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2MKBSGE.jpeg" group-title="",ELTRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+
+
 
 
 
