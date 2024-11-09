@@ -35,7 +35,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MvV79aK.jpeg" group-title="",EL CHAVO
 http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/48357
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45fcj1t.png" group-title="",(SOLO PARTIDOS) LPF
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45fcj1t.png" group-title="",(SOLO PARTIDOS) LPF 1
 https://live.statssportsgoal.com/vivo/live-1-4054679-0.m3u8?sign=efca67258ec252efa57e8b401bce6b45&t=672ffc67
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vHKesRD.jpeg" group-title="",THE SIMPSONS
@@ -44,7 +44,7 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XW7rtEc.png" group-title="",TOONCATS
 https://delivery.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45fcj1t.png" group-title="",(SOLO PARTIDOS) LPF
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45fcj1t.png" group-title="",(SOLO PARTIDOS) LPF 2
 https://
 
 
