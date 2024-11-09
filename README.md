@@ -23,10 +23,11 @@ https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HP9pzIq.jpeg" group-title="",TELEFE
 https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zXF5D00/a24.png" tvg-group="ARGENTINA", AMERICA 24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/a24ar.json
-https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U9jFtED.jpeg" group-title="",AMERICATV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/96aa1ef6-3398-446a-ad8a-6ac7462dc7ea:SCL/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
+
+
+
 
 
 
