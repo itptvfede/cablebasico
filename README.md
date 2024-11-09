@@ -7,3 +7,6 @@ https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6270HnR.png" group-title="",CRONICA TV
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5SfF3SN.jpeg" group-title="",CN5
+https://ythls-v3.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
