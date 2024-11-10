@@ -78,7 +78,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_P
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/distheater.webp",Discovery Theater
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=50b848449e373bec925946db30cc0634:a2523f96ee3baee69dc96210d6257a54
-https://youtu.be/N1Tfrn7hMWU
-
+https://ag9wzq.la10tv.com/tycsports/tracks-v1a1/2024/11/10/13/39/05-06006.ts?token=67de3701eebe9e152830315decdde621a5e039ce-f7-1731280726-1731244726
 
 
