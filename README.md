@@ -58,6 +58,3 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC SPORTS
 http://38.187.2.125:8000/play/a02h
-
-
-
