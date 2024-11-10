@@ -28,3 +28,12 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XW7rtEc.png" group-title="",TOONCATS
 https://delivery.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/slt514A.png" group-title="",MONITV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xg1Y7rq.png" group-title="",NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JwHMEjd.jpeg" group-title="",BIG CHANNEL
+https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
