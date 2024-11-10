@@ -22,3 +22,9 @@ https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pH9xBQl.jpeg" group-title="",EL NUEVE
 https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vHKesRD.jpeg" group-title="",THE SIMPSONS
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XW7rtEc.png" group-title="",TOONCATS
+https://delivery.cdn.rcs.net.ar/mnp/tooncast/output.mpd
