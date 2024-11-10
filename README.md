@@ -21,10 +21,3 @@ https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HP9pzIq.jpeg" group-title="",TELEFE
 https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m3u8
 
-
-
-
-
-
-
-
