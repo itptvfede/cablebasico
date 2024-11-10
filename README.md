@@ -78,9 +78,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_P
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/distheater.webp",Discovery Theater
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=50b848449e373bec925946db30cc0634:a2523f96ee3baee69dc96210d6257a54
-http://budtvlight.com:25461/JW2WBkS637f6Vyqpn/av76gFJ1AeEDzXoV2/162417
-
-
+https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live?app=desktop
 
 
 
