@@ -14,9 +14,6 @@ https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TTdqIBg.png" group-title="",CANAL 26 NOTICIAS
 https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=9fkB8aDdSik
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5SfF3SN.jpeg" group-title="",CN5
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
