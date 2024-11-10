@@ -57,7 +57,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC SPORTS
-http://38.41.8.1:8000/play/a0es
+http://38.52.182.236:9000/play/a028
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JFN2xDH.jpeg" group-title="",MIX BOLIVIA TV
 https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
