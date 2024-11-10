@@ -56,7 +56,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/slt514A.png" group-title="",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC SPORTS
+https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 
 
 
