@@ -57,4 +57,17 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC SPORTS
-http://38.187.2.125:8000/play/a02h
+http://38.52.182.236:9000/play/a028
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JFN2xDH.jpeg" group-title="",MIX BOLIVIA TV
+https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mJ9bI6C.jpeg" group-title="",HBO FAMALY
+http://181.78.105.146:8800/play/a018
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HM5Wzkn.jpeg" group-title="",RETRO MAGIC
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RQPl5WW.png" group-title="",CINECANAL
+http://181.13.173.86:8000/play/a0a7/index.m3u8
+
