@@ -37,3 +37,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JwHMEjd.jpeg" group-title="",BIG CHANNEL
 https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JwHMEjd.jpeg" group-title="",prueba
+https://51a.pricesaskeloadsc.com/tntsports_argentina/tracks-v1a1/mono.m3u8?token=f9edd6131e507f945f1f294f2c0eb7f43fcb76de-1b-1731403881-1731367881
