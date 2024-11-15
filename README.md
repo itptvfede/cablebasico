@@ -45,7 +45,7 @@ http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/48357
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4XnvFGu.png" group-title="",BOB ESPOMJA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MvV79aK.jpeg" group-title="",p
-http://www.youtube.com/embed/CKF3t_D9Ta0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MvV79aK.jpeg" group-title="",TYC
+http://directo.ddns.me:2082/vey84549nbvsd200/hb57rh730hdvp/5582
 
 
