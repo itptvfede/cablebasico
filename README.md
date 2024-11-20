@@ -52,7 +52,6 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_1748992=60.m3u8
-
+https://live.statssportsgoal.com/vivo/live-1-4054702-0.m3u8?sign=c2018723d2e09d806cfb8ca2154d8bb5&t=673ead6b
 
 
