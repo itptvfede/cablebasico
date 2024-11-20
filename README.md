@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 LISTA FREE SIN FINES DE LUCRO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN TODO NOTICIAS
@@ -50,5 +49,5 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
-https://theiheizoogh4e.eyespeeled.click/hls/09b7911ab431a8d7-9414d4f2d372bb9c61674d4134f3639c96cea79ba1a4792a00254d5d1a4f2b49/live.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium-avc1_1748992=60.m3u8
 
