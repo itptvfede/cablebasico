@@ -50,5 +50,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
-https://live.statssportsgoal.com/vivo/live-1-4007929-0.m3u8?sign=427be9a873ba1c560dadc4889b5831c2&t=673d632f
+https://off2.jismhaitokia.com:999/hls/tuna3.m3u8?md5=hjwcEvi61H59D9NzFf671A&expires=1732069814
+
+
+
+
 
