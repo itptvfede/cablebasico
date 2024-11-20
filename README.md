@@ -50,7 +50,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
-https://theiheizoogh4e.eyespeeled.click/hls/a25f47abdb91b94251f689df561bc3a02c6f3ccd9b2fa0f61ca29fe07df7ea33df3f071b30945a1b/live.m3u8
+https://xyzdddd.mizhls.ru/lb/premium5/index.m3u8
 
 
 
