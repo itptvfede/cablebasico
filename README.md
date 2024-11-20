@@ -50,8 +50,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
-https://xyzdddd.mizhls.ru/lb/premium5/index.m3u8
-
-
+https://cafe1.dbcast.live/DIkMwB0mjA-P7LLdR4pVsA/1732172850/3230312e3231392e3136382e313731/ff799/playlist.m3u8
 
 
