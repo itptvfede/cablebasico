@@ -51,4 +51,7 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
-https://live.statssportsgoal.com/vivo/live-1-4054702-0.m3u8?sign=7b6b543ddc0800a9281c40b7c9618a29&t=673eade3
+http://38.41.8.1:8000/play/a02i
+
+
+
