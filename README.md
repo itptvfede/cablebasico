@@ -51,5 +51,4 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
-https://anym3u8player.com/p2p-player-generator-jwplayer/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWmPevQBY1QMMzVUZYGbUe1AevqP2nuDbk3Zj4HZcIRchDrIlaquahCzMhMdwhYFWEBma35mT4BbhzgYC/u7u7pH83Oe3DDjRBiS54VpkSUiSfTgAYyMdK29BX7HLmWwc9eZ0Y1+apDXd7slvffIBCm4hPjDOew==
-
+http://181.233.168.4:8282/play/a025
