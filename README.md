@@ -59,7 +59,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_DASH/ESPN.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 4
-https://8.tutl24.xyz/dash/ST609ab7f8a4d3f2a.mpd
+https://live.statssportsgoal.com/vivo/live-1-4054711-0.m3u8?sign=cb8537e4881932f9ade647b8d7276498&t=67468a77
 
 
 
