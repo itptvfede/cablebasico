@@ -23,7 +23,7 @@ https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
 https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pH9xBQl.jpeg" group-title="",EL NUEVE
-https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+http://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vHKesRD.jpeg" group-title="",THE SIMPSONS
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
