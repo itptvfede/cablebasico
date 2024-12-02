@@ -59,5 +59,5 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_DASH/ESPN.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 4
-https://app.viloud.tv/hls/channel/sep/6f529c100fc4a5c5aed5c7dbda95f289/low.m3u8
+https://rok2.dbcast.live/xilSovXM8zs3DxSylc5Fjw/1733201640/3230312e3231392e3136382e313731/ff764/playlist.m3u8
 
