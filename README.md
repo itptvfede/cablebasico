@@ -46,24 +46,22 @@ http://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4XnvFGu.png" group-title="",BOB ESPOMJA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 1
-https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oe7X5Bq.png" group-title="",TNT
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Aphzfxa.png" group-title="",ESPN 1 AR
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_DASH/ESPN.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 4
-https://live.statssportsgoal.com/vivo/live-1-4054729-0.m3u8?sign=fb545bd47df157b004442984524fa04e&t=674e841b
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 1
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
+https://
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 3
 http://38.52.182.236:9000/play/a028
 
 
