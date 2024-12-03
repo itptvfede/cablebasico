@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 LISTA FREE SIN FINES DE LUCRO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UedEMFR.png" group-title="",TN TODO NOTICIAS
@@ -57,6 +56,10 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_DASH/ESPN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2MKBSGE.jpeg" group-title="",ELTRECE
 http://router.cdn.rcs.net.ar/mnp/el13/output.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jzkcB7N.jpeg" group-title="",VARIEDTV
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 1
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8
