@@ -65,7 +65,7 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
-https://d8.jisdeshmaiganga.com:999/hls/espnar.m3u8?md5=w9RycqSzUysOzBwPknMyvQ&expires=1733284185
+https://app.viloud.tv/hls/channel/sep/6f529c100fc4a5c5aed5c7dbda95f289/low.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 3
 http://38.52.182.236:9000/play/a028
