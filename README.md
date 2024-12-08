@@ -67,5 +67,19 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 2
 https://app.viloud.tv/hls/channel/sep/6f529c100fc4a5c5aed5c7dbda95f289/low.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9hn0bgs.png" group-title="",FUTBOL EVENTOS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC SPORTS
 http://38.52.182.236:9000/play/a028
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U9jFtED.jpeg" group-title="",AMERICATV
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dri7fMP.png" group-title="",CINEMAX
+https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+
+
+
