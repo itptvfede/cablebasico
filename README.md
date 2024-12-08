@@ -79,6 +79,14 @@ https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ddp7Jx8.png" group-title="",HBO FAMILY
 http://38.52.182.236:9000/play/a086
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEkORvq.jpeg" group-title="",CINE PARA TODOS
+http://
+
+
+
+
+
+
 
 
 
