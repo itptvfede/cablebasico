@@ -73,12 +73,18 @@ http://38.52.182.236:9000/play/a028
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U9jFtED.jpeg" group-title="",AMERICATV
 https://router.cdn.rcs.net.ar/mnp/america/output.mpd
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dri7fMP.png" group-title="",CINEMAX
 https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ddp7Jx8.png" group-title="",HBO FAMILY
+http://38.52.182.236:9000/play/a086
+
+
+
+
+
+
+
 
 
 
