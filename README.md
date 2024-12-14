@@ -65,7 +65,9 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zDiD8H8.png" group-title="",FUTBOL EVENTOS 2
-https://
+https://vt-osoi7r4b.sportcdn.live/live/live-1-4139884-2.m3u8?txSecret=8c0d0739dc624935e562a7bbba6f500d&txTime=675de9d5
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDSw5Ib.jpeg" group-title="",TYC SPORTS
 http://38.52.182.236:9000/play/a028
