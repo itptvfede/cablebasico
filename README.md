@@ -82,8 +82,7 @@ https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 http://38.52.182.236:9000/play/a086
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEkORvq.jpeg" group-title="",CINE PARA TODOS
-http://181.78.23.26:45000/play/a03w
-
+https://app.viloud.tv/hls/channel/sep/b02b9a444086c6aca39545d60f99fe01/low.m3u8
 
 
 
