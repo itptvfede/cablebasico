@@ -17,5 +17,5 @@ https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 1
-https://director.shoeshopping.top/v1/variant/VE1ZWNydW9zX2RlMzZkNWM3Nzk0OC0wZDBiLTc2NTQtNGZiNy0xZTYyODcwZQ.m3u8?md5=GGL6UFyGk6rAi_WimW6kIQ&expires=1738208559
+http://38.187.11.145:8000/play/a098
 
