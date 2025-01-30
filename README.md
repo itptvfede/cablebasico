@@ -12,6 +12,16 @@ https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
 https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/svwXVRx.jpeg" , SONY CHANNEL
+https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
+
+
+
+
+
+
+
+
 
 
 
