@@ -21,7 +21,7 @@ https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 http://38.187.11.145:8000/play/a098
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 2
-http://181.119.86.1:8000/play/a05l
+https://caeth9oon3die4.eyespeeled.click/hls/9756ea482c21aa30-e021dc955ace08160674ab2a7f2e125a9124a65ee7999e76461842cd4281f864/live.m3u8
 
 
 
