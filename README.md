@@ -17,10 +17,10 @@ https://telefegoogle1.akamaized.net/hls/live/2037988/googleADI/TOK/master-dai2.m
 https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mLgzt1p.png" , TYC INT
 http://38.187.11.145:8000/play/a098
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 2
+#EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 1
 http://181.225.190.54:8000/play/a036
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/amtsHiB.jpeg" , CANAL FX
