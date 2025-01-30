@@ -26,6 +26,12 @@ http://181.225.190.54:8000/play/a036
 #EXTINF: -1 tvg-logo="https://i.imgur.com/amtsHiB.jpeg" , CANAL FX
 https://router.cdn.rcs.net.ar/mnp/fx/output.mpd
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ep4xdlG.jpeg" , THE SIMPSONS
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+
+
+
 
 
 
