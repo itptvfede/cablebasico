@@ -30,10 +30,5 @@ https://router.cdn.rcs.net.ar/mnp/fx/output.mpd
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 
-
-
-
-
-
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qQjGXNo.jpeg" , DISCOVERY CHANNEL
+https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
