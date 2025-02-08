@@ -21,7 +21,7 @@ https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 http://38.187.11.145:8000/play/a098
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 1
-http://181.225.190.54:8000/play/a036
+http://181.225.190.54:8000/play/a036/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/amtsHiB.jpeg" , CANAL FX
 https://router.cdn.rcs.net.ar/mnp/fx/output.mpd
@@ -39,5 +39,5 @@ https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KmzkbmR.jpeg" , MIX BOLIVIA
 https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 2
+http://45.5.151.151:8000/play/a0fe/index.m3u8
