@@ -36,4 +36,8 @@ https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QoS8TuE.jpeg" , ELTRECE
 https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KmzkbmR.jpeg" , MIX BOLIVIA
+https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
+
+
 
