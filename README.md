@@ -41,3 +41,8 @@ https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 2
 http://45.5.151.151:8000/play/a0fe/index.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 3
+http://imaxplay.net/live/510cuenta000/PVSNR/216295.ts
+
