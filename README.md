@@ -44,7 +44,7 @@ http://45.5.151.151:8000/play/a0fe/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 3
-http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/84861.ts
+http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9608.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 4
 http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9516.ts
