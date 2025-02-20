@@ -21,7 +21,7 @@ https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 http://38.187.11.145:8000/play/a098
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 1
-http://veotv.site/live/sergio2024/sergio2024/794613.ts
+http://62.182.83.129//live/5MUK2Fhqtq/wqq6nhKF4W/583609.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/amtsHiB.jpeg" , CANAL FX
 https://router.cdn.rcs.net.ar/mnp/fx/output.mpd
