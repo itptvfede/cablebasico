@@ -49,5 +49,5 @@ http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9608.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 4
 http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9516.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 5
-http://kaelusplus.com:8080/pvs2023/ppfaa6r24m/540
+http://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8?
 
