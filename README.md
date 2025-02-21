@@ -49,5 +49,5 @@ http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9608.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 4
 http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9516.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 5
-http://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8?
+http://edge-live12-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzQwMzI0MDc2Iiwic2lwIjoiMjAxLjIxOS4xNjguMTcxIiwicGF0aCI6Ii9saXZlL2MzZWRzL0ZveFNwb3J0czNIRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMThhNmFlMjc3MDA2ZTRjYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHA6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNjUiLCJzb3VyY2VzIjpbODUsMTQ0LDE0Niw4OF19.yu31M9Udoii2sfo412wjQ__Ne_UwcA-lV1_NTtWCB3fIkixoMUgQpKkzCAN0emXlyVfTpnfEX5UQR5x3H3vj3w==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
 
