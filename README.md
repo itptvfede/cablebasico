@@ -49,5 +49,5 @@ http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9608.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 4
 http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9516.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 5
-http://62.182.83.129//live/5MUK2Fhqtq/wqq6nhKF4W/575731.ts
+http://moontoolsplayer.me:8080/live/Ludochris/rUesCrfHamCz/1595855.ts
 
