@@ -50,5 +50,6 @@ http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9608.ts
 http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9516.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 5
-http://imaxplay.net:80/live/Pancho/JEMGV/588132.ts
+http://45.5.151.151:8000/play/a0nz/index.m3u8
+
 
