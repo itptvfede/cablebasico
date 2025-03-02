@@ -48,6 +48,7 @@ http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9608.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 4
 http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9516.ts
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 5
-http://moontoolsplayer.me:8080/live/peter2/hshd3ydh/1595856.ts
+http://imaxplay.net:80/live/Pancho/JEMGV/588132.ts
 
