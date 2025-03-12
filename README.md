@@ -47,7 +47,7 @@ http://45.5.151.151:8000/play/a0fe/index.m3u8
 http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9608.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 4
-http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9516.ts
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO0QmM3U2N2MmNlRTL5IWNh1iZhRDNtITN0MWLkNjN1cDNwM2L.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 5
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yM2ATOzEGN2cDN0kTLkV2Mi1SOzgDNtE2MkFWL4UzNxYmY5kzL.m3u8
