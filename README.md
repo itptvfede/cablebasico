@@ -50,6 +50,6 @@ http://tv.zapping.life:8080/live/luisascagnz1/qPWYMvHwQK/9608.ts
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO0QmM3U2N2MmNlRTL5IWNh1iZhRDNtITN0MWLkNjN1cDNwM2L.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f0nSQib.png" , EVENTOS 5
-http://u.m3uts.xyz/stream/hls/952.m3u8
+http://ts2.tvcluboficial.com/ts/ESPNPremium_HD/_1172660.ts?ul
 
 
