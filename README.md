@@ -7,7 +7,7 @@ https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eVPLZsT.png" , ELTRECE
 https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fR0oRrL.png" , ELNUEVE
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , ELNUEVE
 https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nFWwCix.png" , TVP
