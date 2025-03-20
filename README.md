@@ -4,5 +4,5 @@
 #EXTINF: -1 tvg-logo="https://i.imgur.com/T2QcgWW.png" , TN 
 https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5G2AtJn.png" ,THE SIMPSONS
-https://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eVPLZsT.png" , ELTRECE
+https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
