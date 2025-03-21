@@ -14,6 +14,6 @@ https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 https://g4.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , ELNUEVE
-http://181.78.1.190:8000/play/a1b8
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
 
 
