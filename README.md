@@ -20,9 +20,6 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , s
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
 
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nFWwCix.png" , TVPhh777
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv
-
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
