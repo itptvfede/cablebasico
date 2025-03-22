@@ -22,7 +22,7 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nFWwCix.png" , TVPhh
-http://38.51.234.86:8000/play/a04h/index.m3u8
+http://38.51.234.86:8000/play/
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/T2QcgWW.png" , TN youtube
