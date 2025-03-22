@@ -22,7 +22,7 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nFWwCix.png" , TVPhh
-http://38.51.234.86:8000/play/a04h
+http://38.180.133.31:8000/play/a0t4/index.m3u8
 
 
 
