@@ -17,7 +17,7 @@ https://g4.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , s
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KcH3g1q.png" ,TYC SOLO EVENTOS
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
 
 
