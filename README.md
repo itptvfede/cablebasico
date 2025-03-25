@@ -20,8 +20,9 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KcH3g1q.png" ,TYC SOLO EVENTOS
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , tnt
-https://smcdn02.trimi.com.ar/live/sm-live/TNT/sa_live_dash/TNT.mpd
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , OP
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b131769307717666dd4b364958&sid=ba5t1l1xb21925953729666dd4b4dc792&ndvc=0
+
 
 
 
