@@ -21,8 +21,6 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , OP
-http://177.8.76.2:8000/play/a0qx
-
-
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NzM1YjZlYTRkODRjLWI4MWEtNmVkNC04Y2NlLTJiNWQxYTk5/master.m3u8?md5=pANWDlqRXFy2-8khOhGL7A&expires=1742945139
 
 
