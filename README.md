@@ -20,4 +20,12 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KcH3g1q.png" ,TYC SOLO EVENTOS
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , tnt
+http://181.78.1.190:8000/play/a15e
+
+
+
+
+
+
 
