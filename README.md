@@ -23,4 +23,5 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , OP
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SOxkDNyIWZ0cDN1ATLzYGOh1CO3QGNtITOxkTLiNWZwEmNkdzL.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , OP2
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYkVjN4EmZyQWZzMWLihDMh1SZ0UDNtMzM1kTLlRWZyMmMmJzL.m3u8
