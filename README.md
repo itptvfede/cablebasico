@@ -28,3 +28,7 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , OP4
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzkTOxQDOxITY3kTL4MGM40COyYGNtYGO0QWLzIWZxUjNzczL.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7deW6QI.png" , OP5
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
