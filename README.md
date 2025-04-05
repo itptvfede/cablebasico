@@ -22,7 +22,7 @@ https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vStd2sN.png" , EVENTOS 1
-http://
+http://190.93.229.18:8000/play/a1az
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UHS69b2.png" , CANAL 26
 https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
