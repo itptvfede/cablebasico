@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kzrZ9U0.png" , TN 
 https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 
@@ -24,4 +23,3 @@ https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vStd2sN.png" , EVENTOS 1
 http://190.104.67.55:234/play/a05y/index.m3u8
-
