@@ -30,5 +30,8 @@ https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/I7gsz0f.png" , NACION
 http://190.104.67.55:234/play/a05y/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vStd2sN.png" , EVENTOS 2
+http://38.41.8.1:8000/play/a0vo
+
 
 
