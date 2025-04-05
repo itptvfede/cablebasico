@@ -16,10 +16,11 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vxqI5eT.png" , MONITV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/1lwG48u.png" , CANAL SPACE
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4RVnPs5.png" , CANAL SPACE
 https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lW8PMig.png" , SONY CHANNEL
+https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 
 
