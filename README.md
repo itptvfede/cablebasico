@@ -36,7 +36,7 @@ http://200.106.63.76:8000/play/a0mg/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/erju717.png" , GOLDEN PLUS
 http://181.78.1.190:8000/play/a1bj
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/erju717.png" , GOLDEN
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hk3M0S0.png" , GOLDEN
 http://190.93.229.18:8000/play/a1ap
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FPBH1WY.png" , BITME
