@@ -21,7 +21,7 @@ https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lW8PMig.png" , SONY CHANNEL
 https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/vStd2sN.png" , EVENTOS 1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qhRVLtw.png" , TEENNICK
 http://190.93.229.18:8000/play/a1az
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UHS69b2.png" , CANAL 26
