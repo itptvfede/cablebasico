@@ -42,3 +42,5 @@ http://190.93.229.18:8000/play/a1ap
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FPBH1WY.png" , BITME
 http://38.44.109.41:8003/play/a00f
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FPBH1WY.png" , HBO FAMILY
+http://45.59.149.54:8004/play/s1850
