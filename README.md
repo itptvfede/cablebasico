@@ -34,8 +34,7 @@ http://190.104.67.55:234/play/a05y/index.m3u8
 http://200.106.63.76:8000/play/a0mg/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uP2M3A8.png" , EVENTOS 1
-http://138.99.179.229:8000/play/a0mh/index.m3u8
-
+http://181.78.50.91:4000/play/a05u/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hk3M0S0.png" , GOLDEN
 http://190.93.229.18:8000/play/a1ap
