@@ -34,7 +34,7 @@ http://190.104.67.55:234/play/a05y/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uP2M3A8.png" , EVENTOS 1
-http://181.209.194.14:8000/play/a05s/index.m3u8
+https://vt-osoi7r4b.sportcdn.live/live/live-1-4307098-0.m3u8?txSecret=a7d261d39cfd45835aff15b36ef3ee8b&txTime=67f5e15d
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hk3M0S0.png" , GOLDEN
