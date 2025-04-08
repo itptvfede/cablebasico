@@ -34,7 +34,7 @@ http://190.104.67.55:234/play/a05y/index.m3u8
 http://200.106.63.76:8000/play/a0mg/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/erju717.png" , GOLDEN PLUS
-http://181.78.106.127:9000/play/ca078/index.m3u8
+http://45.189.62.33:8001/play/a01s/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hk3M0S0.png" , GOLDEN
 http://190.93.229.18:8000/play/a1ap
