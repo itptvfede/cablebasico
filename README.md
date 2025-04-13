@@ -31,7 +31,7 @@ https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
 http://190.104.67.55:234/play/a05y/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vStd2sN.png" , CRONICAN2
-http://200.106.13.204:8000/play/a152/index.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uP2M3A8.png" , EVENTOS 1
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/7a3a127b-6455-401f-8ab3-6781ac97403e:SCL/master.m3u8
