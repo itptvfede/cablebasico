@@ -13,9 +13,17 @@ http://190.104.67.98:234/play/a07b/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 1
 http://
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YcahSUi.png" , C5N
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EUS2f1m.jpeg" , C5N
 http://190.104.67.41:234/play/a05v/index.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 2
 http://
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN
+http://190.104.67.2:234/play/a097/index.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 3
+http://
+
+
