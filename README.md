@@ -12,7 +12,9 @@ http://190.104.67.98:234/play/a07b/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 1
 http://
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YcahSUi.png" , C5N
+http://190.104.67.41:234/play/a05v/index.m3u8
 
 
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 2
+http://
