@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Dzlhaug.jpeg" , TVP
 https://g4.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
@@ -22,14 +23,11 @@ http://
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN
 http://190.104.67.2:234/play/a097/index.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 3
 http://
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qy5nUxO.jpeg" , A24
 http://190.104.67.52:234/play/a05u/index.m3u8
 
-
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1yaFgAK.jpeg" ,TYC
+http://190.104.67.42:234/play/a06x/index.m3u8
