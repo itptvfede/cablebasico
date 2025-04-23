@@ -1,9 +1,4 @@
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="" tvg-name="EVENTOS" tvg-logo="https://i.imgur.com/oG6SB2Z.png" group-title="EVENTOS",EVENTOS 1
-
-#EXTINF:0 tvg-id="" tvg-name="EVENTOS" tvg-logo="https://i.imgur.com/oG6SB2Z.png" group-title="EVENTOS",EVENTOS 2
-
-#EXTINF:0 tvg-id="" tvg-name="ELTRECE" tvg-logo="https://i.imgur.com/JTtdy8f.png" group-title="VARIOS",ELTRECE
-http://190.104.67.98:234/play/a07b/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/peuwhxP.png" , TVP
+https://g4.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
