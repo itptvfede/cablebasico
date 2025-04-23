@@ -27,3 +27,9 @@ http://190.104.67.2:234/play/a097/index.m3u8
 http://
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qy5nUxO.jpeg" , A24
+http://190.104.67.52:234/play/a05u/index.m3u8
+
+
+
+
