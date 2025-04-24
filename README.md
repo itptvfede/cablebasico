@@ -11,7 +11,7 @@ http://186.125.218.195:13000/play/a01q/index.m3u8
 http://190.104.67.98:234/play/a07b/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 1
-http://181.198.67.62:8000/play/a0te
+http://45.71.254.1:8000/play/a0oh/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EUS2f1m.jpeg" , C5N
 http://190.104.67.41:234/play/a05v/index.m3u8
@@ -25,7 +25,7 @@ http://190.104.67.2:234/play/a097/index.m3u8
 http://190.104.67.52:234/play/a05u/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1yaFgAK.jpeg" ,TYC
-http://200.59.188.3:8000/play/a0th
+http://38.49.128.38:8000/play/a0kw/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ms2vr4t.jpeg" ,AMERICA TV
 http://181.209.95.29:8000/play/a0a7/index.m3u8
@@ -35,4 +35,3 @@ https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c81a7b2
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 3
 http://181.78.78.66:8000/play/a0at
-
