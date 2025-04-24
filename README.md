@@ -22,9 +22,6 @@ http://190.104.67.41:234/play/a05v/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN
 http://190.104.67.2:234/play/a097/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 3
-http://
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qy5nUxO.jpeg" , A24
 http://190.104.67.52:234/play/a05u/index.m3u8
 
@@ -36,4 +33,7 @@ http://181.209.95.29:8000/play/a0a7/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN OP 2
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c81a7b21-4a91-4447-9023-aedfba62fcf0:SCL/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 3
+http://181.78.78.66:8000/play/a0at
 
