@@ -30,4 +30,5 @@ http://
 http://190.104.67.52:234/play/a05u/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1yaFgAK.jpeg" ,TYC
-http://190.104.67.42:234/play/a06x/index.m3u8
+http://45.171.64.30:8800/play/a08m
+
