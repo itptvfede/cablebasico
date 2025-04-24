@@ -12,7 +12,7 @@ http://186.125.218.195:13000/play/a01q/index.m3u8
 http://190.104.67.98:234/play/a07b/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Oot98NU.jpeg" , EVENTOS 1
-https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
+http://live.superteve.com:33527/livetv/9Wu6os8Dmg/156156
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EUS2f1m.jpeg" , C5N
 http://190.104.67.41:234/play/a05v/index.m3u8
