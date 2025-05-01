@@ -8,7 +8,7 @@ https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 http://190.104.67.55:234/play/a05y/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rTAO1nZ.jpeg" , TEEN NICK 
-http://45.173.72.26:2072/play/a09i
+http://45.4.169.50:8000/play/a06r
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EUS2f1m.jpeg" , C5N
 http://190.104.67.41:234/play/a05v/index.m3u8
