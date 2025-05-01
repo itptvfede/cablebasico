@@ -1,11 +1,11 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN OP 2
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN 
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN OP 1
-http://190.104.67.2:234/play/a097/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/r8NPmtJ.jpeg" , NACION 
+http://190.104.67.55:234/play/a05y/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rTAO1nZ.jpeg" , TEEN NICK 
 http://38.246.75.0:8000/play/a01p/index.m3u8
