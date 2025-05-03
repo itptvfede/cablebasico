@@ -15,5 +15,3 @@ http://190.104.67.41:234/play/a05v/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EUS2f1m.jpeg" , C5N
 http://45.181.122.46:8090/play/a017
-
-
