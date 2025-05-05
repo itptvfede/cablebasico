@@ -13,4 +13,4 @@ http://190.96.112.22:9202/play/a01q/index.m3u8
 http://190.104.67.41:234/play/a05v/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EUS2f1m.jpeg" , tv
-http://190.104.67.2:9202/play/a0cy
+http://45.5.119.43:4000/play/a03k/index.m3u8
