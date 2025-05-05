@@ -1,8 +1,5 @@
 #EXTM3U
 
-
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN 
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
@@ -16,4 +13,4 @@ http://190.96.112.22:9202/play/a01q/index.m3u8
 http://190.104.67.41:234/play/a05v/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EUS2f1m.jpeg" , tv
-http://190.104.67.2:234/play/a0cy/index.m3u8
+http://190.104.67.2:234/play/a0cy
