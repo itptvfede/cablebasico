@@ -19,3 +19,9 @@ http://190.104.67.41:234/play/a05v/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LKf2xDb.jpeg" ,MONITV
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1yaFgAK.jpeg" ,TYC
+http://181.233.168.50:6004/play/TyC
+
+
+
+
