@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WdQY8R6.png" ,EVENTOS
-http://ts8.tvcluboficial.com/ts/ElChavoDel8/_594528.ts
+http://e10.cdnfree.cloud:2052/free10/067/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN 
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
