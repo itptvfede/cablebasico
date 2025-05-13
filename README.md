@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WdQY8R6.png" ,EVENTOS
-http://magmaplayer.com/stream/secure/BGZ3KmR2BI8kBQRhZGR1YwR3ZF4lAQOsZGp0AGV4.m3u8
+http://ts2.tvcluboficial.com/ts/Cine247_Infantil/_678518.ts
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN 
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
