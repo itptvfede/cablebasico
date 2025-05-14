@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WdQY8R6.png" ,EVENTOS
-http://e10.cdnfree.cloud:2052/free10/067/chunks.m3u8
+http://smt-edge04.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0DMavai.jpeg" , TN 
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
