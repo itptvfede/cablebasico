@@ -22,4 +22,5 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1yaFgAK.jpeg" ,TYC
 http://181.78.78.66:8000/play/a0ch
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1yaFgAK.jpeg" ,tn2
+https://m.youtube.com/watch?v=cb12KmMMDJA
